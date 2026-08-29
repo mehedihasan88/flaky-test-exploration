@@ -1,0 +1,1212 @@
+Score,Project URL,SHA,Module,Total Tests,OD Tests,ID Tests,Categories,Statuses
+950,https://github.com/alibaba/alibabacloud-tairjedis-sdk,f6215930b9e21a5252c95296d9924b3c4524d9f6,.,470,134,0,NOD; OD,-
+459,https://github.com/kiegroup/jbpm,f7e80e82b7670c09485ce83869a287ef51dcb59c,jbpm-case-mgmt/jbpm-case-mgmt-impl,227,0,227,ID,-
+267,https://github.com/pholser/junit-quickcheck,9361b6dae25b193782604d071754eb7fc566390a,core,131,0,6,ID; ID;NIO; NIO; NIO;OD,Accepted; Deleted
+235,https://github.com/kiegroup/jbpm,f7e80e82b7670c09485ce83869a287ef51dcb59c,jbpm-services/jbpm-kie-services,115,0,115,ID,Opened
+187,https://github.com/apache/ignite-3,a1aa7fd4e2398c72827777ec5417d67915ff4da3,modules/storage-rocksdb,91,0,91,ID,Accepted; Deleted; MovedOrRenamed
+184,https://github.com/j256/ormlite-core,632b87c2a455b8eab4a6c09324e1f166273588d8,.,87,87,0,OD-Vic,Accepted
+183,https://github.com/apache/ignite-3,a1aa7fd4e2398c72827777ec5417d67915ff4da3,modules/storage-page-memory,89,0,89,ID,Deleted
+178,https://github.com/alibaba/wasp,b2593d8e4b31ca6da0cd2f3e18356338d9b6dace,.,74,13,26,ID; NOD; OD; TD,Unmaintained
+167,https://github.com/apache/incubator-kie-drools,8440dc2d4b95412a05a3c7b9501993e1ace9b496,drools-model/drools-model-codegen,81,0,81,ID,Accepted
+165,https://github.com/google/guava,a197d99b96d69ea75a2c4a15ecd8a730dd3270d6,guava-test,80,0,80,ID,DeveloperWontFix; Rejected
+157,https://github.com/apache/dubbo,3a2d233822f7b7999af4ba295b80578485503709,dubbo-config/dubbo-config-spring,76,0,76,ID,Accepted; Opened
+154,https://github.com/OpenHFT/Chronicle-Wire,a4dfcb6885ce468a64f6a3ceb5e4e16bb858ed2e,.,72,0,72,ID,Accepted; DeveloperWontFix; Rejected
+153,https://github.com/apache/jackrabbit-oak,0440e096dc7a460d206c77a5f178796db31a0ef4,oak-auth-ldap,74,0,74,ID,-
+145,https://github.com/abel533/Mapper,3c0b3307011fad53f811e08d05147d94fc6c0d67,base,70,70,0,OD; OD-Vic,Accepted; Opened
+145,https://github.com/apache/dubbo,58d738682f02f0a315d72857b594eb9eace5e13d,dubbo-config/dubbo-config-api,70,0,70,ID,Accepted; Opened
+133,https://github.com/apache/ignite-3,a1aa7fd4e2398c72827777ec5417d67915ff4da3,modules/configuration,64,0,64,ID,Accepted; Deleted; DeveloperFixed; MovedOrRenamed; MovedToGradle
+123,https://github.com/apache/flink,eaffd227d853e0cdef03f1af5016e00f950930a9,flink-table/flink-table-planner,59,0,59,ID,DeveloperWontFix; Opened
+123,https://github.com/vojtechhabarta/typescript-generator,caef58bfe55a8cd1fc5d7368c19e9ff818a7b7fa,typescript-generator-core,59,0,59,ID,Accepted; DeveloperWontFix; Rejected
+114,https://github.com/alibaba/fastjson,e05e9c5e4be580691cc55a59f3256595393203a1,.,42,15,23,ID; NDOD; NOD; OD,Accepted; Opened; RepoArchived
+113,https://github.com/TooTallNate/Java-WebSocket,fa3909c391195178ccf5a92d4ac342a30ae247c8,.,54,0,0,NDOD; NDOD;OD-Vic;TD; NDOD;TD; TD,MovedOrRenamed
+111,https://github.com/google/gson,e685705b2bf3ae174958612a185bd231c0e0c5d9,gson,53,0,53,ID,DeveloperWontFix
+109,https://github.com/apache/hadoop,a585a73c3e02ac62350c136643a5e7f6095a3dbb,hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-router,52,52,0,OD,Opened
+107,https://github.com/apache/hadoop,a585a73c3e02ac62350c136643a5e7f6095a3dbb,hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core,51,51,0,OD,-
+107,https://github.com/google/TestParameterInjector,5d67f8cb66481638bcd117227bd0103c32c84491,junit4,51,0,51,ID,Accepted
+105,https://github.com/apache/dubbo,737f7a7ea67832d7f17517326fb2491d0a086dd7,dubbo-config/dubbo-config-api,50,7,0,NIO; NOD; OD-Brit; OD-Vic; TD; UD,Accepted; Deleted; DeveloperFixed; MovedOrRenamed
+101,https://github.com/google/guava,a197d99b96d69ea75a2c4a15ecd8a730dd3270d6,guava-testlib,48,0,48,ID,DeveloperWontFix; Rejected
+100,https://github.com/Adyen/adyen-java-api-library,6fb5cd049b57a22d2ec4465d204c15f1c90dd325,.,45,0,45,ID,Accepted
+99,https://github.com/Thomas-S-B/visualee,88732d9dbe5031dad9c9f85a4c4b35e5f1551f95,visualee,47,47,0,OD,Opened
+99,https://github.com/swagger-api/swagger-core,5186247f9c9703bd962f9df95289bb942a648398,modules/swagger-jaxrs2,47,0,47,ID,Accepted; DeveloperFixed
+97,https://github.com/IBM/vpc-java-sdk,507bae6ab1b9fac6ae5e82bb76b1456ae5aea788,modules/vpc,46,0,46,ID,Opened
+97,https://github.com/apache/activemq,dfd35d89f62558881bda1ed4cf7a165502c5c989,activemq-stomp,46,0,46,ID,Accepted
+95,https://github.com/alibaba/innodb-java-reader,24a95d8005d480d460c3004fad89cfa295b9cbb4,innodb-java-reader,45,0,45,ID,Accepted
+95,https://github.com/apache/iotdb,f94f99a48281519ddf156ba67cd1825d1491557c,iotdb-core/datanode,45,0,45,ID,DeveloperFixed; Opened
+93,https://github.com/wildfly/wildfly,b19048b72669fc0e96665b1b125dc1fda21f5993,naming,44,44,0,OD-Brit; OD-Vic,Accepted
+92,https://github.com/spring-projects/spring-hateoas,6be1cc607ecde44d469640f187deeeffa1211579,.,41,0,41,ID,Opened
+91,https://github.com/vmware/admiral,24c9ac00953b144de0a4de13847561f9bf58e648,request,43,0,43,ID,RepoArchived
+88,https://github.com/GoogleCloudPlatform/DataflowTemplates,5094c7b39de511c9ed441d9fde28553a88f68e4b,.,39,0,39,ID,Accepted; MovedOrRenamed; Opened
+87,https://github.com/apache/ozone,eb7136df7b53c77e239e82ff9d9d8063774fc717,hadoop-hdds/container-service,41,41,0,OD,-
+87,https://github.com/apache/pinot,ecf41be2ecd007853c2db19e1c6a038cf356cb9e,pinot-core,41,0,41,ID,Accepted; DeveloperFixed; InspiredAFix; Opened
+87,https://github.com/apache/servicecomb-java-chassis,eb2961c6b4339c1c34622241cfb5f730fcd35a13,swagger/swagger-generator,41,0,41,ID,Accepted; Deleted; DeveloperFixed
+86,https://github.com/json-iterator/java,6925cf4c19d313504b416f58a349a36bf563e0e1,.,28,20,8,ID; OD,Opened; Unmaintained
+85,https://github.com/spring-cloud/spring-cloud-consul,b6e808610684d47b42511f64ff195628994ed57f,spring-cloud-consul-discovery,40,0,40,ID,-
+84,https://github.com/spring-projects/spring-data-r2dbc,c1a2be67be5da684f13a9367e00029ce09c98f42,.,37,0,37,ID,InspiredAFix; MovedOrRenamed
+81,https://github.com/apache/tinkerpop,8bfdf50778e29d98c6554a01688fc5cc34524522,gremlin-core,38,0,38,ID,Accepted
+81,https://github.com/apache/tinkerpop,8bfdf50778e29d98c6554a01688fc5cc34524522,gremlin-util,38,0,38,ID,Accepted
+81,https://github.com/spring-attic/spring-security-oauth,0344de8cc75055742f638b1e476a646a6f5891d9,spring-security-oauth2,38,0,38,ID,RepoArchived
+79,https://github.com/apache/ignite-3,a1aa7fd4e2398c72827777ec5417d67915ff4da3,modules/storage-api,37,0,37,ID,Deleted
+79,https://github.com/apache/hadoop,cc2babc1f75c93bf89a8f10da525f944c15d02ea,hadoop-hdfs-project/hadoop-hdfs-nfs,29,27,1,ID; NIO;OD-Vic; OD-Vic,Accepted; Opened
+75,https://github.com/swagger-api/swagger-core,5186247f9c9703bd962f9df95289bb942a648398,modules/swagger-core,35,0,35,ID,Opened
+75,https://github.com/apache/dubbo,737f7a7ea67832d7f17517326fb2491d0a086dd7,dubbo-common,27,14,1,ID; NIO; OD; UD,Accepted; Deleted; MovedOrRenamed
+75,https://github.com/openpojo/openpojo,9badbcc4593e797accfed5e51bec9f2b843f0f67,.,24,5,2,ID; NOD;UD; OD-Vic; OD;UD; UD,Accepted; Opened; Unmaintained
+73,https://github.com/apache/hadoop,a585a73c3e02ac62350c136643a5e7f6095a3dbb,hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-timelineservice-hbase-tests,34,34,0,OD,-
+73,https://github.com/danfickle/openhtmltopdf,4a0612fab7b3a55e3e11d485233b063006d03b0f,openhtmltopdf-examples,34,34,0,OD,MovedOrRenamed; Unmaintained
+69,https://github.com/FasterXML/jackson-dataformats-binary,d78d13c574a4b139438841bd5859b8b99beb63ea,avro,32,0,32,ID,DeveloperFixed
+69,https://github.com/espertechinc/esper,590fa9c9eb854f1420b9d337b802aca19f963cc0,regression-run,32,0,30,ID; NOD,Accepted; DeveloperFixed; MovedOrRenamed; Opened
+67,https://github.com/mapstruct/mapstruct,26c5bcd923c7206ad161e93237f841a79ca85efd,processor,31,0,31,ID,Opened
+67,https://github.com/apache/dubbo,5349c13a36d277a090e1dc68fbe7c3b46d78fc90,dubbo-common,23,22,1,ID; OD-Vic,Accepted; Opened
+67,https://github.com/spring-projects/spring-ws,e8d89c9eb0929dda304174729c9c69fb29f448eb,spring-ws-core,21,15,5,ID; NIO; OD-Vic,Deleted; InspiredAFix; Opened
+65,https://github.com/apache/nifi,2bd752d868a8f3e36113b078bb576cf054e945e8,nifi-nar-bundles/nifi-ldap-iaa-providers-bundle/nifi-ldap-iaa-providers,30,0,30,ID,DeveloperFixed; MovedOrRenamed
+65,https://github.com/mock-server/mockserver,3009f363b84df6a0ba377e72f6cff6ce204af0e8,mockserver-core,30,0,30,ID,Accepted; DeveloperFixed; InspiredAFix
+64,https://github.com/apache/gora,6c6b06c916b969352a6757ba7025cc78055fa87a,gora-ignite,32,0,0,NOD,Opened
+64,https://github.com/apache/commons-collections,371313a2e4d1da5e0776419ce94bb8b644158a20,.,27,0,27,ID,Accepted; DeveloperFixed; InspiredAFix; Opened
+64,https://github.com/jenkinsci/remoting,abf0455a68ad6c52a57e912bb89d51f883f77542,.,17,10,7,ID; OD,DeveloperFixed; Opened
+63,https://github.com/apache/gora,6c6b06c916b969352a6757ba7025cc78055fa87a,gora-hive,29,0,29,ID,Opened
+63,https://github.com/apache/nifi,2bd752d868a8f3e36113b078bb576cf054e945e8,nifi-registry/nifi-registry-core/nifi-registry-framework,29,0,29,ID,DeveloperFixed
+63,https://github.com/vmware/admiral,e4b02936cc7d4ff2714e7231db0c4373ba5d48a2,compute,21,1,19,ID; OD-Brit; TD,RepoArchived
+62,https://github.com/mybatis/mybatis-dynamic-sql,b746b2601447a4b39b8b9acf5e777daa4440ae02,.,26,0,26,ID,Accepted; DeveloperFixed
+61,https://github.com/apache/hadoop,cc2babc1f75c93bf89a8f10da525f944c15d02ea,hadoop-hdfs-project/hadoop-hdfs-httpfs,28,16,0,NIO;NOD; NIO;OD; NOD; OD,Rejected
+61,https://github.com/apache/hadoop,a585a73c3e02ac62350c136643a5e7f6095a3dbb,hadoop-common-project/hadoop-registry,28,28,0,OD,-
+61,https://github.com/kevinsawicki/http-request,2d62a3e9da726942a93cf16b6e91c0187e6c0136,lib,28,28,0,OD-Vic,Opened
+60,https://github.com/j256/ormlite-core,f75ab557d902b11a7ae320e713c3a7fd5ba1f117,.,25,0,25,ID,Accepted; InspiredAFix
+59,https://github.com/mock-server/mockserver,b607ad690543b17a6f6d6ecd92292ca3f28afe0d,mockserver-netty,27,0,27,ID,Opened
+57,https://github.com/apache/hbase,881c92b892844be567d5f26b161a820ebf319f84,hbase-zookeeper,26,26,0,OD,-
+56,https://github.com/alibaba/wasp,b2593d8e4b31ca6da0cd2f3e18356338d9b6dace,jdbc,26,4,0,NOD; OD,Unmaintained
+55,https://github.com/apache/iotdb,78cfce455bbf70f2e3b6b55bb5222a3912858b73,iotdb-core/datanode,25,0,25,ID,Opened
+53,https://github.com/spring-cloud/spring-cloud-config,2577c4d6b9f3d01083c2c44fa01882c73ea84681,spring-cloud-config-sample,24,0,24,ID,Accepted; DeveloperWontFix; Irreproducible; Rejected
+52,https://github.com/apache/commons-lang,7c32e527651a8a235d1b78b2f5d3f53d5e9bb6cb,.,21,0,21,ID,Accepted; DeveloperFixed
+51,https://github.com/Graylog2/graylog2-server,87d63f677759336987fbb21fd9c688235618e7bb,graylog2-server,23,0,23,ID,Accepted; Deleted; DeveloperFixed; Opened
+51,https://github.com/alibaba/nacos,f136dde8fae27797156f0ecb9abbe80774beaea4,config,23,23,0,OD-Vic,DeveloperFixed
+51,https://github.com/apache/hadoop,cc2babc1f75c93bf89a8f10da525f944c15d02ea,hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-timelineservice,23,22,0,NOD; OD,-
+51,https://github.com/wildfly/wildfly,f9b089fcdfb089eabcf68117e6141af3be826d21,galleon-pack/layer-metadata-tests,23,0,23,ID,DeveloperFixed
+50,https://github.com/vmware/admiral,e4b02936cc7d4ff2714e7231db0c4373ba5d48a2,adapter/registry,25,0,0,TD;UD; UD,RepoArchived
+49,https://github.com/apache/dubbo,737f7a7ea67832d7f17517326fb2491d0a086dd7,dubbo-rpc/dubbo-rpc-dubbo,22,10,0,NDOD; NDOD;NOD; NOD; NOD;NDOD; OD-Brit; OD-Vic; OD-Vic;TD; TD; TD;NDOD,Accepted; Deleted; MovedOrRenamed
+49,https://github.com/apache/hadoop,a585a73c3e02ac62350c136643a5e7f6095a3dbb,hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common,22,22,0,OD,Opened
+49,https://github.com/apache/shardingsphere-elasticjob,b022898ef1b8c984e17efb2a422ee45f6b13e46e,elastic-job-lite-core,14,7,1,ID; NDOD;OD-Vic; NIO; NOD;OD-Vic; OD; OD-Vic,Accepted; Deleted
+48,https://github.com/HubSpot/jinjava,ddd35c002d52cda2c407f6e6997196c9fcdc72d6,.,19,0,19,ID,Opened
+48,https://github.com/ferstl/depgraph-maven-plugin,f93bf3b39986dd7eafff30f5858439a9879e1618,.,19,0,19,ID,Opened
+48,https://github.com/fhoeben/hsac-fitnesse-fixtures,a64c18d9c4bac8271275c7b089d40be20f0604b5,.,11,1,10,ID; OD-Brit,Accepted
+47,https://github.com/GoogleCloudPlatform/spring-cloud-gcp,cf556f623ef4ad2872496a4486dc3a9a8b8e80bc,spring-cloud-gcp-data-spanner,21,0,21,ID,Accepted; Opened
+47,https://github.com/alibaba/fastjson2,450d9fe5a39f9f911f06882a302a585b93a586fa,core,21,0,21,ID,Accepted
+47,https://github.com/apache/hadoop,a585a73c3e02ac62350c136643a5e7f6095a3dbb,hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client,21,21,0,OD,-
+45,https://github.com/Activiti/Activiti,b11f757a48600e53aaf3fcb7a3ba1ece6c463cb4,activiti-spring-boot-starter,20,13,0,NIO;OD-Vic; OD-Brit; OD-Vic,Deleted
+45,https://github.com/apache/avro,efe9aa7fbe457805dc894a9186e1267603d82dd2,lang/java/ipc-jetty,20,20,0,OD,-
+45,https://github.com/apache/hadoop,a585a73c3e02ac62350c136643a5e7f6095a3dbb,hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app,20,20,0,OD,-
+45,https://github.com/apache/nifi,12015a17dd93a1d42c9d6ddab6cc5ce606fef16a,nifi-nar-bundles/nifi-framework-bundle/nifi-framework/nifi-web/nifi-web-api,20,20,0,OD; OD-Brit,-
+45,https://github.com/apache/nifi,2bd752d868a8f3e36113b078bb576cf054e945e8,nifi-nar-bundles/nifi-standard-bundle/nifi-standard-processors,20,0,20,ID,Accepted; MovedOrRenamed; Opened
+45,https://github.com/netty/netty,0a3df28b2d8ed7b2f4f5389c81b2306c055e4762,buffer,20,0,20,ID,-
+44,https://github.com/spring-projects/spring-boot,daa3d457b71896a758995c264977bdd1414ee4d4,spring-boot-project/spring-boot,11,7,2,ID; NIO; OD-Vic,Deleted; MovedToGradle
+43,https://github.com/Huawei/vCenter_Plugin_DME,fa077ef3c8ee052afc01084bc5aaae7c3b4518a4,dmestore-service,19,0,19,ID,Opened
+43,https://github.com/apache/flink,521e742bfc034d66168e151e15e65e29a23b56c9,flink-runtime,19,0,19,ID,DeveloperWontFix
+43,https://github.com/apache/hadoop,a585a73c3e02ac62350c136643a5e7f6095a3dbb,hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common,19,19,0,OD,-
+43,https://github.com/okta/okta-hooks-sdk-java,918778779c7f07ddd61bf86e1a22ace1ee279649,hooks,19,0,19,ID,Accepted
+43,https://github.com/spring-projects/spring-data-rest,38f2bc4598265890e765a34d18962911916b7ace,spring-data-rest-webmvc,19,0,19,ID,DeveloperFixed
+43,https://github.com/spring-projects/spring-boot,daa3d457b71896a758995c264977bdd1414ee4d4,spring-boot-project/spring-boot-actuator-autoconfigure,11,8,1,ID; NIO; OD-Vic,MovedToGradle
+41,https://github.com/apache/hadoop,a585a73c3e02ac62350c136643a5e7f6095a3dbb,hadoop-yarn-project/hadoop-yarn/hadoop-yarn-applications/hadoop-yarn-services/hadoop-yarn-services-core,18,18,0,OD,-
+41,https://github.com/apache/incubator-kie-drools,8440dc2d4b95412a05a3c7b9501993e1ace9b496,drools-alphanetwork-compiler,18,0,18,ID,Accepted
+41,https://github.com/apache/incubator-seata,dbcd5af7b75d7b9732bcb7bf164486c1d42a04d8,server,18,0,18,ID,Accepted
+40,https://github.com/apache/pulsar,c4f125cfa292a8d61e0d037fa2d0fa1e89308b29,pulsar-broker,20,0,0,NOD,Accepted
+40,https://github.com/alibaba/wasp,b2593d8e4b31ca6da0cd2f3e18356338d9b6dace,fserver,19,2,0,NOD; OD,Unmaintained
+40,https://github.com/FasterXML/jackson-databind,23e2af98684a0350de74d3009c2cb0a313a1c6d0,.,15,0,15,ID,Accepted
+40,https://github.com/IBM/java-sdk-core,1bfa41c6ca27265866abb91d66ea99223668296a,.,15,0,15,ID,Opened
+39,https://github.com/Alluxio/alluxio,78c063ae181279d81cbc0808a684864a8c8b311c,.,17,0,0,TD,-
+39,https://github.com/apache/hadoop,a585a73c3e02ac62350c136643a5e7f6095a3dbb,hadoop-hdfs-project/hadoop-hdfs-httpfs,17,17,0,OD,-
+39,https://github.com/apache/hive,54e43339dd671018fc70ebb5d9f0b292d70391a6,llap-tez,17,17,0,OD,-
+39,https://github.com/apache/jackrabbit-oak,bd0526a24f221413976281ccbb0df95170fccc76,oak-blob-plugins,17,17,0,OD,-
+39,https://github.com/apache/nifi,41ff6f076b2e5346cf695ff2064e5dcfe249c124,nifi-nar-bundles/nifi-framework-bundle/nifi-framework/nifi-framework-core,17,17,0,OD,Deleted; MovedOrRenamed
+39,https://github.com/raphw/byte-buddy,b19eabacf6a9df26641052037666566b2152ce9f,byte-buddy-dep,17,0,17,ID,Accepted; DeveloperFixed; DeveloperWontFix; InspiredAFix
+39,https://github.com/wildfly/wildfly,b19048b72669fc0e96665b1b125dc1fda21f5993,dist,17,0,17,ID,Accepted; Deleted
+38,https://github.com/zalando/riptide,dcf4af17abfd312243897e79e0577d1e28537e7d,riptide-spring-boot-autoconfigure,19,0,0,NOD; UD,Deleted; MovedOrRenamed
+38,https://github.com/apache/hadoop,cc2babc1f75c93bf89a8f10da525f944c15d02ea,hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core,9,4,1,ID; NIO; NIO;OD-Vic; NOD; OD-Vic,Accepted; Opened
+38,https://github.com/spring-projects/spring-boot,daa3d457b71896a758995c264977bdd1414ee4d4,spring-boot-project/spring-boot-test-autoconfigure,9,4,1,ID; NIO; OD; OD-Vic,DeveloperFixed; MovedToGradle; Rejected
+37,https://github.com/HubSpot/Singularity,8e4a548e9efa92d26be439019ff7b691efaa4797,SingularityService,16,0,16,ID,Deprecated
+37,https://github.com/Wikidata-Toolkit/Wikidata-Toolkit,20aee797b213943b3d2665aab49327765f09b7a4,wdtk-wikibaseapi,16,0,16,ID,Accepted
+37,https://github.com/adobe/aem-core-wcm-components,5f29cc86b17b6db36cc617805295eb951b6504a1,bundles/core,16,0,16,ID,Accepted; Opened
+37,https://github.com/wildfly/wildfly,914e190167a79c538e0f87ea4385a6626bdecc9a,ee-dist,16,0,16,ID,Accepted
+36,https://github.com/alibaba/fastjson,3ea25de368b185e3c9f3d56e46a4cfcdb9265318,.,13,0,13,ID,Accepted; Opened
+36,https://github.com/castle/castle-java,1f42ccdbd85c095e307c8604eb7426733dbb8863,.,13,0,13,ID,Accepted
+36,https://github.com/apache/hadoop,cc2babc1f75c93bf89a8f10da525f944c15d02ea,hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app,8,3,2,ID; NIO; NIO;OD-Vic; OD-Vic,Accepted; Opened
+35,https://github.com/apache/hive,90fa9064f2c6907fbe6237cb46d5937eebd8ea31,standalone-metastore/metastore-server,15,0,15,ID,InspiredAFix; Opened; Rejected
+35,https://github.com/apache/servicecomb-java-chassis,ec76b1a15704c15bab437e64739e6d483562850d,swagger/swagger-generator/generator-core,15,15,0,OD,Opened
+35,https://github.com/wro4j/wro4j,185ab607f1d649ca38b4a772831ee754cd4649fb,wro4j-core,15,15,0,OD-Vic,-
+34,https://github.com/apache/hbase,801fc05e9c082ab12c7c1207087d3667ab162d1a,hbase-server,16,0,2,ID; NIO; UD,Accepted; Deleted; DeveloperFixed; MovedOrRenamed; Opened
+34,https://github.com/ktuukkan/marine-api,af0003847db9ba822f67d4f1dceb8de3fe63250a,.,12,12,0,OD-Vic,Accepted
+33,https://github.com/NanoHttpd/nanohttpd,efb2ebf85a2b06f7c508aba9eaad5377e3a01e81,core,14,0,14,ID,Opened
+33,https://github.com/alibaba/wasp,b2593d8e4b31ca6da0cd2f3e18356338d9b6dace,meta,14,5,0,NOD; OD,Unmaintained
+33,https://github.com/sofastack/sofa-boot,451b5c513ceb13317ea7b53c656dde2a597867df,sofa-boot-project/sofa-boot-starters/log-sofa-boot-starter,14,0,14,ID,Accepted; Deleted
+33,https://github.com/uniVocity/univocity-parsers,7e7d1b3c0a3dceaed4a8413875eb1500f2a028ec,core,14,0,14,ID,Opened; Unmaintained
+33,https://github.com/zalando/riptide,8277e11fc069d8e24df0d233ef2577cc75659b75,riptide-spring-boot-starter,14,0,9,ID; ID;OD-Vic; NIO;UD; UD,Accepted; Deleted; MovedOrRenamed
+33,https://github.com/vaadin/flow,faae5c3b9d8b7199e500ec251eb0f24cd2ab4b7c,flow-server,6,1,5,ID; OD-Vic,Accepted
+32,https://github.com/biojava/biojava,e99364ac14294adeb9385b7b93c602c2d9b66bb6,biojava-structure,16,0,0,NOD,-
+32,https://github.com/EsotericSoftware/kryonet,03a135e2039bd7eb20e436ad70539238563d15a4,.,11,0,11,ID,Unmaintained
+32,https://github.com/apache/commons-jxpath,75897943adb7f868df47ced0915b273af1af0272,.,11,0,11,ID,Opened
+32,https://github.com/spring-projects/spring-data-gemfire,2fa8469cd09f5aba9ccd248d5a27fc4bbbbc9499,.,11,0,11,ID,Opened; Unmaintained
+32,https://github.com/yangfuhai/jboot,4bffb4dff4ce5190917491a1b68f79efbfe99650,.,11,11,0,OD,Accepted; Opened
+31,https://github.com/FasterXML/jackson-dataformats-binary,0eeb08cfd07a9d23bc22090e17a67da57baf436e,protobuf,13,0,13,ID,Accepted
+31,https://github.com/apache/druid,50963edcae70150f13520b619f167512d951a71b,extensions-core/parquet-extensions,13,0,13,ID,Opened
+31,https://github.com/apache/druid,50963edcae70150f13520b619f167512d951a71b,core,13,0,13,ID,MovedOrRenamed
+31,https://github.com/apache/incubator-ratis,bc9d7615d8ffa30e79a36b9fd1950af38f0f6a49,ratis-hadoop,13,13,0,OD,Deleted
+31,https://github.com/apache/nifi,2bd752d868a8f3e36113b078bb576cf054e945e8,nifi-commons/nifi-site-to-site-client,13,0,13,ID,Opened
+31,https://github.com/biojava/biojava,65ad15fe58dcedd258fee1c14505e424c8536efc,biojava-structure,13,0,12,ID; ID;NOD,Accepted
+31,https://github.com/oracle/tribuo,7d78a0ab15c2431d3ba935ea54c2aebbdba9c41d,Reproducibility,13,0,13,ID,Accepted; Opened
+31,https://github.com/spring-cloud/spring-cloud-kubernetes,3351926041a630aee0961ba0e1be8f035e4ba2ca,spring-cloud-kubernetes-fabric8-config,13,13,0,OD,Deleted
+30,https://github.com/codingXiaxw/seckill,fd24d99d232424cd141e64600b277fb8cf3950e2,.,10,0,10,ID,Unmaintained
+30,https://github.com/stanfordnlp/CoreNLP,0f7c464edc7c346c028eec128d0025f61321962d,.,10,0,10,ID,InspiredAFix
+29,https://github.com/spring-projects/spring-boot,daa3d457b71896a758995c264977bdd1414ee4d4,spring-boot-project/spring-boot-actuator,14,0,1,ID; NIO; UD,Deleted
+29,https://github.com/alibaba/fastjson2,450d9fe5a39f9f911f06882a302a585b93a586fa,fastjson1-compatible,12,0,12,ID,Accepted
+29,https://github.com/apache/druid,4b0d1b3488add75097532f25c8bbbcb35daa4987,processing,12,0,12,ID,Accepted
+29,https://github.com/eclipse-vertx/vert.x,27cb9611cd2e7eb34bed6486ca0131d661acb594,vertx-core-logging,12,0,12,ID,-
+29,https://github.com/google/guice,e0f12160dd854bf0106ed94d2a36125bad1b577c,throwingproviders,12,0,12,ID,Opened; Rejected
+29,https://github.com/kagkarlsson/db-scheduler,4a8a28e60640dcd03e8d3bf212f483d35b0b6310,.,11,2,0,NDOD;OD-Vic; NDOD;OD-Vic;TD; NDOD;TD; NOD;UD; OD-Vic,Deleted
+28,https://github.com/jdereg/json-io,f8958ef52bbdc94f8aed7d98c96d2775200ec7e7,.,9,0,9,ID,Accepted; MovedOrRenamed
+27,https://github.com/IBM/vpc-java-sdk,efa16c65450e23f90e050e4e0b2bd229af24b02c,modules/vpc,11,0,11,ID,Opened
+27,https://github.com/SAP/scimono,a1a6fc3524b650e5ea191792ad0d203b3a5cb774,scimono-client,11,0,11,ID,Accepted
+27,https://github.com/alibaba/druid,ad05a9293b6be2d5562807698b215b673db0417a,create,11,0,11,ID,Opened
+27,https://github.com/apache/cxf,69925893ed0e8a8fdfe1164b4e097a5cf5524027,core,11,11,0,OD; OD-Brit; OD-Vic,Accepted
+27,https://github.com/apache/hadoop,a585a73c3e02ac62350c136643a5e7f6095a3dbb,hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs,11,11,0,OD,-
+27,https://github.com/flowable/flowable-engine,399ab58c5c29b2437c56f5418d8610bc3fb3381d,modules/flowable-engine,11,0,11,ID,Accepted
+27,https://github.com/jchambers/pushy,da5f8b97106cd41278b421ec63e4e76a7313bed9,pushy,11,0,11,ID,Opened
+27,https://github.com/openhab/openhab-core,660102e3f93f928473b66f56f2955090dfa3c30e,bundles/org.openhab.core.thing,11,0,11,ID,Accepted; Opened
+27,https://github.com/rubenlagus/TelegramBots,200f441a3bf511962c31372390ba01aed3d6cfac,telegrambots-meta,11,0,11,ID,Opened
+26,https://github.com/Activiti/Activiti,b11f757a48600e53aaf3fcb7a3ba1ece6c463cb4,activiti-core/activiti-engine,13,0,0,NIO; TD,Accepted; DeveloperFixed
+26,https://github.com/doanduyhai/Achilles,e3099bdce342910951c4862c78751fd81ed4552e,integration-test-2_1,13,0,0,TD; UD,Unmaintained
+26,https://github.com/FasterXML/jackson-dataformat-xml,2d08f8d0b0248a00c2c79b9a07e936b3287edb07,.,8,8,0,OD,Accepted
+26,https://github.com/INRIA/spoon,bd9b16fc599fe6ed4c1c876ded15a611e4e4cc96,.,8,0,8,ID,Accepted; Opened
+26,https://github.com/jhipster/jhipster-registry,00db36611da5fc7aaf9d5372aa90f2465d80c0c4,.,2,1,1,ID; OD-Vic,Deleted; DeveloperFixed
+26,https://github.com/sonatype-nexus-community/nexus-repository-helm,60a9e8de0d97bfa4e3f7ee6bb87d518e398f03f2,.,2,1,1,ID; OD-Vic,RepoArchived
+25,https://github.com/apache/archiva,292dbe1bb4323dd299d36b78f37d9c1d55c889f8,archiva-modules/archiva-base/archiva-repository-layer,10,10,0,OD,Accepted
+25,https://github.com/apache/dubbo,1f84cdcfede5ec9843ecebf39a25d9b995b8098b,dubbo-common,10,9,0,NIO;OD-Vic; OD-Vic,Accepted
+25,https://github.com/apache/hive,90fa9064f2c6907fbe6237cb46d5937eebd8ea31,serde,10,0,10,ID,Accepted; Opened; Rejected
+25,https://github.com/apache/ignite-3,a1aa7fd4e2398c72827777ec5417d67915ff4da3,modules/sql-engine,10,0,10,ID,Deleted
+25,https://github.com/apache/incubator-shardingsphere,038232e9b2f7fb22ccf50c04b74fb900732b345d,sharding-jdbc/sharding-jdbc-core,10,0,10,ID,Accepted
+25,https://github.com/apache/servicecomb-java-chassis,9ba66ebc452db6aa5207e5cc7ebd03d48d358e9f,swagger/swagger-generator/generator-springmvc,10,0,10,ID,-
+25,https://github.com/apache/tinkerpop,8bfdf50778e29d98c6554a01688fc5cc34524522,tinkergraph-gremlin,10,0,10,ID,-
+25,https://github.com/apache/wicket,b243eca31ab4a0ab78159fd2ccf7337a38b94840,core,10,0,10,ID,Accepted
+25,https://github.com/eBay/jsonex,83cd2edafbca4438abee6542162ab206ad3fedd8,jsoncoder,10,0,10,ID,MovedOrRenamed
+25,https://github.com/google/guava,a197d99b96d69ea75a2c4a15ecd8a730dd3270d6,guava-tests,10,0,10,ID,MovedOrRenamed
+25,https://github.com/spring-cloud/spring-cloud-kubernetes,3351926041a630aee0961ba0e1be8f035e4ba2ca,spring-cloud-kubernetes-client-config,10,10,0,OD,Deleted; MovedOrRenamed
+25,https://github.com/spring-cloud/spring-cloud-netflix,dc67500445d3ce7382771e39b64ca93bbebc04c7,spring-cloud-netflix-eureka-server,10,10,0,OD-Vic,-
+24,https://github.com/wildfly/wildfly-maven-plugin,ba664f977f4a20771eb7aab979164b2fb639a240,core,12,0,0,NOD,Deleted
+24,https://github.com/OpenHFT/Chronicle-Wire,6f6a3cb3b2ba45ecfa891c85a0b85d595b9c0802,.,7,0,7,ID,Opened
+24,https://github.com/SAP/pair-distribution-app,0be329d2897f6d5fbb634e46e0ef3d283282dc93,.,7,0,7,ID,Accepted
+24,https://github.com/zavtech/morpheus-core,09895c1a16293b69bbc79cd952fcec3d5d89e372,.,7,0,7,ID,Opened
+24,https://github.com/apache/hadoop,cc2babc1f75c93bf89a8f10da525f944c15d02ea,hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs,3,2,1,ID; OD-Vic,Opened
+23,https://github.com/OpenFeign/feign,5eb9905e58ecffce907ec3ee092ccee8383ca9ce,core,9,0,9,ID,Accepted
+23,https://github.com/OpenGamma/Strata,b998b2bc5183e67f267d1f573939a42fa9ee4bf3,modules/data,9,0,9,ID,Accepted
+23,https://github.com/alibaba/fastjson2,3de60a9769f2c95cbceef13b0158b1af934ab323,core,9,0,9,ID,Accepted
+23,https://github.com/apache/fury,9295e58ae706a3734f6fa80704c41502ba73131e,fury-core,9,0,9,ID,Accepted; RepoRenamed
+23,https://github.com/apache/ignite-3,a1aa7fd4e2398c72827777ec5417d67915ff4da3,modules/table,9,0,9,ID,Accepted
+23,https://github.com/apache/tinkerpop,d484001b44f9f8feb0eed2e058f4a5cb9528d766,gremlin-core,9,0,9,ID,Accepted
+23,https://github.com/epam/eco-schema-catalog,7456ece21f9a88095885f20247189551da3a1810,store,9,0,9,ID,Accepted
+23,https://github.com/oracle/oci-hdfs-connector,66d6b89415943fc20b0a591b09ee6d50bbe7f9d0,hdfs-connector,9,0,9,ID,Opened
+23,https://github.com/swagger-api/swagger-core,8767cea022f53721e69f9dd47c22ccfd18f12100,modules/swagger-core,9,0,9,ID,Accepted
+22,https://github.com/apache/dubbo,737f7a7ea67832d7f17517326fb2491d0a086dd7,dubbo-config/dubbo-config-spring,10,2,0,OD-Vic; UD,Deleted; MovedOrRenamed
+22,https://github.com/apache/hadoop,cc2babc1f75c93bf89a8f10da525f944c15d02ea,hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-timeline-pluginstorage,9,4,0,NOD; OD,Opened
+22,https://github.com/FasterXML/jackson-databind,b056c49a2af5a38ef750553bfd9545e91c2a8f97,.,6,0,6,ID,Accepted
+22,https://github.com/eclipse-vertx/vert.x,b4fd4d691cfa802189c5a5d25688ea739440bf4a,.,6,0,6,ID,Accepted
+22,https://github.com/jnr/jnr-posix,dbda72ce198a8dd766c30c591d63d726d2a28a7c,.,6,6,0,OD,Accepted
+22,https://github.com/rrd4j/rrd4j,5e0c9c7e138167388721a0620b95526e89fd6059,.,6,6,0,OD-Vic,Accepted
+22,https://github.com/spring-projects/spring-data-redis,3e8cd16279f8de120f7b0b9bb31870dd0f8fdb8d,.,6,0,6,ID,InspiredAFix; Opened
+22,https://github.com/stleary/JSON-java,8353b9c3f06239c2ffe5b8a39e67ffc72893f666,.,6,0,6,ID,Accepted
+22,https://github.com/vert-x3/vertx-mqtt,c8213e0f41150a1a02f4ad1185762494b52c6350,.,6,6,0,OD,Opened
+21,https://github.com/Alluxio/alluxio,68fcda9dd2ca2181eb897e10ca02fa5bc3a3099f,core/server/worker,8,0,8,ID,Deleted; Opened
+21,https://github.com/apache/curator,f5fb6d109257e35de250af7d6c0090b42f2a18a2,framework,8,0,8,ID,Accepted
+21,https://github.com/apache/fory,5f9934e281fde3341c3e9db3b5d3981d08afd85a,fory-core,8,0,8,ID,Accepted
+21,https://github.com/apache/helix,917b786e4da9a615c5177f27256e170feae2298f,helix-rest,8,0,8,ID,Accepted; Opened
+21,https://github.com/apache/hive,9546c10a748630ac5cf39d935a90a97446b93be8,hbase-handler,8,0,8,ID,Opened
+21,https://github.com/apache/iotdb,25a98ee165131047cda93dc92203db2ab9aecbc8,cluster,8,0,8,ID,Deleted; Opened
+21,https://github.com/apache/iotdb,25a98ee165131047cda93dc92203db2ab9aecbc8,tsfile,8,0,8,ID,Opened
+21,https://github.com/apache/shardingsphere-elasticjob,bdfcaff0c1a702c3ecb44adf46d609a3f0e86c5e,elasticjob-lite/elasticjob-lite-core,8,8,0,OD,DeveloperFixed
+21,https://github.com/apache/streampipes,d901b927f9c56b7adf290581a07059d2d95f670d,streampipes-extensions-management,8,0,8,ID,Accepted; Opened
+21,https://github.com/dromara/hutool,ec14f8384ad384fb6e054df722fe089d64af0c41,hutool-core,8,0,8,ID,Accepted
+21,https://github.com/kiegroup/jbpm,f7e80e82b7670c09485ce83869a287ef51dcb59c,jbpm-runtime-manager,8,0,8,ID,Opened
+21,https://github.com/c2mon/c2mon,d80687b119c713dd177a58cf53a997d8cc5ca264,c2mon-server/c2mon-server-elasticsearch,2,1,1,ID; OD-Vic,Deleted; MovedOrRenamed
+21,https://github.com/funkygao/cp-ddd-framework,8c69f6a50db83459356a2ae66a910b1905fe4eb5,dddplus-test,2,1,1,ID; OD,Accepted
+21,https://github.com/wso2/carbon-apimgt,a82213e40e7e6aa529341fdd1d1c3de776949e64,components/apimgt/org.wso2.carbon.apimgt.core,2,1,1,ID; OD-Vic,Skipped
+20,https://github.com/nationalsecurityagency/timely,3a8cbd3378cffdc96aad1c52e9b0b2e1481ca45f,server,8,0,4,ID; NDOI,Accepted; MovedOrRenamed
+20,https://github.com/pholser/junit-quickcheck,9361b6dae25b193782604d071754eb7fc566390a,generators,8,0,4,ID; NIO,Accepted; Deleted
+20,https://github.com/fluent/fluent-logger-java,da14ec349bf0904da9865940b57b87563616ee04,.,7,0,1,ID; NDOD; NDOD;UD; NDOD;UD;NOD,Opened; Unmaintained
+20,https://github.com/EliasStar/JsonRpc4J,6d7f58389e86efa4f44cc8906a7d1963b7f208b9,.,5,0,5,ID,Opened
+20,https://github.com/FasterXML/jackson-module-jsonSchema,69d682d794e47433b3f8e6ad586562ee2ab948b3,.,5,0,5,ID,Accepted
+20,https://github.com/hydromatic/morel,b3ce1d8ba7351ba6fb0dceeaf30288451fe5bf7d,.,5,0,5,ID,Accepted; InspiredAFix
+20,https://github.com/jdereg/json-io,31dc5189834a39295fd173b86ff768c4ce13951c,.,5,0,5,ID,Opened
+20,https://github.com/jdereg/json-io,2fed6b95ed0f56856a6fc56a60fece0f21a71c96,.,5,0,5,ID,Opened
+20,https://github.com/nutzam/nutz,97745dd754eb9aee59aa806d90be53aac051a3e5,.,5,0,5,ID,Accepted
+20,https://github.com/snakeyaml/snakeyaml,626340b5bcd50a8eb12413478e935be077c6b39c,.,5,0,5,ID,Accepted
+20,https://github.com/spring-projects/spring-data-couchbase,8c1a24c61934fff283a540fa830aa516db9a1059,.,5,0,5,ID,Accepted; Opened
+20,https://github.com/stanfordnlp/CoreNLP,08f6dca23e5296d6affdc40895bf294d9b3144f6,.,5,0,5,ID,Accepted; InspiredAFix
+19,https://github.com/FasterXML/jackson-modules-base,d33ad8cb6801372ae69c6b65bd87f1aa33001016,afterburner,7,0,7,ID,Accepted
+19,https://github.com/FasterXML/jackson-modules-base,d33ad8cb6801372ae69c6b65bd87f1aa33001016,blackbird,7,0,7,ID,Accepted
+19,https://github.com/HubSpot/Rosetta,bc3713d9bf9c00130ce08cf4a2c9bcddabcb2f80,RosettaCore,7,0,7,ID,InspiredAFix
+19,https://github.com/alibaba/spring-cloud-alibaba,add08b6822cb7cf6b2a429dd30b0ed0e49a7db49,spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-nacos-config,7,7,0,OD,Opened
+19,https://github.com/apache/hbase,881c92b892844be567d5f26b161a820ebf319f84,hbase-replication,7,7,0,OD,-
+19,https://github.com/apache/jackrabbit-oak,08eab301c869c227d8721da0e9b9bd3d2029d458,oak-store-document,7,0,7,ID,Accepted; InspiredAFix; Opened
+19,https://github.com/apache/nifi,2bd752d868a8f3e36113b078bb576cf054e945e8,nifi-nar-bundles/nifi-framework-bundle/nifi-framework/nifi-framework-core,7,0,7,ID,MovedOrRenamed; Opened
+19,https://github.com/apache/nifi,2bd752d868a8f3e36113b078bb576cf054e945e8,nifi-nar-bundles/nifi-hbase-bundle/nifi-hbase-processors,7,0,7,ID,Accepted
+19,https://github.com/apache/shenyu,22546ae0e6a4047ee08bf4a41f9114f47ba57e19,shenyu-admin,7,0,7,ID,Accepted
+19,https://github.com/authorjapps/zerocode,6ef5f20eaff6a8bad3713b4aee6a482cdbd6e256,core,7,0,7,ID,Accepted; Opened
+19,https://github.com/fabric8io/kubernetes-client,56a6c2c4f336cc6f64c19029a55c2d3d0289344f,junit/mockwebserver,7,0,7,ID,Opened
+19,https://github.com/spring-cloud/spring-cloud-netflix,47f989fa7bd1d2a2ed080d32d1c0e825ac358b64,spring-cloud-netflix-eureka-server,7,0,7,ID,-
+19,https://github.com/square/retrofit,8c93b59dbc57841959f5237cb141ce0b3c18b778,retrofit,7,0,7,ID,Deleted; MovedToGradle
+19,https://github.com/vert-x3/vertx-rabbitmq-client,7305bcd5173cd32a0d2b382a69bdb7027851bd10,.,7,0,0,NOD,Deleted; DeveloperFixed; MovedOrRenamed
+19,https://github.com/vmware/admiral,e4b02936cc7d4ff2714e7231db0c4373ba5d48a2,request,7,0,5,ID; NIO;OD-Vic; NOD,Opened; RepoArchived
+18,https://github.com/apache/httpcore,49247d208bde47f652812493e1d3576e136b8eb8,httpcore-nio,9,0,0,TD,-
+18,https://github.com/apache/hadoop,cc2babc1f75c93bf89a8f10da525f944c15d02ea,hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-jobclient,8,0,2,ID; NIO; NOD,Accepted; Opened
+17,https://github.com/OpenRefine/OpenRefine,3bff27b868a6a1b695f3855ae0f49e269c5ef7cd,main,6,0,6,ID,Accepted; MovedOrRenamed; Opened
+17,https://github.com/apache/bookkeeper,2aa59c74cdd1de13c33a593f6dccc888823c4a83,bookkeeper-server,6,0,6,ID,Accepted; DeveloperFixed
+17,https://github.com/apache/druid,c8eb7adeb9bb170e2bfe7879c23f42b72d263876,processing,6,0,6,ID,Opened
+17,https://github.com/apache/flink,23c9b5ac50d04d28a34a87c78eb2d3331c06b74b,flink-libraries/flink-cep,6,0,6,ID,DeveloperWontFix; Rejected
+17,https://github.com/apache/flink,23c9b5ac50d04d28a34a87c78eb2d3331c06b74b,flink-streaming-java,6,0,6,ID,Accepted; Rejected
+17,https://github.com/apache/flink,23c9b5ac50d04d28a34a87c78eb2d3331c06b74b,flink-table/flink-table-planner,6,0,6,ID,DeveloperWontFix; MovedOrRenamed
+17,https://github.com/apache/flink,23c9b5ac50d04d28a34a87c78eb2d3331c06b74b,flink-table/flink-table-runtime-blink,6,0,6,ID,MovedOrRenamed; Rejected
+17,https://github.com/apache/hadoop,a585a73c3e02ac62350c136643a5e7f6095a3dbb,hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-nativetask,6,6,0,OD,-
+17,https://github.com/apache/hive,ecdac363e042200d85bb8b894aa20d91a1642a18,serde,6,0,6,ID,Accepted
+17,https://github.com/apache/ignite-3,a1aa7fd4e2398c72827777ec5417d67915ff4da3,modules/schema,6,0,6,ID,Deleted
+17,https://github.com/apache/iotdb,25a98ee165131047cda93dc92203db2ab9aecbc8,zeppelin-interpreter,6,0,6,ID,Accepted; Opened
+17,https://github.com/apache/nifi,6b188636ff45c0380b6d3a08149ea5b342e8e5aa,nifi-nar-bundles/nifi-standard-services/nifi-record-serialization-services-bundle/nifi-record-serialization-services,6,0,6,ID,Accepted
+17,https://github.com/apache/shenyu,ae6ddc5abe3e88f1c0a5a9201a59bcdb74a04157,shenyu-admin,6,0,6,ID,Accepted
+17,https://github.com/apache/tika,589d02a9632787235c521d75ff1ede7886b80280,tika-server/tika-server-core,6,0,6,ID,Accepted
+17,https://github.com/biojava/biojava,245742d522d12440ece32f5c2d665ff81c465e98,biojava-integrationtest,6,0,6,ID,Accepted; DeveloperFixed; Opened
+17,https://github.com/gchq/Gaffer,f11dbd900273f3928372955266731f8623681f89,core/graph,6,0,6,ID,RepoArchived
+17,https://github.com/intuit/wasabi,eaac73406a80ca75fb9423bdf3faada67f955083,modules/assignment-objects,6,0,6,ID,Opened
+17,https://github.com/katharsis-project/katharsis-framework,73d1a8763c49c5cf4643d43e2dbfedb647630c46,katharsis-core,6,0,6,ID,Opened
+17,https://github.com/networknt/light-4j,fcded1683dcbd41a968e221494778aa6b71e7428,config,6,6,0,OD,DeveloperFixed
+17,https://github.com/oracle/tribuo,e2107883378d11b00ff9c09367a8fcd4476f7802,tests,6,0,6,ID,Accepted; InspiredAFix
+17,https://github.com/sakaiproject/sakai,17039df4b3f76abb13a670151e6e58d1df9d608f,lti/tsugi-util,6,0,6,ID,Accepted
+17,https://github.com/wildfly/wildfly,914e190167a79c538e0f87ea4385a6626bdecc9a,marshalling/spi,6,0,6,ID,DeveloperFixed
+17,https://github.com/wildfly/wildfly,b19048b72669fc0e96665b1b125dc1fda21f5993,undertow,6,0,6,ID,Accepted; DeveloperFixed
+17,https://github.com/zalando/riptide,8e8558a76b342818788b75ade997b6dca5f6b3d8,riptide.compatibility,6,0,6,ID,Opened
+17,https://github.com/INRIA/spoon,17330abe8aac89d907ac977e8e22ff35103eccd1,.,4,0,4,ID,Accepted
+17,https://github.com/apache/commons-collections,81e3a7ec0492148724da4512fcefcb47ba82894a,.,4,0,4,ID,Accepted; DeveloperFixed
+17,https://github.com/apache/commons-math,43b77ffabba8a48144080674973362150cbcfb28,.,4,0,4,ID,DeveloperFixed; Opened
+17,https://github.com/jitsi/jicofo,2cae36e1e6781b438e52156d82cc32f8dea021b9,.,4,4,0,OD,Deleted
+17,https://github.com/snakeyaml/snakeyaml-engine,9d2bca887ad1be7575bae2e427d074e2c49ff109,.,4,0,4,ID,Accepted
+17,https://github.com/spring-projects/spring-data-elasticsearch,0c7c686cb1cc4f84adbc8717363b3decc6f01bb8,.,4,0,4,ID,Deleted; Rejected
+16,https://github.com/square/retrofit,ae28c3d5f6fe54f6ca409cdf82106efb47609f8f,retrofit-adapters/rxjava,8,0,0,NDOD; NDOD;NOD; NOD,MovedToGradle
+16,https://github.com/dianping/cat,c4715a6aa6403af4c017b9180f9a3322afda9434,cat-client,6,0,4,ID; NOD,Opened; Unmaintained
+16,https://github.com/alibaba/fastjson,93d8c01e907fe35a8ff0eb5fe1c3b279d2f30282,.,4,0,3,ID; NOD,DeveloperFixed; Opened; RepoArchived
+15,https://github.com/querydsl/querydsl,2bf234caf78549813a1e0f44d9c30ecc5ef734e3,querydsl-hibernate-search,7,1,0,NIO;NOD; NOD; NOD;OD-Brit; OD-Brit,Accepted
+15,https://github.com/undertow-io/undertow,d0efffad5d2034bb07525cac9b299dac72c3045d,websockets-jsr,7,1,0,OD-Vic; TD; TD;OD-Vic; UD,Accepted; Opened; Skipped
+15,https://github.com/wro4j/wro4j,185ab607f1d649ca38b4a772831ee754cd4649fb,wro4j-extensions,7,0,1,ID; ID;NOD; NOD; UD,Opened
+15,https://github.com/CloudSlang/cloud-slang,48923570780dd096e0cf17ef657b6b1fdc50dc31,cloudslang-entities,5,5,0,OD,Opened
+15,https://github.com/Ericsson/ecchronos,5d58b0e4c922822c9df3d893fff2246d5784b11f,core,5,0,5,ID,Accepted
+15,https://github.com/GoogleCloudPlatform/DataflowTemplates,87c6fe936f1567f101030e7f5402b198a583f941,v2,5,0,5,ID,Accepted; Opened
+15,https://github.com/IBM/og,bf82c95b488151e58d53e895509fce058065e044,og-configuration,5,0,5,ID,Opened
+15,https://github.com/OpenAPITools/openapi-generator,b86213bea350e17a4cf43f40cd00166f16d638dd,modules/openapi-generator,5,0,5,ID,Accepted
+15,https://github.com/OpenAPITools/openapi-generator,bfce822c34144500eb573ab105502c3616d79dc3,modules/openapi-generator,5,0,5,ID,Accepted
+15,https://github.com/abel533/Mapper,1764748eedb2f320a0d1c43cb4f928c4ccb1f2f5,core,5,0,5,ID,Opened
+15,https://github.com/abel533/Mapper,7990b9c48bbcebf590f09fc245daba0c396f7b57,solon-plugin,5,0,5,ID,Accepted
+15,https://github.com/adobe/aem-core-wcm-components,0efca91f4b7b5f56a02fefabbdec273c8b77ffd8,bundles/core,5,0,5,ID,Opened
+15,https://github.com/alibaba/easy-retry,16e0c4156347658c1fd701ad4bf53aeeb214ce50,easy-retry-extensions,5,5,0,OD-Vic,Opened
+15,https://github.com/apache/activemq,5cd12a83823e79d4500b1e4158790da01a8bd368,activemq-jaas,5,0,5,ID,-
+15,https://github.com/apache/druid,50963edcae70150f13520b619f167512d951a71b,extensions-core/kafka-indexing-service,5,0,5,ID,Accepted; Opened
+15,https://github.com/apache/flink,23c9b5ac50d04d28a34a87c78eb2d3331c06b74b,flink-runtime,5,0,5,ID,Accepted; Opened; Rejected
+15,https://github.com/apache/flink,23c9b5ac50d04d28a34a87c78eb2d3331c06b74b,flink-table/flink-table-planner-blink,5,0,5,ID,MovedOrRenamed; Rejected
+15,https://github.com/apache/ignite-3,a1aa7fd4e2398c72827777ec5417d67915ff4da3,modules/core,5,0,5,ID,MovedToGradle
+15,https://github.com/apache/pulsar,505e08a76425c6e49ff5bc691f8ca7587184a2bf,pulsar-client,5,0,5,ID,Accepted
+15,https://github.com/apache/servicecomb-java-chassis,68bdb78926654b6a15dd12ade8c0533c0e704528,common/common-rest,5,0,5,ID,Accepted
+15,https://github.com/biojava/biojava,245742d522d12440ece32f5c2d665ff81c465e98,biojava-structure,5,0,5,ID,Accepted; Rejected
+15,https://github.com/cerner/common-kafka,d7873514c1705575c642ed99d2fa501f9b319790,common-kafka,5,0,5,ID,Accepted; RepoArchived
+15,https://github.com/davidmoten/rxjava2-extras,d0315b6ecb0d24437ec0d440b6d768e89247d56c,.,5,0,0,NDOD; NDOD;OD-Vic; NDOD;TD; UD,-
+15,https://github.com/espertechinc/esper,50eddcdc2e7894de20309cd0b6f585110e4bc61b,common,5,0,5,ID,Accepted
+15,https://github.com/flowable/flowable-engine,399ab58c5c29b2437c56f5418d8610bc3fb3381d,modules/flowable-cmmn-engine,5,0,5,ID,Accepted
+15,https://github.com/immutables/immutables,b21e6bbfbb9038100532416c81e8270951c3e03a,value-fixture,5,0,5,ID,Accepted
+15,https://github.com/jolokia/jolokia,ead322cc39f43b5b46d9353f539896a430a61b69,jolokia-spring,5,0,5,ID,Accepted
+15,https://github.com/mock-server/mockserver,b1093ef54a6c3c880076f71a815bf0e204bc27f2,mockserver-core,5,0,5,ID,InspiredAFix
+15,https://github.com/mock-server/mockserver,b607ad690543b17a6f6d6ecd92292ca3f28afe0d,mockserver-core,5,0,5,ID,Opened
+15,https://github.com/oracle/weblogic-monitoring-exporter,173e1855fb0be4de3849d5fcd431de5c1b741b15,wls-exporter-core,5,0,5,ID,Accepted
+15,https://github.com/orientechnologies/orientdb,3fd7e0cbaf88981bbe1fc1ad7e7ec394734c7dfd,server,5,0,5,ID,Accepted; Opened
+15,https://github.com/orika-mapper/orika,27dd4c4666f2c559c0ef84d18221cf104b1f699c,core,5,0,5,ID,Accepted; Opened
+15,https://github.com/sakaiproject/sakai,0ccc34260bf2f5dd74054a05db471aebf89f044e,samigo/samigo-services,5,0,5,ID,Opened
+15,https://github.com/spring-cloud/spring-cloud-gcp,7ab8b2c249c825b499de5b66d080e64ddd0cced5,spring-cloud-gcp-storage,5,5,0,OD,RepoArchived
+15,https://github.com/spring-projects/spring-data-cassandra,880787ff8841b461c3bff6d0755a485171867a59,spring-data-cassandra,5,0,5,ID,Accepted; InspiredAFix
+15,https://github.com/spring-projects/spring-data-jdbc,a2a5953cda1251a2c3a29be1a92a16916dc0871a,spring-data-relational,5,0,5,ID,InspiredAFix
+15,https://github.com/vmware/admiral,e4b02936cc7d4ff2714e7231db0c4373ba5d48a2,auth,5,0,5,ID,RepoArchived
+15,https://github.com/wildfly/wildfly,cb7af61bfbb5615b522cabf8ded9a135178089b7,undertow,5,0,5,ID,Accepted
+15,https://github.com/winder/Universal-G-Code-Sender,4426f71c900ddd4a1eeb3957f3275cedc6312534,ugs-core,5,5,0,OD,-
+15,https://github.com/yahoo/elide,43a292e0ed6a0517851802997c7c6b9e0efb8248,elide-core,5,0,5,ID,Accepted
+14,https://github.com/doanduyhai/Achilles,e3099bdce342910951c4862c78751fd81ed4552e,integration-test-2_2,7,0,0,TD,Unmaintained
+14,https://github.com/apache/dubbo,737f7a7ea67832d7f17517326fb2491d0a086dd7,dubbo-rpc/dubbo-rpc-api,6,2,0,NIO; OD-Vic,Accepted
+14,https://github.com/vmware/admiral,e4b02936cc7d4ff2714e7231db0c4373ba5d48a2,common,6,0,2,ID; NIO,Opened; RepoArchived
+14,https://github.com/FasterXML/jackson-databind,f279b1bfda0c2254457dbe5654e898df0ad2b517,.,3,0,3,ID,Accepted
+14,https://github.com/HubSpot/jinjava,b428343af85e613805674cd44dad416dfddde09c,.,3,0,3,ID,Accepted
+14,https://github.com/apache/commons-collections,14ff6fae576085767045bff074c35f2b0220b317,.,3,0,3,ID,Opened
+14,https://github.com/apache/maven-dependency-plugin,1d9261293f44cc1918bae0fb3e4db9abe452f8c5,.,3,0,3,ID,Accepted
+14,https://github.com/bytedeco/javacpp,b9e7080d2614fa8842bd3fb6d2759fb384628979,.,3,0,3,ID,Accepted
+14,https://github.com/hellokaton/30-seconds-of-java8,1af5d4dee567f00e662cb9b74abc16067312e338,.,3,0,3,ID,Accepted; Opened
+14,https://github.com/hneemann/Digital,d2a0335ed2bd282a2d31151e3fafed601b05e628,.,3,0,3,ID,InspiredAFix; Opened; Rejected
+14,https://github.com/jReddit/jReddit,ac0b518f190c30228e401ef66d53329bbd27bad6,.,3,0,3,ID,Opened
+14,https://github.com/jdereg/json-io,45699f116bdaac9449cc58fbdd9310f00ac6df5b,.,3,0,3,ID,Accepted; DeveloperFixed
+14,https://github.com/mariadb-corporation/mariadb-connector-j,8acdd27379421149a25558eef8151defc84ed712,.,3,0,3,ID,Opened
+14,https://github.com/soot-oss/soot,23758df0ce8327bb414d982aeb325a4f5e83ccf8,.,3,0,3,ID,Accepted
+14,https://github.com/spdx/tools,cf965bc2fa99e1c5ca23f992f18cef48c08dec9f,.,3,0,3,ID,Accepted; RepoArchived
+14,https://github.com/spring-projects/spring-retry,e19f5d7d5fdc889b4feabe4a7ad3184bbd809a98,.,3,0,3,ID,Accepted
+13,https://github.com/alibaba/fastjson2,3de60a9769f2c95cbceef13b0158b1af934ab323,codegen-test,5,0,3,ID; TZD,Accepted
+12,https://github.com/apache/dubbo,737f7a7ea67832d7f17517326fb2491d0a086dd7,dubbo-rpc/dubbo-rpc-rest,6,0,0,NIO;TD; NIO;UD; TD; UD,DeveloperFixed; MovedOrRenamed
+12,https://github.com/baidu/Jprotobuf-rpc-socket,88bb62d511a7288087fe042855bb708247758e93,jprotobuf-rpc-core,6,0,0,NOD,-
+12,https://github.com/biojava/biojava,e99364ac14294adeb9385b7b93c602c2d9b66bb6,biojava-core,6,0,0,NOD,-
+12,https://github.com/doanduyhai/Achilles,e3099bdce342910951c4862c78751fd81ed4552e,integration-test-3_7,6,0,0,TD,Unmaintained
+12,https://github.com/eclipse-ee4j/tyrus,d86e0cb0a4f26ba89daf8668137c156e57fea565,tests/e2e/standard-config,6,0,0,NOD; UD,-
+12,https://github.com/wildfly/wildfly,b19048b72669fc0e96665b1b125dc1fda21f5993,testsuite/integration/web,6,0,0,UD,-
+12,https://github.com/apache/dubbo,737f7a7ea67832d7f17517326fb2491d0a086dd7,dubbo-cluster,5,2,0,NIO; NIO;OD-Vic; OD-Vic,Accepted; DeveloperFixed
+12,https://github.com/apache/hadoop,cc2babc1f75c93bf89a8f10da525f944c15d02ea,hadoop-yarn-project/hadoop-yarn/hadoop-yarn-registry,5,2,0,NOD; OD,Opened
+12,https://github.com/Apache/Struts,13d9053050c9e4fb2ef049db6a37d3f6eebf48fa,plugins/portlet,4,4,0,OD-Vic,Accepted
+12,https://github.com/CloudSlang/cloud-slang,76b733019b362f551481f1bdc78ed2eac73b1bd4,cloudslang-compiler,4,0,4,ID,Opened
+12,https://github.com/CloudSlang/cloud-slang,2b5914c479984244f656af5c1eed0e081e988d6a,cloudslang-runtime,4,4,0,OD,-
+12,https://github.com/OpenAPITools/openapi-generator,fe934dc1b40227369f226611219886760458f6d2,modules/openapi-generator,4,0,4,ID,Accepted; Skipped
+12,https://github.com/adobe/asset-share-commons,ee3ef7051e3ea3eb7f5d904fac177bc56623c6ed,core,4,0,4,ID,Accepted
+12,https://github.com/alibaba/fastjson2,3de60a9769f2c95cbceef13b0158b1af934ab323,extension-solon,4,0,4,ID,Accepted
+12,https://github.com/alibaba/jetcache,d28019640ac3eb6ac167dd0dc582adac7656226e,jetcache-test,4,0,4,ID,Accepted
+12,https://github.com/alibaba/nacos,e77a0bbe0d39a852a52a8d81c20f3fab4f98773d,api,4,0,4,ID,Accepted
+12,https://github.com/alibaba/nacos,a0543adafcfed733c0659454e58b3bcd605008a4,common,4,0,4,ID,Accepted
+12,https://github.com/apache/atlas,c0700e436afccc04e7f77480d6fb8aed8e293db4,graphdb/janus,4,0,4,ID,Opened
+12,https://github.com/apache/avro,bfbd2d115aec576545b0673e876a652806b41986,lang/java/avro,4,0,4,ID,Accepted; Opened
+12,https://github.com/apache/camel,5c1f9e8214b16331e44a5d4142aed1d1b69008a4,components-starter/camel-gson-starter,4,0,4,ID,Accepted
+12,https://github.com/apache/camel-spring-boot,a0c6a4e8e692d898c140b5d120313e53497fa608,components-starter/camel-gson-starter,4,0,4,ID,Accepted
+12,https://github.com/apache/causeway,101f656b845168feb3d6d72c31b55999f261d20f,extensions/vw/pdfjs/metamodel,4,0,4,ID,Opened
+12,https://github.com/apache/hadoop,14cd969b6ea1898e9db6eeb9ea5292ec4558a706,hadoop-common-project/hadoop-common,4,0,4,ID,Accepted; Opened
+12,https://github.com/apache/incubator-shardingsphere,038232e9b2f7fb22ccf50c04b74fb900732b345d,sharding-orchestration/sharding-orchestration-core,4,0,4,ID,Accepted
+12,https://github.com/apache/jena,fc01d33e6c11eed68784f820bf2dd161868d1d37,jena-arq,4,0,4,ID,Accepted; InspiredAFix
+12,https://github.com/apache/nifi,2bd752d868a8f3e36113b078bb576cf054e945e8,nifi-nar-bundles/nifi-asn1-bundle/nifi-asn1-services,4,0,4,ID,Opened
+12,https://github.com/apache/nifi,2bd752d868a8f3e36113b078bb576cf054e945e8,nifi-commons/nifi-record,4,0,4,ID,Accepted
+12,https://github.com/apache/opennlp,8209cd308ee6ff7e61ec0346f1799a32541ed80f,opennlp-tools,4,0,4,ID,Accepted
+12,https://github.com/apache/openwebbeans,424af4bb7285b806d3e3efe5020cd3e440e0a4ff,webbeans-impl,4,0,4,ID,DeveloperWontFix; Opened; Rejected
+12,https://github.com/apache/openwebbeans,01245cf8ef0baaa9cd31342b0cdb075d314b6ef9,webbeans-tck,4,0,4,ID,Opened
+12,https://github.com/apache/servicecomb-java-chassis,9ba66ebc452db6aa5207e5cc7ebd03d48d358e9f,common/common-protobuf,4,0,4,ID,Accepted
+12,https://github.com/apache/servicecomb-java-chassis,76813bc18a2513d6797794721d0bcf72dcc4ab22,foundations/foundation-vertx,4,0,4,ID,Accepted
+12,https://github.com/apache/shenyu,10375c5204c67f9889235f19fe2d6e8eb0438a5a,shenyu-client/shenyu-client-http/shenyu-client-springmvc,4,4,0,OD,Accepted
+12,https://github.com/apache/tinkerpop,7bdfccd2832615c75ad4152d4ddb8a8430805f26,gremlin-driver,4,0,4,ID,MovedOrRenamed; Opened
+12,https://github.com/apolloconfig/apollo,e35ce8c013327b91d034b62d53eece055fa64970,apollo-client,4,0,4,ID,Accepted
+12,https://github.com/awspring/spring-cloud-aws,178a524976521531272277b20a077b810aef19ff,spring-cloud-aws-context,4,4,0,OD,Deleted
+12,https://github.com/cucumber/cucumber-jvm,1a6c5a6052ce1354cb34731c75a29991b9d06818,cucumber-core,4,0,4,ID,Accepted
+12,https://github.com/dromara/hutool,ec14f8384ad384fb6e054df722fe089d64af0c41,hutool-json,4,0,4,ID,Rejected
+12,https://github.com/everit-org/json-schema,81f0b2f5381cf964a49570a5f80bc78e12b5982b,core,4,0,4,ID,Accepted
+12,https://github.com/gchq/koryphe,36c63c3e24145e04405d7620524b23cf9b5b5849,core,4,0,4,ID,Opened
+12,https://github.com/hapifhir/hapi-fhir,443b59a78b08021cd101a591547a06353fd8242c,hapi-fhir-jaxrsserver-base,4,0,4,ID,Accepted
+12,https://github.com/hapifhir/hapi-fhir,f1318915fed0b62db760b27113107f2ae3aa33da,hapi-fhir-validation,4,0,4,ID,Opened
+12,https://github.com/jenkinsci/jenkins,d2fa87606246e1f1dc1450d7199778343945197e,test,4,0,4,ID,DeveloperFixed; Rejected
+12,https://github.com/kiegroup/jbpm,f7e80e82b7670c09485ce83869a287ef51dcb59c,jbpm-event-emitters/jbpm-event-emitters-elasticsearch,4,0,4,ID,Opened
+12,https://github.com/lets-blade/blade,0efa4ed9dd3cbf5d3323d5d5876cfa4b051a9aa9,blade-core,4,0,4,ID,Accepted
+12,https://github.com/liquibase/liquibase,31a22561423919b3875e0563a7bdcde3b9e457a9,liquibase-core,4,0,4,ID,Accepted
+12,https://github.com/manifold-systems/manifold,620743e82ddd69aaedc4e41869b3f96456ed949d,manifold-deps-parent/manifold-json-test,4,0,4,ID,Opened
+12,https://github.com/microsoft/botbuilder-java,c048de28cc11d4250014d042fb57e57a1c6bdba5,libraries/bot-connector,4,0,4,ID,Accepted
+12,https://github.com/openhab/openhab-core,660102e3f93f928473b66f56f2955090dfa3c30e,bundles/org.openhab.core.config.core,4,0,4,ID,Opened
+12,https://github.com/oracle/oci-java-sdk,ed791b79c9b90bc3e210d1b78b34ad3eeaf2a527,bmc-objectstorage/bmc-objectstorage-extensions,4,0,4,ID,Opened
+12,https://github.com/quarkusio/quarkus,842924c270d47ee7b350f4dd59df47586854beeb,independent-projects/qute/core,4,0,4,ID,DeveloperFixed; InspiredAFix
+12,https://github.com/quarkusio/quarkus,842924c270d47ee7b350f4dd59df47586854beeb,independent-projects/tools/registry-client,4,0,4,ID,Accepted; InspiredAFix
+12,https://github.com/ripe-ncc/whois,79e90f41d7eeee42f2c3ad299bfccc4e8005ce8c,whois-api,4,0,4,ID,Accepted; Opened
+12,https://github.com/schemacrawler/SchemaCrawler,18d6c5fb79c8e27cdeafc317ee63b27837aa6fec,schemacrawler-utility,4,0,4,ID,DeveloperFixed; InspiredAFix
+12,https://github.com/smooks/smooks,024ca88e771dd77032b1774fe257dcc233308d90,core,4,0,4,ID,Accepted; Opened
+12,https://github.com/spring-cloud/spring-cloud-aws,8d1675bd900071094ed92e638e8ff2ca093a6633,spring-cloud-aws-context,4,4,0,OD,RepoArchived
+12,https://github.com/wildfly/wildfly,914e190167a79c538e0f87ea4385a6626bdecc9a,clustering/marshalling/jboss,4,0,4,ID,DeveloperFixed
+12,https://github.com/wildfly/wildfly,914e190167a79c538e0f87ea4385a6626bdecc9a,marshalling/protostream,4,0,4,ID,DeveloperFixed
+11,https://github.com/alibaba/wasp,b2593d8e4b31ca6da0cd2f3e18356338d9b6dace,plan,5,1,0,NOD; OD,Unmaintained
+11,https://github.com/orbisgis/h2gis,bc5ceab8e5ad82e8b6ec0b5c47898e45fa3d62b2,h2gis-functions,4,0,3,ID; NIO,Accepted; DeveloperFixed
+11,https://github.com/javadelight/delight-nashorn-sandbox,da35edc0a75424bad8cbf60959fae253202154c4,.,3,0,0,NDOD; NDOD;NOD; NDOD;OD-Brit;TD,-
+11,https://github.com/DataDog/jmxfetch,15e72e2342dc29d71243308cdad8c525b4d34317,.,2,0,2,ID,Opened
+11,https://github.com/FasterXML/jackson-module-afterburner,bbe4e76330dee1c03d9cda576b9c37becb1f23a8,.,2,0,2,ID,RepoArchived
+11,https://github.com/FasterXML/java-classmate,912adde71f67719c7b1ed7df3c7ba28e8ba97876,.,2,0,2,ID,Accepted
+11,https://github.com/INRIA/spoon,93b5b35eff412a57892922962c8ea978ba6ba654,.,2,0,2,ID,Opened
+11,https://github.com/MyCATApache/Mycat-Server,77d409aceb6b9ce853a8ae585b8589e3d246707d,.,2,0,2,ID,Opened
+11,https://github.com/OpenHFT/Chronicle-Wire,27a9efc3ced000f46e0f46263614e08896058290,.,2,2,0,OD-Brit,Accepted
+11,https://github.com/SAP/fosstars-rating-core,6f37921610ee0d8438b9ec8adc8b02f88a17f992,.,2,0,2,ID,Accepted
+11,https://github.com/alibaba/easyexcel,756f16e42fbd7bc5c7fa18426cbc02fc81a42057,.,2,2,0,OD,Accepted
+11,https://github.com/alibaba/fastjson,5c6d6fd471ea1fab59f0df2dd31e0b936806780d,.,2,0,2,ID,Accepted
+11,https://github.com/alibaba/fastjson,37ed66bcaa3b0c88c5f3f0b09e6b4029c72c14cd,.,2,0,2,ID,Accepted; Opened
+11,https://github.com/alibaba/tamper,781c159496991705e273fb8538024dfa687235a5,.,2,0,2,ID,Opened
+11,https://github.com/amzn/amazon-instant-access-sdk-java,3aae2253569751eaa4c419300cf9915f03a42bf1,.,2,0,2,ID,Opened
+11,https://github.com/apache/commons-lang,912ab7154d5280a2632f375b5efd97e1b70149a4,.,2,0,2,ID,Accepted
+11,https://github.com/apache/sling-org-apache-sling-servlets-get,e621def77b3ea82e8a054db9f4d04efe70192127,.,2,0,2,ID,Accepted
+11,https://github.com/aws/aws-dynamodb-encryption-java,66c679bd705a9dd64b6c05fe2bf71ba5a27e84c1,.,2,0,2,ID,Accepted
+11,https://github.com/confluentinc/kafka-connect-elasticsearch,4d771248e26802e1986c6b7ed930106be5f76b1f,.,2,0,2,ID,Deleted
+11,https://github.com/hneemann/Digital,ce65635267a64ab4b4f8e6ce85441dcf1af3644f,.,2,0,2,ID,Opened
+11,https://github.com/intel/jndn-utils,b4f2fb28e48d8a4bc18410ec6c932c0c229f8884,.,2,0,2,ID,Accepted
+11,https://github.com/julianhyde/linq4j,6cac5e4fedb90cd98198f365665fcb9342f49c21,.,2,0,2,ID,Rejected
+11,https://github.com/junit-team/junit4,7167b23b3ba7dd79410f6e9db350d16cbe30617b,.,2,0,2,ID,Opened; Unmaintained
+11,https://github.com/mirromutth/r2dbc-mysql,4b6afab92001d3e47d38278463bc7944f9eacd9b,.,2,0,2,ID,Accepted
+11,https://github.com/paypal/sdk-core-java,42e793eeafae2fd1cb90fe2cc81a8ba22be830da,.,2,0,2,ID,RepoArchived
+11,https://github.com/pinterest/secor,d7ad8a0819b7f88f0e29bae67278608a5942b5fb,.,2,2,0,OD-Brit,Opened
+11,https://github.com/pinterest/secor,a76fe9fedfa0571347d0b5465b3c40c83dd3c949,.,2,2,0,OD,Opened
+11,https://github.com/redis/jedis,d2f6712cb633a5cba84ef0c555be7caeec7a8abb,.,2,0,2,ID,Opened
+11,https://github.com/spring-projects/spring-data-envers,5637994be37747e82b2d6d5b34555e2bee791fe6,.,2,2,0,OD-Vic,Accepted; DeveloperFixed
+11,https://github.com/spring-projects/spring-data-jpa,dccc58040b2eb59f1ed425df491e6de87b130897,.,2,0,2,ID,Accepted
+11,https://github.com/stleary/JSON-java,a57eff26d53418c50f6989031a74a153235f62c5,.,2,0,2,ID,Rejected
+11,https://github.com/tbsalling/aismessages,7b0c4c708b6bb9a6da3d5737bcad1857ade8a931,.,2,2,0,OD-Vic,Accepted
+11,https://github.com/twilio/authy-java,394f11bea2ec438e6e6e7eb084497ae6fdf90ab6,.,2,0,2,ID,Opened; RepoArchived
+11,https://github.com/wildfly/jboss-ejb-client,21ba139c3d49b0d5231372f80511e7f732414ca9,.,2,0,2,ID,Accepted; DeveloperFixed
+10,https://github.com/apache/dubbo,737f7a7ea67832d7f17517326fb2491d0a086dd7,dubbo-remoting/dubbo-remoting-netty,5,0,0,NDOD; NDOD;NIO; UD; UD;TD,Deleted
+10,https://github.com/apache/hadoop,cc2babc1f75c93bf89a8f10da525f944c15d02ea,hadoop-tools/hadoop-distcp,5,0,0,NOD,-
+10,https://github.com/biojava/biojava,e99364ac14294adeb9385b7b93c602c2d9b66bb6,biojava-integrationtest,5,0,0,NOD,-
+10,https://github.com/outbrain/aletheia,024a4b7ea4c186329bbe1e20bb31048d95add836,aletheia-core,5,0,0,NOD; UD,RepoDeleted
+10,https://github.com/zalando/riptide,8277e11fc069d8e24df0d233ef2577cc75659b75,riptide-failsafe,5,0,0,NDOD; NOD; UD,-
+10,https://github.com/alibaba/wasp,b2593d8e4b31ca6da0cd2f3e18356338d9b6dace,master,4,2,0,NOD; OD,Unmaintained
+10,https://github.com/eclipse-ee4j/tyrus,d86e0cb0a4f26ba89daf8668137c156e57fea565,tests/e2e/non-deployable,4,0,2,ID; NIO; NOD;UD,Accepted
+9,https://github.com/fromage/redpipe,0aff891d6befdf0dcc2bdbfda22262cdf82ac66f,redpipe-templating-freemarker,4,0,1,ID; NOD,Opened; RepoArchived
+9,https://github.com/Apache/Struts,3a7c35a014f8a3471a1b75e7546e01ecf21d5db3,core,3,0,3,ID,Accepted; Rejected
+9,https://github.com/Apache/Struts,13d9053050c9e4fb2ef049db6a37d3f6eebf48fa,plugins/json,3,0,3,ID,Accepted; Rejected
+9,https://github.com/AxonFramework/AxonFramework,d5684f0b7c2403eafd23517d6d2421bcae029617,extensions/spring/spring-boot-autoconfigure,3,0,3,ID,Opened
+9,https://github.com/AxonFramework/AxonFramework,e9809cbd5bb1f32b39d9e7408de1c8c395411350,messaging,3,0,3,ID,Accepted
+9,https://github.com/ConsenSys/tessera,ecdd1a2ce6412c11a8ae722d7a4527a4a66da688,tessera-partyinfo,3,3,0,OD,Accepted
+9,https://github.com/ConsenSys/tessera,ecdd1a2ce6412c11a8ae722d7a4527a4a66da688,eclipselink-utils,3,3,0,OD,Accepted
+9,https://github.com/EsotericSoftware/kryo,c6d199b1e3622dd323d0641260c4e31cec439636,main,3,0,3,ID,Accepted
+9,https://github.com/EsotericSoftware/kryo,c6d199b1e3622dd323d0641260c4e31cec439636,main-versioned,3,0,3,ID,Accepted
+9,https://github.com/FasterXML/jackson-modules-base,34b0362b7d8d6f42f7bf954f0bc043d368e8f0eb,jaxb,3,0,3,ID,DeveloperFixed; InspiredAFix
+9,https://github.com/LinShunKang/MyPerf4J,4c0a98d8f0f93733b0fddbb2b4b3dd4edd32470d,MyPerf4J-Base,3,0,3,ID,InspiredAFix
+9,https://github.com/NanoHttpd/nanohttpd,efb2ebf85a2b06f7c508aba9eaad5377e3a01e81,nanolets,3,0,3,ID,Unmaintained
+9,https://github.com/OpenAPITools/openapi-generator,b70edd7f1b600b7927913528405de98ebbebf5ce,modules/openapi-generator,3,0,3,ID,Opened
+9,https://github.com/alibaba/Sentinel,0a34fc4d11392f0587e7ba5bf2626f902b23c750,sentinel-adapter/sentinel-jax-rs-adapter,3,3,0,OD-Vic,Opened
+9,https://github.com/alibaba/Sentinel,7e2fa454fa0546c04142a268454faabac79370d0,sentinel-core,3,3,0,OD,Accepted
+9,https://github.com/alibaba/nacos,63bd28ae9df8a164f5b8e981f4c533a5bce54eee,utils,3,0,3,ID,MovedOrRenamed
+9,https://github.com/apache/accumulo,7e6ad2d3636e361a402aae207666a4bf690a1fd6,server/base,3,0,3,ID,Accepted
+9,https://github.com/apache/causeway,101f656b845168feb3d6d72c31b55999f261d20f,core-metamodel,3,0,3,ID,Accepted; InspiredAFix
+9,https://github.com/apache/cayenne,5209b9f533ab5f2ac97d31eeb3d1dd2c4dbd64d8,cayenne-server,3,0,3,ID,Opened
+9,https://github.com/apache/cloudstack,64262d943f012c40deac3cd87c67d44fdc727b52,plugins/network-elements/opendaylight,3,0,3,ID,Accepted
+9,https://github.com/apache/cloudstack,64262d943f012c40deac3cd87c67d44fdc727b52,utils,3,0,3,ID,Accepted
+9,https://github.com/apache/druid,4a594bb9f6ab89eabda5db654a9d215633340c66,server,3,0,3,ID,Opened
+9,https://github.com/apache/druid,9106cb049692722866e66e42b28bd0f8f7898ab5,extensions-core/mysql-metadata-storage,3,0,3,ID,Opened
+9,https://github.com/apache/dubbo,3720471e56717b7e3494a7352aa437ef95507fe1,dubbo-common,3,0,3,ID,Accepted
+9,https://github.com/apache/dubbo,3fc2d100bb2081c3da1996508e1f1200cea21d2f,dubbo-common,3,0,3,ID,Accepted
+9,https://github.com/apache/dubbo,737f7a7ea67832d7f17517326fb2491d0a086dd7,dubbo-registry/dubbo-registry-default,3,3,0,OD,Accepted
+9,https://github.com/apache/flink,23c9b5ac50d04d28a34a87c78eb2d3331c06b74b,flink-tests,3,0,3,ID,Rejected
+9,https://github.com/apache/flink,23c9b5ac50d04d28a34a87c78eb2d3331c06b74b,flink-connectors/flink-connector-hive,3,0,3,ID,Accepted; MovedOrRenamed
+9,https://github.com/apache/flink,ac1525e6a28467d202ca43b95b0c94873396de37,flink-table/flink-table-planner,3,0,3,ID,Opened
+9,https://github.com/apache/hadoop,a585a73c3e02ac62350c136643a5e7f6095a3dbb,hadoop-hdfs-project/hadoop-hdfs-nfs,3,3,0,OD,Accepted
+9,https://github.com/apache/hadoop,a585a73c3e02ac62350c136643a5e7f6095a3dbb,hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-web-proxy,3,3,0,OD,-
+9,https://github.com/apache/hop,be70e6fa1d4bf180c2766edc4c21d10fc215118b,core,3,0,3,ID,Accepted
+9,https://github.com/apache/hop,be70e6fa1d4bf180c2766edc4c21d10fc215118b,plugins/transforms/xml,3,0,3,ID,Accepted
+9,https://github.com/apache/ignite-3,a1aa7fd4e2398c72827777ec5417d67915ff4da3,modules/runner,3,0,3,ID,Deleted; MovedOrRenamed
+9,https://github.com/apache/incubator-hugegraph-toolchain,1c47673eb9511d3eff0d0901012a69d7a0148cdc,hugegraph-client,3,0,3,ID,Accepted
+9,https://github.com/apache/incubator-seata,94dc7944f67419c652a124c2e7d18217e38ac352,server,3,0,3,ID,-
+9,https://github.com/apache/iotdb,f94f99a48281519ddf156ba67cd1825d1491557c,iotdb-core/confignode,3,0,3,ID,DeveloperFixed; Opened
+9,https://github.com/apache/kylin,31ab93618311cde8b95ca400811861002d7eaefb,stream-coordinator,3,0,3,ID,Accepted
+9,https://github.com/apache/nifi,2bd752d868a8f3e36113b078bb576cf054e945e8,nifi-nar-bundles/nifi-framework-bundle/nifi-framework/nifi-framework-cluster,3,0,3,ID,Accepted
+9,https://github.com/apache/nifi,2bd752d868a8f3e36113b078bb576cf054e945e8,minifi/minifi-toolkit/minifi-toolkit-configuration,3,0,3,ID,Deleted
+9,https://github.com/apache/nifi,2bd752d868a8f3e36113b078bb576cf054e945e8,nifi-nar-bundles/nifi-hadoop-bundle/nifi-hdfs-processors,3,0,3,ID,Opened
+9,https://github.com/apache/opennlp,dab19af803e9139b57b972eb4e1af4c978d2ff3f,opennlp-tools,3,0,3,ID,Accepted
+9,https://github.com/apache/openwebbeans,01245cf8ef0baaa9cd31342b0cdb075d314b6ef9,webbeans-impl,3,0,3,ID,Opened
+9,https://github.com/apache/pulsar,fdeb191a946a76ca5edde81464f453fcd03fc6d3,pulsar-common,3,0,3,ID,Accepted
+9,https://github.com/apache/pulsar,fdeb191a946a76ca5edde81464f453fcd03fc6d3,pulsar-functions/utils,3,0,3,ID,Accepted
+9,https://github.com/apache/servicecomb-java-chassis,9ba66ebc452db6aa5207e5cc7ebd03d48d358e9f,core,3,0,3,ID,Accepted
+9,https://github.com/apache/servicecomb-java-chassis,0eebf529ce50b443e5023c55b1a24b90d1873cec,clients/config-center-client,3,0,3,ID,Accepted
+9,https://github.com/apache/servicecomb-java-chassis,9ba66ebc452db6aa5207e5cc7ebd03d48d358e9f,swagger/swagger-generator/generator-core,3,0,3,ID,Accepted
+9,https://github.com/apache/servicecomb-java-chassis,9ba66ebc452db6aa5207e5cc7ebd03d48d358e9f,swagger/swagger-generator/generator-jaxrs,3,0,3,ID,-
+9,https://github.com/apache/tinkerpop,67ff95267a6627d732b84c5cee71f833f4f7bc51,gremlin-core,3,0,3,ID,Accepted
+9,https://github.com/awspring/spring-cloud-aws,4a4fd90280a497441c85e0daf5e458b2ca6ade6a,spring-cloud-aws-sns,3,0,3,ID,Opened
+9,https://github.com/dropwizard/dropwizard,07dfaed697427e208d65049f80a5d1949833b7cd,dropwizard-e2e,3,0,3,ID,Accepted
+9,https://github.com/dropwizard/dropwizard,df39fdeed1d14f7b014a22db59b06bfd4e562edd,dropwizard-health,3,0,3,ID,Accepted
+9,https://github.com/eclipse-ee4j/jersey,8105415f9a6356de774c8ffe6ab5dfa77934b69f,incubator/cdi-inject-weld,3,0,3,ID,DeveloperFixed; Opened
+9,https://github.com/facebook/facebook-java-business-sdk,492cda9aa1bac6e04e1b80de1794e74f9cea1cb6,facebook-java-business-sdk,3,0,3,ID,Opened
+9,https://github.com/gchq/Gaffer,f11dbd900273f3928372955266731f8623681f89,core/data,3,0,3,ID,Opened; RepoArchived
+9,https://github.com/gchq/Gaffer,f11dbd900273f3928372955266731f8623681f89,core/serialisation,3,0,3,ID,Opened
+9,https://github.com/google/gson,e685705b2bf3ae174958612a185bd231c0e0c5d9,extras,3,0,3,ID,DeveloperWontFix
+9,https://github.com/graphhopper/graphhopper,b65d9413e2dc29b662a1bb2db146b536471167a9,core,3,0,3,ID,Accepted; DeveloperWontFix
+9,https://github.com/jenkinsci/jenkins,d2fa87606246e1f1dc1450d7199778343945197e,core,3,0,3,ID,Opened; Rejected
+9,https://github.com/jolokia/jolokia,ead322cc39f43b5b46d9353f539896a430a61b69,jolokia-jvm,3,0,3,ID,Accepted
+9,https://github.com/karatelabs/karate,16452ef4d17ed76b079c6f1eba07a4749fa08d02,karate-core,3,0,3,ID,DeveloperWontFix; Rejected
+9,https://github.com/kiegroup/optaplanner,dff7457cb5ba1557727deddef5b675dd00fbf8a8,optaplanner-core,3,0,3,ID,Accepted; MovedOrRenamed
+9,https://github.com/knowm/XChange,d56e61f2cf1368f917965a8c43f292a2a1b28ebc,xchange-stream-coinbasepro,3,0,3,ID,Opened
+9,https://github.com/languagetool-org/languagetool,b753260938b41c688b4dd3f3a24067449fdb97e8,languagetool-language-modules/de,3,0,3,ID,Accepted
+9,https://github.com/modelmapper/modelmapper,689f5a36713a1e09edeeb8ecd7a822dbc097d7cd,core,3,0,3,ID,Opened
+9,https://github.com/mybatis-flex/mybatis-flex,d7259955b3e29ba6dcece18201e58c18952e6ce1,mybatis-flex-core,3,0,3,ID,Opened; Rejected
+9,https://github.com/netty/netty,0a3df28b2d8ed7b2f4f5389c81b2306c055e4762,codec-http,3,0,3,ID,Accepted
+9,https://github.com/networknt/light-4j,fcded1683dcbd41a968e221494778aa6b71e7428,body,3,3,0,OD,-
+9,https://github.com/opengoofy/crane4j,b65f7324544381646119be48393f0aa2b3417f2e,crane4j-core,3,0,3,ID,Accepted
+9,https://github.com/opengoofy/hippo4j,5e285ba5b47266d7dcede64aefae00fbe0c9c4ae,hippo4j-common,3,0,3,ID,Accepted; Opened
+9,https://github.com/openhab/openhab-core,660102e3f93f928473b66f56f2955090dfa3c30e,bundles/org.openhab.core,3,0,3,ID,Opened
+9,https://github.com/rest-assured/rest-assured,d3602d9a24e3bfef0c7367fe3c6f589b4147f0e7,modules/spring-web-test-client,3,0,3,ID,Accepted
+9,https://github.com/rest-assured/rest-assured,d3602d9a24e3bfef0c7367fe3c6f589b4147f0e7,json-path,3,0,3,ID,Accepted
+9,https://github.com/spring-cloud/spring-cloud-gcp,7ab8b2c249c825b499de5b66d080e64ddd0cced5,spring-cloud-gcp-secretmanager,3,3,0,OD,RepoArchived
+9,https://github.com/spring-cloud/spring-cloud-kubernetes,3351926041a630aee0961ba0e1be8f035e4ba2ca,spring-cloud-kubernetes-controllers/spring-cloud-kubernetes-configserver,3,3,0,OD,Accepted
+9,https://github.com/vavr-io/vavr,ae2ab78c4e576f8871e3726949489ea4edbc152b,vavr,3,0,3,ID,Accepted
+9,https://github.com/vipshop/vjtools,60c743da35913d72f37f2d79afa90ad2bf73cb89,vjkit,3,0,3,ID,Accepted
+9,https://github.com/wikidata/wikidata-toolkit,20de6f7f12319f54eb962ff6e8357b3f5695d54d,wdtk-dumpfiles,3,3,0,OD-Brit,Accepted
+9,https://github.com/Lucky-Dhakad/semanticvectors,cf2d883c5fafd84ca2530fb15e62ba399ebc7176,.,2,0,0,NOD,Unmaintained
+9,https://github.com/TooTallNate/Java-WebSocket,3b29042569e2a33c62599880ce396b2878889475,.,2,0,0,NDOD;NOD,Opened
+9,https://github.com/davidmoten/rxjava2-extras,7663d3b19295f12c35f80594efa1e507e98650b1,.,2,0,0,TD,-
+9,https://github.com/pinterest/secor,0927a127e3014ee494c97f8c0c25dafe9cf5ac27,.,2,0,0,NOD,Accepted
+9,https://github.com/rrd4j/rrd4j,37c76d77c6f8e62b52ba47ca79f2958f2bc7bd67,.,2,0,0,TZD,Accepted
+8,https://github.com/Activiti/Activiti,b11f757a48600e53aaf3fcb7a3ba1ece6c463cb4,activiti-engine,4,0,0,NIO; UD,Accepted; MovedOrRenamed
+8,https://github.com/helidon-io/helidon-build-tools,c60640f0aee61b44f377b7a1fff70022ed8846ca,archetype/engine-v2,4,0,0,NOD,-
+8,https://github.com/kagkarlsson/db-scheduler,0e9f2a8a063cda04a6537a829ebbe4e93134ab1c,db-scheduler,4,0,0,TD,-
+8,https://github.com/logzio/sawmill,e493c2e279b8820c0fdc2c79ab760d6759eb5a4a,sawmill-core,4,0,0,NOD; UD,-
+8,https://github.com/nationalsecurityagency/timely,16d73a18453d9ec9476f509faf2dd700716e47ac,server,4,0,0,NDOI,-
+8,https://github.com/pippo-java/pippo,ae898b6c478af7365b04c2f5bf9331abf496b166,pippo-session-parent/pippo-session-mongodb,4,0,0,NOD,-
+8,https://github.com/undertow-io/undertow,d0efffad5d2034bb07525cac9b299dac72c3045d,core,4,0,0,NOD; UD,-
+8,https://github.com/undertow-io/undertow,ac7204ab8cabb197a1327e5bbdb6e0e2ed1917f1,core,4,0,0,TD,-
+8,https://github.com/wildfly/wildfly,b19048b72669fc0e96665b1b125dc1fda21f5993,webservices/server-integration,4,0,0,NIO; UD,-
+8,https://github.com/opengoofy/hippo4j,cf854b3cb3c47fd339421e5a46a3ae3229c53829,infra/common,3,0,2,ID; NOD,Accepted
+8,https://github.com/orbit/orbit,c4904af2f3745fea93871493edd7e09348e77768,actors/runtime,3,0,2,ID; NDOD;NOD,Deleted
+8,https://github.com/orbit/orbit,c4904af2f3745fea93871493edd7e09348e77768,actors/test/actor-tests,3,0,2,ID; NIO,Deleted
+8,https://github.com/AmadeusITGroup/jenkins-opentracing-plugin,56cc6cd903770d35db27d3cacd86ded1e4b6f43a,.,1,0,1,ID,Opened
+8,https://github.com/AmadeusITGroup/workflow-cps-global-lib-http-plugin,fa78cb033a5b95fa6ab914991936253e406867ea,.,1,0,1,ID,Opened
+8,https://github.com/AuthMe/AuthMeReloaded,fcd4a2fad777ab54ac271702225c4a0f19edb186,.,1,0,1,ID,Accepted
+8,https://github.com/DataDog/datadog-kafka-connect-logs,e453f0c9efb50f2d7aaf2186ff024b15bca9742b,.,1,0,1,ID,Opened
+8,https://github.com/DataDog/jmeter-datadog-backend-listener,4b237366bf81050e56aa4d96944cffcd594593c0,.,1,0,1,ID,Accepted
+8,https://github.com/FasterXML/jackson-annotations,381d6abcefd0e5fd19529f244173313b7f91954f,.,1,0,1,ID,Accepted
+8,https://github.com/FasterXML/jackson-databind,5e0d5f63644a12d8ee9786e341ffa260f7b1cd97,.,1,0,1,ID,Accepted
+8,https://github.com/FasterXML/jackson-databind,9b11650a6c3fee9ef9e3fb264d2244f65affc2ee,.,1,1,0,OD,Accepted
+8,https://github.com/FasterXML/jackson-databind,cd3c6a9dd929820d4fc32457f4861fb5c5893f97,.,1,0,1,ID,Accepted
+8,https://github.com/FasterXML/jackson-dataformat-xml,6f6ee8d4ad1f71e3db99af5b20cae4daab3457db,.,1,0,1,ID,Accepted
+8,https://github.com/FasterXML/jackson-dataformat-xml,f5cc10a910b153ec9f162c6d212212b39bfc889d,.,1,0,1,ID,Accepted
+8,https://github.com/GoogleCloudPlatform/appengine-plugins-core,2da5cb0ce81e93fc7cdd7ce4d0aa86ddff9cf1b1,.,1,0,1,ID,Accepted
+8,https://github.com/Meituan-Dianping/groupmeal-java-sdk,39547d3c2568eba11cab02c18827a68478d7cb47,.,1,0,1,ID,Opened
+8,https://github.com/MyCATApache/Mycat-Server,243539fb74bbdcb9819fecc7e7b50ccf0899e671,.,1,0,1,ID,Unmaintained
+8,https://github.com/OWASP/json-sanitizer,fc612ab374de73d03864d56fb87b6a103b234489,.,1,0,1,ID,Opened
+8,https://github.com/OpenFeign/feign-vertx,5c64572a72581178e9e7f382a5b45d7503af7ea9,.,1,0,1,ID,Accepted
+8,https://github.com/PSteph/jsonToOrmMapper,b84ba5c14dd40ca9f8556ba7b4bae6e868b3668e,.,1,0,1,ID,Opened
+8,https://github.com/SAP/emobility-smart-charging,53c97ae60625a3e89a130213551840e455b74ae6,.,1,0,1,ID,Accepted
+8,https://github.com/Slimefun/Slimefun4,d5e4149b4f4d83dd1620d4a4cbb6d876903c851c,.,1,0,1,ID,Accepted
+8,https://github.com/Slimefun/Slimefun4,282367d6ffaf60d79f1fa357d90b01ca154c44f2,.,1,0,1,ID,MovedOrRenamed
+8,https://github.com/Sunagatov/Iced-Latte,68bf2a885ac6ac18b012700be4de7e80b3f52a5c,.,1,0,1,ID,Accepted
+8,https://github.com/TestingResearchIllinois/starts,76323ed1eb39bb7b4aea9797c9f081f3dd521ebd,.,1,0,1,ID,Accepted
+8,https://github.com/alibaba/asyncload,9891e7086bff81ebdd4991435d21b549e48e874d,.,1,1,0,OD-Vic,Unmaintained
+8,https://github.com/alibaba/fastjson,a7f1f5c4ac52503cc95bf1d27498098b3093a0df,.,1,1,0,OD,Opened
+8,https://github.com/amzn/amazon-hub-counter-sdk-java,c8d1be1f81539a3aebd31290441c8a9f602ca3d9,.,1,0,1,ID,Opened
+8,https://github.com/amzn/amazon-pay-api-sdk-java,4093fc0ddca8e410764919f587a2e984246d5dc1,.,1,0,1,ID,Opened
+8,https://github.com/amzn/amazon-pay-api-sdk-java,ff493ba434744f19c76ee6b71b8035460c173fce,.,1,0,1,ID,Opened
+8,https://github.com/apache/dubbo-admin,efb7a8d92f5e3c38e7f29c25d3793b00583a113e,.,1,0,1,ID,Accepted
+8,https://github.com/apache/karaf,b368a87cba0f0e235d5dae72fd6c3559b50fb75c,.,1,1,0,OD,Accepted
+8,https://github.com/apache/log4j,7be00eed88152dd011a619e8bae5a631235c3f4c,.,1,0,1,ID,Deprecated
+8,https://github.com/apache/pdfbox,499844caf33c2743b373b34b7a781ec2d65b0660,.,1,0,1,ID,InspiredAFix
+8,https://github.com/apilayer/restcountries,85c3a55d8c9692743d5e54f2a06fe01513ae09a0,.,1,0,1,ID,Opened
+8,https://github.com/bpsm/edn-java,4cf29ffe2d063269cb09c9bf4f6fd5c1a3cb4e1b,.,1,0,1,ID,Accepted
+8,https://github.com/braintree/braintree_java,4471cdb6bd5fed2509d4c529ae896ffbb07713ae,.,1,0,1,ID,Accepted
+8,https://github.com/braintree/braintree_java,561c22adba514c4ab478c53388024305e6a231dc,.,1,0,1,ID,Opened
+8,https://github.com/braintree/braintree_java,e1df4a08654aa4d32726500f6fe10a6c0ddb98bf,.,1,0,1,ID,Opened
+8,https://github.com/checkstyle/checkstyle,c3a4af8c608684cea98c727051b188de1813fc83,.,1,0,1,ID,-
+8,https://github.com/citerus/dddsample-core,88700971072fad9c0bb2226b4affe2ddf27b031b,.,1,0,1,ID,Opened
+8,https://github.com/classgraph/classgraph,d3b5aebd2d9bfc8b98539f7ce157775cc5af6e95,.,1,0,1,ID,Accepted
+8,https://github.com/cloudera/altus-sdk-java,914688f557923a8d9fae44b4da318e3e66c96d74,.,1,0,1,ID,RepoArchived
+8,https://github.com/code4craft/tiny-spring,2e0a2ba49c703f33fcca359a97af86094b4ded0d,.,1,0,1,ID,Opened
+8,https://github.com/eBay/taxonomy-sdk,7d6bc84b8d3c20b872b3457a4c22cf03cef1bbd6,.,1,0,1,ID,Opened
+8,https://github.com/eclipse-vertx/vert.x,67ba7136b486fef8d22699c6fc366d80bf6eb6fa,.,1,0,1,ID,Accepted
+8,https://github.com/facebook/facebook-java-business-sdk,4d9fd05f8d3909d23093fbd65c6b2b84c32f1ba9,.,1,0,1,ID,Opened
+8,https://github.com/hexagonframework/spring-data-ebean,dd11b97654982403b50dd1d5369cadad71fce410,.,1,1,0,OD-Brit,Accepted
+8,https://github.com/intel/graphbuilder,ca510a155398c32134ccc9dbe88cfbaef0254088,.,1,0,1,ID,RepoArchived
+8,https://github.com/j256/ormlite-core,61ebf9e20fcc1e243de3e40b235445bae4de6dbc,.,1,0,1,ID,Accepted
+8,https://github.com/javadev/underscore-java,cd437058731dcce7ce0206857610b8c3842384e6,.,1,0,1,ID,Accepted
+8,https://github.com/jdereg/java-util,245458a912e04bf85116b10f240e7b4be217cd4f,.,1,0,1,ID,Accepted
+8,https://github.com/jdereg/json-io,0df114821029ecb9bfbd0e3657f2b515c9a85889,.,1,0,1,ID,Accepted
+8,https://github.com/jdereg/json-io,a6f9b6bbf0bd99cd9fa681d7ffeceb90ea87461e,.,1,0,1,ID,Accepted
+8,https://github.com/jdereg/json-io,8d46689078710b044c80ff577c486e323d035eb5,.,1,0,1,ID,Accepted
+8,https://github.com/jdereg/json-io,fc5e2d1e442cb1172bbeaa7a16daece76c298214,.,1,0,1,ID,Accepted
+8,https://github.com/jdereg/json-io,e2dfec0aa5b539f8b2e1eca8c56ebede4d9b1215,.,1,0,1,ID,Accepted
+8,https://github.com/jfree/jfreechart,e2d6788d594c51941ddae337ae666fda5c52ad9f,.,1,0,1,ID,Opened
+8,https://github.com/jfree/jfreechart,520a4be69ba932061ab9b89f328842caf152e1d9,.,1,1,0,OD-Vic,InspiredAFix
+8,https://github.com/jmeter-maven-plugin/jmeter-maven-plugin,618363c461843ec2849cdc15d53ee85bdbaec3f2,.,1,0,1,ID,Accepted
+8,https://github.com/kal-an/file-reader-app,ba6af3f33000ff1fcde9338922e55a7b1c374f99,.,1,0,1,ID,Opened
+8,https://github.com/mybatis/mybatis-3,0ca486022cbc98bed6ae9d017919dae564986aec,.,1,0,1,ID,Accepted
+8,https://github.com/networknt/json-schema-validator,fdae2f85faf213562a3dee8f28b20453dc882203,.,1,0,1,ID,Accepted
+8,https://github.com/openhab/org.openhab.binding.zwave,495d04fcbe867ef1fb532ac546b41a243c56b2a6,.,1,0,1,ID,Accepted
+8,https://github.com/openpojo/openpojo,00ed7a06b6403e7f64b298a94c63d7ac70735ff9,.,1,1,0,OD,Unmaintained
+8,https://github.com/pedrovgs/Algorithms,ed6f8a49948c09a21bfeb7bc38b4f24141795e38,.,1,0,1,ID,Accepted
+8,https://github.com/perwendel/spark,1973e402f5d4c1442ad34a1d38ed0758079f7773,.,1,0,1,ID,Opened
+8,https://github.com/protegeproject/webprotege-backend-service,c9105780451b936a74dfe6a829403e60798099d4,.,1,0,1,ID,Accepted
+8,https://github.com/sabidea23/SmartTranslator,531cfab7a693411d54d84514dcec3c4e79c0078b,.,1,0,1,ID,Opened
+8,https://github.com/schemacrawler/SchemaCrawler,6841c10aa3b184df292b69d1e289eec3265899fd,.,1,0,1,ID,InspiredAFix
+8,https://github.com/schemacrawler/SchemaCrawler,2f18230f56c4b137bae0128fbf2f2d4348c0d2be,.,1,0,1,ID,InspiredAFix
+8,https://github.com/skyscreamer/JSONassert,523009b2576b9f54ed78c6f4720fba87f79b1466,.,1,0,1,ID,Opened
+8,https://github.com/snowflakedb/snowflake-jdbc,c4b5f224b9b5b9a691e6f90e9044e7d93d89a264,.,1,0,1,ID,Accepted
+8,https://github.com/spring-cloud/spring-cloud-gateway,9c1bf07102da85b1bc2d1d5b0f63057c956ee155,.,1,0,1,ID,Accepted
+8,https://github.com/spring-projects/spring-data-couchbase,6c6acf8ae2940a6e479c8cbe3413094d04a55aa1,.,1,0,1,ID,-
+8,https://github.com/spring-projects/spring-data-keyvalue,8f1c0ece243fff61864db065e1a87e6fa95f3960,.,1,0,1,ID,Opened
+8,https://github.com/spring-projects/spring-data-redis,88d8f84333c404e865fbeb7768f88ad201a9ddce,.,1,0,1,ID,InspiredAFix
+8,https://github.com/square/catalog-api-demo,79e7a447aa0c0c3ca5512c826e6654119bde4988,.,1,0,1,ID,RepoArchived
+8,https://github.com/square/pagerduty-incidents,c95398ffcb246082bfccddf36fcb97c877a17204,.,1,0,1,ID,Opened
+8,https://github.com/stleary/JSON-java,bc623e36d6af01b43729c94d8381642a94f95a84,.,1,0,1,ID,Accepted
+8,https://github.com/streamx-co/FluentJPA,4faabd6739e53db9b98630e3e348d367c92e705f,.,1,0,1,ID,Accepted
+8,https://github.com/strimzi/strimzi-kafka-operator,384d7dcaf3b2872bd3cdbfb228c72408171858ed,.,1,0,1,ID,Accepted
+8,https://github.com/strimzi/strimzi-kafka-operator,b34683851194c09f77c2bc5498c80813c9bfd92e,.,1,0,1,ID,Accepted
+8,https://github.com/strimzi/strimzi-kafka-operator,f87159a66f442c9f4eb74ae457e18d6983216bda,.,1,0,1,ID,Accepted
+8,https://github.com/strimzi/strimzi-kafka-operator,102ea7481f44c4d969c5e748cd47e9a0e1062cc5,.,1,0,1,ID,Accepted
+8,https://github.com/strimzi/strimzi-kafka-operator,75e88e555ad5c63ab04b6f54d1eb019f10477301,.,1,0,1,ID,Accepted
+8,https://github.com/strimzi/strimzi-kafka-operator,4e9a154ed8441072727009a5fb4aacda652f85e8,.,1,0,1,ID,Accepted
+8,https://github.com/strimzi/strimzi-kafka-operator,a908c9cd2492fb5100775c68e98f971d36766418,.,1,0,1,ID,Accepted
+8,https://github.com/strimzi/strimzi-kafka-operator,00b8503e717522b131a0be1cd87299d5390f2583,.,1,0,1,ID,Accepted
+8,https://github.com/strimzi/strimzi-kafka-operator,4b860537e049e42acb43d21a34d3b9d6aa294b29,.,1,0,1,ID,Accepted
+8,https://github.com/strimzi/strimzi-kafka-operator,908ca367ed5120591c2c4bb22dcf3b1b4087714c,.,1,0,1,ID,Accepted
+8,https://github.com/strimzi/strimzi-kafka-operator,39ee2602d91d26658ec4fa068b07497f9b89fe12,.,1,0,1,ID,Accepted
+8,https://github.com/strimzi/strimzi-kafka-operator,9943442186724164892c20110a82cca1ac36d9ab,.,1,0,1,ID,Accepted
+8,https://github.com/tabulapdf/tabula-java,b0fde49e6aa06593d16c8aa0b8da0e3172db1ec2,.,1,0,1,ID,Opened
+8,https://github.com/ttddyy/datasource-assert,2cf1ad31948e4e18b60483b67417ab68e61ffc10,.,1,0,1,ID,Opened
+8,https://github.com/twilio/twilio-java,49865104e861266937f2db20157e6b724e5b3b87,.,1,0,1,ID,Accepted
+7,https://github.com/apache/shardingsphere-elasticjob,b022898ef1b8c984e17efb2a422ee45f6b13e46e,elastic-job-lite-lifecycle,3,0,1,ID; NOD,DeveloperFixed
+7,https://github.com/eBay/mTracker,dbead631bb0e8cacbb4448fef7aa2fe3aefc034b,core,3,0,1,ID; NIO,Accepted
+7,https://github.com/ArangoDB-Community/arangodb-tinkerpop-provider,e61a1b05cda8b1aa6f61dbbed77841b6f260a9e6,.,1,0,0,UD,Unmaintained
+7,https://github.com/CrawlScript/WebCollector,016b61a1f6e52cf2ffb048a2abcc01d767beb0ab,.,1,0,0,NOD,DeveloperFixed
+7,https://github.com/GoogleCloudPlatform/appengine-plugins-core,d3160f0e47ca001d2c35b2b2d3b90bcb6438613b,.,1,0,0,OSD,-
+7,https://github.com/JodaOrg/joda-time,d1ea2a53929d7d56d4f4560852e5586517a0dd47,.,1,0,0,UD,-
+7,https://github.com/alibaba/fastjson,c942c83443117b73af5ad278cc780270998ba3e1,.,1,0,0,NOD,Opened
+7,https://github.com/cescoffier/vertx-completable-future,011d3cd963b9a810c2e8e616da27bbfd8a3c717e,.,1,0,0,TD,-
+7,https://github.com/codingchili/excelastic,6bb7884b1e70f9e588d75bdaf132a84f6e896a7a,.,1,0,0,NDOD;OD-Vic;NOD,Unmaintained
+7,https://github.com/dnsjava/dnsjava,d97b6a0685d59143372bb392ab591dd8dd840b61,.,1,0,0,UD,MovedOrRenamed
+7,https://github.com/fluent/fluent-logger-java,2e5fdf2dbed59cc5af88442ceae6cbe72f321060,.,1,0,0,TD,-
+7,https://github.com/kanwangzjm/funiture,71ca0fb0658b3d839d9e049ac36429207f05329b,.,1,0,0,NIO,Opened
+7,https://github.com/phax/as2-lib,a5b4ba5d5b110e649770609e803338763bec8c39,.,1,0,0,UD,-
+7,https://github.com/vert-x3/vertx-rabbitmq-client,aedb985fe70084f8557eacefb09b303f9f1e99b7,.,1,0,0,NOD,-
+6,https://github.com/apache/hbase,801fc05e9c082ab12c7c1207087d3667ab162d1a,hbase-procedure,3,0,0,NOD; UD,-
+6,https://github.com/apache/shardingsphere-elasticjob,b022898ef1b8c984e17efb2a422ee45f6b13e46e,elastic-job-lite-spring,3,0,0,NOD,-
+6,https://github.com/c2mon/c2mon,d80687b119c713dd177a58cf53a997d8cc5ca264,c2mon-daq/c2mon-daq-core,3,0,0,NDOD; NOD;UD; UD,Unmaintained
+6,https://github.com/qos-ch/logback,0f57531977287fd3d8c9046e9f68e281715f3b10,logback-classic,3,0,0,TD,-
+6,https://github.com/spinn3r/noxy,d53a49421f385c70b5abe7e8cda84ff3a7b59c71,noxy-discovery-zookeeper,3,0,0,NDOD;UD; NDOD;UD;NOD,RepoDeleted
+6,https://github.com/Alluxio/alluxio,e6d76803f27133d7700811585f5310470e50e487,core/server/worker,2,0,2,ID,DeveloperFixed
+6,https://github.com/BroadleafCommerce/BroadleafCommerce,735ecc72e64a2ab91c6c86f54e7c81655c10a886,common,2,0,2,ID,Opened
+6,https://github.com/FasterXML/jackson-datatypes-collections,78d1d23c015eaf74fda45eff2b816400e41bd651,eclipse-collections,2,0,2,ID,Opened
+6,https://github.com/FasterXML/jackson-datatypes-collections,8b88868ac3012783fb7f1bda00309c823172e02a,guava,2,0,2,ID,InspiredAFix
+6,https://github.com/FasterXML/jackson-jakarta-rs-providers,f3e98a564d3f194c0e68136c9ece157fb30723dc,base,2,0,2,ID,Accepted
+6,https://github.com/FasterXML/jackson-jaxrs-providers,fcc3e957b9d9d71ead4765f9181df6b11f09d1ec,base,2,0,2,ID,Accepted
+6,https://github.com/IBM/platform-services-java-sdk,9397602ebd5329b035851542c84c3a347b23eb7d,modules/configuration-governance,2,0,2,ID,Rejected
+6,https://github.com/OpenFeign/feign,3a351fa0716c51b5b4d7caa0c5f72cd61f80445f,json,2,0,2,ID,Accepted
+6,https://github.com/OpenHFT/Chronicle-Wire,6f6a3cb3b2ba45ecfa891c85a0b85d595b9c0802,UNKNOWN,2,0,2,ID,Opened
+6,https://github.com/OryxProject/oryx,43511f068bb4905769edc00e32f894016e2d0419,framework/oryx-common,2,0,2,ID,Accepted
+6,https://github.com/Tencent/spring-cloud-tencent,d6d663f07e0ef086a4b910e79df900a1ac8c0104,spring-cloud-tencent-starters/spring-cloud-tencent-metadata,2,0,2,ID,Accepted
+6,https://github.com/alibaba/Sentinel,051d583fd89a8ecd509d182a1883335119f1a8bf,sentinel-adapter/sentinel-reactor-adapter,2,2,0,OD-Brit; OD-Vic,-
+6,https://github.com/alibaba/jetcache,d9a26f0bcfaef1a7fb6b374be500d2f2d947306d,jetcache-test,2,0,2,ID,InspiredAFix
+6,https://github.com/alibaba/nacos,aeaaded00a70d7ea11982a0826cef1d7b3203d32,client,2,0,2,ID,Accepted
+6,https://github.com/alibaba/spring-cloud-alibaba,add08b6822cb7cf6b2a429dd30b0ed0e49a7db49,spring-cloud-alibaba-starters/spring-cloud-starter-alibaba-sentinel,2,2,0,OD,-
+6,https://github.com/apache/accumulo,528f9cac561c04e5c6723ba6307698d3c4341d5a,core,2,0,2,ID,InspiredAFix; Opened
+6,https://github.com/apache/aries-cdi,1b39afdec269266b91fe258dd4abe3bcf91aadcb,cdi-extender,2,0,2,ID,Opened
+6,https://github.com/apache/causeway,101f656b845168feb3d6d72c31b55999f261d20f,api/applib,2,0,2,ID,InspiredAFix
+6,https://github.com/apache/cloudstack,30ca5d1a196f45e43fc585e251591685421a6e23,engine/schema,2,0,2,ID,Accepted
+6,https://github.com/apache/cloudstack,64262d943f012c40deac3cd87c67d44fdc727b52,plugins/network-elements/nicira-nvp,2,0,2,ID,Accepted
+6,https://github.com/apache/cloudstack,b7835d02d251a50e3cd3a45bc9bae3b14945944f,plugins/network-elements/tungsten,2,0,2,ID,Accepted
+6,https://github.com/apache/commons-math,ec7eb8b32d9dff80f98c506a88c521a0ca3ea6a6,commons-math-neuralnet,2,0,2,ID,InspiredAFix
+6,https://github.com/apache/cxf,d849512da6499d00e3e84eb60733a0343a473b44,rt/javascript/tests,2,0,2,ID,DeveloperWontFix
+6,https://github.com/apache/cxf,649520354501295859b692ddf1b42adb919affbb,jaxrs/utils,2,0,2,ID,Accepted
+6,https://github.com/apache/directory-scimple,7f4c38e7b295ba8ba06b3490d9ec9f983570879e,scim-spec/scim-spec-schema,2,0,2,ID,InspiredAFix
+6,https://github.com/apache/druid,50963edcae70150f13520b619f167512d951a71b,extensions-core/avro-extensions,2,0,2,ID,Opened
+6,https://github.com/apache/druid,905f6d22df8f639507f3a88f6b275fdcecbd7434,extensions-core/kafka-indexing-service,2,0,2,ID,Opened
+6,https://github.com/apache/druid,4a594bb9f6ab89eabda5db654a9d215633340c66,extensions-core/parquet-extensions,2,0,2,ID,Opened
+6,https://github.com/apache/druid,905f6d22df8f639507f3a88f6b275fdcecbd7434,extensions-core/protobuf-extensions,2,0,2,ID,Accepted
+6,https://github.com/apache/druid,ad32f8458670339808a3136a9578a10a52b8394f,extensions-core/protobuf-extensions,2,0,2,ID,Accepted
+6,https://github.com/apache/druid,50963edcae70150f13520b619f167512d951a71b,extensions-core/kinesis-indexing-service,2,0,2,ID,Accepted; Opened
+6,https://github.com/apache/druid,905f6d22df8f639507f3a88f6b275fdcecbd7434,indexing-service,2,0,2,ID,Accepted; Opened
+6,https://github.com/apache/druid,50963edcae70150f13520b619f167512d951a71b,extensions-contrib/materialized-view-selection,2,0,2,ID,Opened
+6,https://github.com/apache/druid,ad32f8458670339808a3136a9578a10a52b8394f,extensions-contrib/moving-average-query,2,0,2,ID,Rejected
+6,https://github.com/apache/druid,50963edcae70150f13520b619f167512d951a71b,extensions-contrib/aliyun-oss-extensions,2,0,2,ID,Opened
+6,https://github.com/apache/druid,50963edcae70150f13520b619f167512d951a71b,extension/s3-extensions,2,0,2,ID,Accepted
+6,https://github.com/apache/dubbo,58d738682f02f0a315d72857b594eb9eace5e13d,dubbo-rpc/dubbo-rpc-triple,2,0,2,ID,Accepted
+6,https://github.com/apache/flink,a29a320187a45ca2579a4cdeddeb99a974d9cf2d,flink-connectors/flink-connector-hive,2,0,2,ID,DeveloperWontFix
+6,https://github.com/apache/flink,7542b56f2abb860f42a83c4687f6e38bb82b78c6,flink-table/flink-table-planner,2,0,2,ID,DeveloperWontFix
+6,https://github.com/apache/flink,ab70dcfa19827febd2c3cdc5cb81e942caa5b2f0,flink-table/flink-table-runtime,2,0,2,ID,DeveloperWontFix
+6,https://github.com/apache/flink,f91bd772de866a48d65dfcb31d4ef0d1ef2c001e,flink-core,2,0,2,ID,Opened
+6,https://github.com/apache/hadoop,a585a73c3e02ac62350c136643a5e7f6095a3dbb,hadoop-common-project/hadoop-kms,2,2,0,OD,-
+6,https://github.com/apache/hadoop,a585a73c3e02ac62350c136643a5e7f6095a3dbb,hadoop-hdfs-project/hadoop-hdfs-client,2,2,0,OD,-
+6,https://github.com/apache/hadoop,14cd969b6ea1898e9db6eeb9ea5292ec4558a706,hadoop-hdfs-project/hadoop-hdfs-client,2,0,2,ID,DeveloperFixed
+6,https://github.com/apache/hadoop,a585a73c3e02ac62350c136643a5e7f6095a3dbb,hadoop-common-project/hadoop-minikdc,2,2,0,OD,-
+6,https://github.com/apache/hadoop,a585a73c3e02ac62350c136643a5e7f6095a3dbb,hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-timelineservice,2,2,0,OD,-
+6,https://github.com/apache/hadoop,cc2babc1f75c93bf89a8f10da525f944c15d02ea,hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-timelineservice-hbase-tests,2,2,0,OD,-
+6,https://github.com/apache/hadoop,a585a73c3e02ac62350c136643a5e7f6095a3dbb,hadoop-yarn-project/hadoop-yarn/hadoop-yarn-applications/hadoop-yarn-services/hadoop-yarn-services-api,2,2,0,OD,-
+6,https://github.com/apache/hive,54e43339dd671018fc70ebb5d9f0b292d70391a6,serde,2,2,0,OD,-
+6,https://github.com/apache/ignite-3,a1aa7fd4e2398c72827777ec5417d67915ff4da3,modules/cli,2,0,2,ID,Accepted
+6,https://github.com/apache/incubator-kie-drools,45c3b2105ae89134e98a5d5be6adbc8d0fd65853,drools-beliefs,2,0,2,ID,Accepted
+6,https://github.com/apache/incubator-kie-drools,8440dc2d4b95412a05a3c7b9501993e1ace9b496,drools-decisiontables,2,0,2,ID,Accepted
+6,https://github.com/apache/incubator-kie-drools,8440dc2d4b95412a05a3c7b9501993e1ace9b496,drools-impact-analysis/drools-impact-analysis-itests,2,0,2,ID,Accepted
+6,https://github.com/apache/incubator-ratis,bc9d7615d8ffa30e79a36b9fd1950af38f0f6a49,ratis-server,2,2,0,OD,Accepted
+6,https://github.com/apache/incubator-seata,94dc7944f67419c652a124c2e7d18217e38ac352,common,2,0,2,ID,Accepted
+6,https://github.com/apache/incubator-seata,4959cfb49009d3e4c349fd2c95e590184bd5a9a8,common,2,2,0,OD,Opened
+6,https://github.com/apache/incubator-shenyu,3777209fc76800175df3962213ca1febe57edca6,shenyu-common,2,0,2,ID,Accepted
+6,https://github.com/apache/incubator-streampipes,7ba9213012b72ea70edc6848c18ba6d90ff2c534,streampipes-connect,2,0,2,ID,Accepted
+6,https://github.com/apache/jackrabbit-oak,11985b3fbbd4f7f39dfaf368b01b5e0c67a32f0d,oak-core,2,2,0,OD,Opened
+6,https://github.com/apache/jena,fc01d33e6c11eed68784f820bf2dd161868d1d37,jena-tdb1,2,0,2,ID,InspiredAFix
+6,https://github.com/apache/maven-doxia,ac99291a53152e5f8863c29417c914170de2caa9,doxia-modules/doxia-module-markdown,2,0,2,ID,MovedOrRenamed; Opened
+6,https://github.com/apache/myfaces-tobago,0d28540daca8429d410712b77b1386042bf90a45,tobago-core,2,0,2,ID,Accepted
+6,https://github.com/apache/nifi,2bd752d868a8f3e36113b078bb576cf054e945e8,nifi-nar-bundles/nifi-framework-bundle/nifi-framework/nifi-framework-authorization-providers,2,0,2,ID,Accepted
+6,https://github.com/apache/nifi,2bd752d868a8f3e36113b078bb576cf054e945e8,nifi-nar-bundles/nifi-cybersecurity-bundle/nifi-cybersecurity-processors,2,0,2,ID,Accepted
+6,https://github.com/apache/nifi,2bd752d868a8f3e36113b078bb576cf054e945e8,nifi-nar-bundles/nifi-splunk-bundle/nifi-splunk-processors,2,0,2,ID,Accepted
+6,https://github.com/apache/nifi,2bd752d868a8f3e36113b078bb576cf054e945e8,nifi-nar-bundles/nifi-framework-bundle/nifi-framework/nifi-site-to-site,2,0,2,ID,Opened
+6,https://github.com/apache/nifi,2bd752d868a8f3e36113b078bb576cf054e945e8,nifi-nar-bundles/nifi-standard-services/nifi-record-serialization-services-bundle/nifi-record-serialization-services,2,0,2,ID,Accepted
+6,https://github.com/apache/ozone,eb7136df7b53c77e239e82ff9d9d8063774fc717,hadoop-hdds/server-scm,2,2,0,OD,-
+6,https://github.com/apache/pinot,85e413ebe8c80513a8a676fc090b1af0f50861f0,pinot-common,2,0,2,ID,Accepted
+6,https://github.com/apache/pinot,f79b618141e07c140663791959d96956ad91d811,pinot-query-planner,2,0,2,ID,DeveloperFixed
+6,https://github.com/apache/pulsar,fdeb191a946a76ca5edde81464f453fcd03fc6d3,pulsar-client,2,0,2,ID,Accepted
+6,https://github.com/apache/pulsar,c4f125cfa292a8d61e0d037fa2d0fa1e89308b29,pulsar-client,2,0,2,ID,Accepted
+6,https://github.com/apache/pulsar,678db6b34587b0042235f0d31e4c406bb0263bcd,pulsar-io/http,2,0,2,ID,Accepted
+6,https://github.com/apache/servicecomb-java-chassis,9ba66ebc452db6aa5207e5cc7ebd03d48d358e9f,metrics/metrics-core,2,0,2,ID,Accepted
+6,https://github.com/apache/servicecomb-java-chassis,9ba66ebc452db6aa5207e5cc7ebd03d48d358e9f,service-registry/registry-lightweight,2,0,2,ID,Accepted
+6,https://github.com/apache/shardingsphere,8ffe2bb86b6da9f9c9053fb5cce28cb5b5b660db,proxy/backend,2,0,2,ID,Accepted
+6,https://github.com/apache/shardingsphere-elasticjob,bdfcaff0c1a702c3ecb44adf46d609a3f0e86c5e,elasticjob-cloud/elasticjob-cloud-scheduler,2,2,0,OD,Deleted
+6,https://github.com/apache/shenyu,6d6115a10c3c053e07c48eba15b6ccca78922982,shenyu-plugin,2,2,0,OD,Accepted; Opened
+6,https://github.com/apache/skywalking,edf0bce37f682c093d1ea5bcca0a6d2d1ecc2cc4,apm-commons/apm-datacarrier,2,2,0,OD,Accepted
+6,https://github.com/apache/tez,51d6f53967110e2b91b6d90b46f8e16bdc062091,tez-api,2,0,2,ID,Opened
+6,https://github.com/apolloconfig/apollo,75f9950d5e1675dbb0617555c4502685ef4d4618,apollo-biz,2,0,2,ID,Accepted
+6,https://github.com/blockchain-jd-com/utils,7f0b301addd9ec6237c2c947cdb629b12831fd43,utils-serialize,2,0,2,ID,Opened
+6,https://github.com/dromara/hertzbeat,ce75254b8ec18422c48c40fe61354135d08b200d,collector,2,0,2,ID,Accepted
+6,https://github.com/dromara/hutool,12969f248329f81f76eb5bece8c718ac1c63f7b1,hutool-core,2,2,0,OD,Accepted
+6,https://github.com/dropwizard/dropwizard,07dfaed697427e208d65049f80a5d1949833b7cd,dropwizard-configuration,2,0,2,ID,Deleted
+6,https://github.com/dropwizard/dropwizard,616ed866460ca909cb30a4eafb786c6040218ae8,dropwizard-json-logging,2,0,2,ID,InspiredAFix
+6,https://github.com/dropwizard/dropwizard,616ed866460ca909cb30a4eafb786c6040218ae8,dropwizard-views-freemarker,2,0,2,ID,InspiredAFix
+6,https://github.com/eclipse-ee4j/jersey,8105415f9a6356de774c8ffe6ab5dfa77934b69f,inject/cdi2-se,2,0,2,ID,Accepted; DeveloperFixed
+6,https://github.com/gchq/Gaffer,ca465ec9243c7ed981528379e351bddeae8d5c83,core/common-util,2,0,2,ID,Accepted
+6,https://github.com/google/TestParameterInjector,d7c969b73c74d8555f5ca55fc7a331ed9af6e45e,junit4,2,0,2,ID,Opened
+6,https://github.com/google/guava,688b9c2cfae305f38c601efd4a7a9e9549db9b1f,guava-tests,2,0,2,ID,Rejected
+6,https://github.com/graphhopper/graphhopper,97b5d802465b82feef8e52d1e5cb3d90e8d374e7,isochrone,2,0,2,ID,Deleted; DeveloperFixed
+6,https://github.com/graphhopper/graphhopper,91f1a89a0b515328109a659e445b1008d9db8769,core,2,0,2,ID,DeveloperFixed
+6,https://github.com/graphhopper/graphhopper,91f1a89a0b515328109a659e445b1008d9db8769,web-api,2,0,2,ID,Rejected
+6,https://github.com/hapifhir/hapi-fhir,443b59a78b08021cd101a591547a06353fd8242c,hapi-fhir-client-okhttp,2,0,2,ID,Accepted
+6,https://github.com/hapifhir/hapi-fhir,443b59a78b08021cd101a591547a06353fd8242c,hapi-fhir-structures-dstu2,2,0,2,ID,Accepted
+6,https://github.com/hapifhir/hapi-fhir,f1318915fed0b62db760b27113107f2ae3aa33da,hapi-fhir-structures-dstu2,2,0,2,ID,Opened
+6,https://github.com/immutables/immutables,6c2f70ba145adc1154bb96c377396e2a47ed5b0b,criteria/mongo,2,0,2,ID,Accepted
+6,https://github.com/intuit/wasabi,eaac73406a80ca75fb9423bdf3faada67f955083,modules/analytics-objects,2,0,2,ID,Opened
+6,https://github.com/intuit/wasabi,eaac73406a80ca75fb9423bdf3faada67f955083,modules/experiment-objects,2,0,2,ID,Opened
+6,https://github.com/jdbi/jdbi,17d4da9a7227a1604ce569e8180691282867c3c1,core,2,0,2,ID,DeveloperWontFix
+6,https://github.com/jetty/jetty.project,9cede68b355515e1cf8802fd1fcf67aa7547aad1,jetty-server,2,0,2,ID,Accepted
+6,https://github.com/karatelabs/karate,2c42468d5f32cb32592ad4a46bcf5ff1a4e60a5e,karate-core,2,0,2,ID,Rejected
+6,https://github.com/kiegroup/jbpm,f7e80e82b7670c09485ce83869a287ef51dcb59c,jbpm-flow-builder,2,0,2,ID,Opened
+6,https://github.com/kiegroup/jbpm,f7e80e82b7670c09485ce83869a287ef51dcb59c,jbpm-workitems/jbpm-workitems-bpmn2,2,0,2,ID,Opened
+6,https://github.com/knowm/XChange,5bd548a349335db57b64e2b8c09965b31e3c0cd8,xchange-bitfinex,2,0,2,ID,Opened
+6,https://github.com/lets-blade/blade,2f1c463ee37537a31ca64634719cf618496e3500,blade-core,2,0,2,ID,Accepted; Rejected
+6,https://github.com/manifold-systems/manifold,2d685f01a7097af8f2c25ecdd2966fc304d33e09,manifold-deps-parent/manifold-templates-test,2,0,2,ID,Opened
+6,https://github.com/networknt/light-4j,fcded1683dcbd41a968e221494778aa6b71e7428,consul,2,2,0,OD,Accepted
+6,https://github.com/networknt/light-4j,8099ee299a429c6eab0bd2f49f63a3efac8ec23d,header,2,0,2,ID,Accepted
+6,https://github.com/networknt/light-4j,fcded1683dcbd41a968e221494778aa6b71e7428,portal-registry,2,2,0,OD,Accepted
+6,https://github.com/networknt/light-4j,fcded1683dcbd41a968e221494778aa6b71e7428,sanitizer,2,2,0,OD,-
+6,https://github.com/networknt/light-4j,fcded1683dcbd41a968e221494778aa6b71e7428,metrics,2,2,0,OD,Accepted
+6,https://github.com/openhab/openhab-core,660102e3f93f928473b66f56f2955090dfa3c30e,bundles/org.openhab.core.io.rest.core,2,0,2,ID,Accepted
+6,https://github.com/openhab/openhab-core,660102e3f93f928473b66f56f2955090dfa3c30e,bundles/org.openhab.core.io.rest,2,0,2,ID,Opened
+6,https://github.com/openhab/openhab-core,660102e3f93f928473b66f56f2955090dfa3c30e,bundles/org.openhab.core.model.yaml,2,0,2,ID,Opened
+6,https://github.com/oracle/tribuo,7d78a0ab15c2431d3ba935ea54c2aebbdba9c41d,Classification/DecisionTree,2,0,2,ID,InspiredAFix; Opened
+6,https://github.com/pmd/pmd,bdc08e44fd92380d59cdc50cf9d8dd36e537c369,pmd-core,2,0,2,ID,Accepted; Opened
+6,https://github.com/primefaces/primefaces,07144423145bdc9b43483158cdc1af9705cfe5f4,primefaces,2,0,2,ID,Rejected
+6,https://github.com/quarkusio/quarkus,84128ced08b138915584d1fe0dd378e001f6757f,core/devmode,2,0,2,ID,Accepted
+6,https://github.com/querydsl/querydsl,2bf234caf78549813a1e0f44d9c30ecc5ef734e3,querydsl-apt,2,0,2,ID,Accepted
+6,https://github.com/rcongiu/Hive-JSON-Serde,7a05e91bf80a781da30cc69e2f5698b78f5b3397,json-serde,2,0,2,ID,Opened
+6,https://github.com/rest-assured/rest-assured,d3602d9a24e3bfef0c7367fe3c6f589b4147f0e7,modules/spring-mock-mvc,2,0,2,ID,Accepted
+6,https://github.com/robovm/robovm,ef091902377c00dc0fb2db87e8d79c8afb5e9010,compiler,2,0,2,ID,Opened
+6,https://github.com/runelite/runelite,3bad0b726be8eac4119e8ff657ca3160ae11a074,cache,2,0,2,ID,Accepted
+6,https://github.com/searchbox-io/Jest,c4ded4f49a06f284fdf53cb23e84ca041c6596dd,jest-common,2,0,2,ID,RepoArchived
+6,https://github.com/spotify/apollo,a03105ee1f98f8c5878f4e3c4d03c8732c6384bd,apollo-api-impl,2,0,2,ID,RepoArchived
+6,https://github.com/spring-cloud/spring-cloud-kubernetes,3351926041a630aee0961ba0e1be8f035e4ba2ca,spring-cloud-kubernetes-fabric8-autoconfig,2,2,0,OD,Deleted
+6,https://github.com/spring-cloud/spring-cloud-kubernetes,3351926041a630aee0961ba0e1be8f035e4ba2ca,spring-cloud-kubernetes-integration-tests/load-balancer,2,2,0,OD-Vic,-
+6,https://github.com/spring-projects/spring-boot,daa3d457b71896a758995c264977bdd1414ee4d4,spring-boot-project/spring-boot-autoconfigure,2,0,2,ID,InspiredAFix
+6,https://github.com/spring-projects/spring-data-jdbc,a2a5953cda1251a2c3a29be1a92a16916dc0871a,spring-data-jdbc,2,0,2,ID,InspiredAFix
+6,https://github.com/spring-projects/spring-ws,e8d89c9eb0929dda304174729c9c69fb29f448eb,spring-ws-security,2,2,0,OD;UD,Accepted
+6,https://github.com/square/burst,e6af132e6b9badab699999cfd1764f11636ca00a,burst-junit4,2,0,2,ID,Deprecated
+6,https://github.com/square/retrofit,8c93b59dbc57841959f5237cb141ce0b3c18b778,retrofit-converters/jaxb,2,0,2,ID,Rejected
+6,https://github.com/twitter-archive/distributedlog,6c7b5745b697617327235a8b773a4263e50875ee,distributedlog-core,2,0,2,ID,RepoArchived
+6,https://github.com/twitter/cloudhopper-commons,05f06af02facfe4414c2ceaa799182c6dffbc1b4,ch-commons-util,2,0,2,ID,Opened
+6,https://github.com/vaadin/flow,faae5c3b9d8b7199e500ec251eb0f24cd2ab4b7c,flow-plugins/flow-maven-plugin,2,0,2,ID,Accepted
+6,https://github.com/webx/citrus,adfceaab120661e78ee7608f3335eaf863693a38,common/springext,2,0,2,ID,Unmaintained
+6,https://github.com/webx/citrus,adfceaab120661e78ee7608f3335eaf863693a38,webx/framework,2,0,2,ID,Opened; Unmaintained
+6,https://github.com/wikidata/wikidata-toolkit,20de6f7f12319f54eb962ff6e8357b3f5695d54d,wdtk-util,2,2,0,OD-Vic,Accepted
+6,https://github.com/wildfly/wildfly,914e190167a79c538e0f87ea4385a6626bdecc9a,dist,2,0,2,ID,Accepted
+6,https://github.com/wildfly/wildfly-core,7a5b3e37256a7c3da8e9c3705020f43cf777846a,controller,2,0,2,ID,Opened
+6,https://github.com/wso2/carbon-apimgt,a82213e40e7e6aa529341fdd1d1c3de776949e64,components/apimgt/org.wso2.carbon.apimgt.rest.api.commons,2,0,2,ID,Skipped
+5,https://github.com/alibaba/wasp,b2593d8e4b31ca6da0cd2f3e18356338d9b6dace,messagequeue,2,1,0,NOD; OD,Unmaintained
+5,https://github.com/apache/dubbo,737f7a7ea67832d7f17517326fb2491d0a086dd7,dubbo-compatible,2,1,0,OD-Vic; UD,-
+5,https://github.com/dropwizard/dropwizard,07dfaed697427e208d65049f80a5d1949833b7cd,dropwizard-logging,2,1,0,NOD;OD-Vic; OD-Vic,Accepted
+5,https://github.com/spring-projects/spring-boot,daa3d457b71896a758995c264977bdd1414ee4d4,spring-boot-project/spring-boot-test,2,1,0,NIO; OD-Brit,MovedToGradle; Rejected
+5,https://github.com/undertow-io/undertow,d0efffad5d2034bb07525cac9b299dac72c3045d,servlet,2,0,1,ID; NIO,Accepted; Opened
+5,https://github.com/vmware/admiral,e4b02936cc7d4ff2714e7231db0c4373ba5d48a2,adapter/kubernetes,2,0,1,ID; NIO,Opened; RepoArchived
+5,https://github.com/wildfly/wildfly,b19048b72669fc0e96665b1b125dc1fda21f5993,clustering/infinispan/extension,2,0,1,ID; UD,Deleted
+4,https://github.com/Accenture/mercury,8586dc79f8bf75a929896f0aac03fe95824d9578,system/platform-core,2,0,0,TD,-
+4,https://github.com/apache/dubbo,58d738682f02f0a315d72857b594eb9eace5e13d,dubbo-remoting/dubbo-remoting-http12,2,0,0,UD,Accepted
+4,https://github.com/apache/dubbo,737f7a7ea67832d7f17517326fb2491d0a086dd7,dubbo-rpc/dubbo-rpc-http,2,0,0,NOD; TD,Deleted
+4,https://github.com/apache/gora,6c6b06c916b969352a6757ba7025cc78055fa87a,gora-orientdb,2,0,0,NOD,Opened
+4,https://github.com/apache/httpcore,49247d208bde47f652812493e1d3576e136b8eb8,httpcore,2,0,0,TD,-
+4,https://github.com/c2mon/c2mon,d80687b119c713dd177a58cf53a997d8cc5ca264,c2mon-server/c2mon-server-common,2,0,0,NDOD;OD-Vic; NDOD;OD-Vic;NOD,Unmaintained
+4,https://github.com/doanduyhai/Achilles,e3099bdce342910951c4862c78751fd81ed4552e,integration-test-3_10,2,0,0,TD,Unmaintained
+4,https://github.com/doanduyhai/Achilles,f52f7ec93b3da758119dbbbc1be8dad8e8783764,integration-test,2,0,0,TD,-
+4,https://github.com/flaxsearch/luwak,c27ec08c803db6ca6be1b6e8017f45667e603161,luwak,2,0,0,NDOD;OD-Brit;TD,Opened
+4,https://github.com/oracle/oci-java-sdk,2e9982f268420efd4010d8dc8370e9d9ade67ec2,bmc-objectstorage/bmc-objectstorage-extensions,2,0,0,NDOD; NOD,-
+4,https://github.com/pippo-java/pippo,ae898b6c478af7365b04c2f5bf9331abf496b166,pippo-session-parent/pippo-session-hazelcast,2,0,0,NOD,-
+4,https://github.com/qos-ch/logback,0f57531977287fd3d8c9046e9f68e281715f3b10,logback-core,2,0,0,TD,-
+4,https://github.com/square/retrofit,ae28c3d5f6fe54f6ca409cdf82106efb47609f8f,retrofit,2,0,0,NDOD;NOD; NOD,MovedToGradle
+4,https://github.com/visallo/vertexium,f1fd59e23610312cf0ec6756ea01baaf56cdb74e,accumulo,2,0,0,NOD,Unmaintained
+4,https://github.com/visallo/vertexium,f1fd59e23610312cf0ec6756ea01baaf56cdb74e,inmemory,2,0,0,NOD,Unmaintained
+4,https://github.com/wso2/carbon-apimgt,a82213e40e7e6aa529341fdd1d1c3de776949e64,analyzer-modules/org.wso2.carbon.apimgt.throttling.siddhi.extension,2,0,0,NDOD; NOD,Skipped
+4,https://github.com/zalando/riptide,8277e11fc069d8e24df0d233ef2577cc75659b75,riptide-metrics,2,0,0,UD,MovedOrRenamed
+3,https://github.com/Accenture/mercury,e659caf000c2a714d921a52cbc85e13f56cef981,system/platform-core,1,0,1,ID,Accepted
+3,https://github.com/Alluxio/alluxio,e6289d03c7316ccc0a5e3fba2e3b495633713589,dora/core/server/proxy,1,0,1,ID,Opened
+3,https://github.com/Apache/Struts,13d9053050c9e4fb2ef049db6a37d3f6eebf48fa,plugins/rest,1,0,1,ID,Accepted
+3,https://github.com/AxonIQ/axon-server-se,08e5dfd77fd5f749bd79ca6e32f661d6d70f50e3,axonserver,1,0,1,ID,Opened
+3,https://github.com/CloudSlang/cloud-slang,76b733019b362f551481f1bdc78ed2eac73b1bd4,cloudslang-runtime,1,0,1,ID,Accepted
+3,https://github.com/CloudSlang/cloud-slang,48923570780dd096e0cf17ef657b6b1fdc50dc31,cloudslang-runtime,1,1,0,OD,Opened
+3,https://github.com/CloudSlang/cloud-slang,48923570780dd096e0cf17ef657b6b1fdc50dc31,cloudslang-content-verifier,1,1,0,OD,Opened
+3,https://github.com/Ericsson/ecchronos,3e0a36ea4ead09c5a9633e29f4c02f6b58ebc25d,core,1,0,1,ID,-
+3,https://github.com/Erudika/para,4e5c7de01e1a88ee830216b35fae8d1ef3314d32,para-server,1,0,1,ID,Accepted
+3,https://github.com/EsotericSoftware/kryo,951f657191225abd37bd424c84507b917c8ca2b5,main,1,0,1,ID,Accepted
+3,https://github.com/EsotericSoftware/kryo,951f657191225abd37bd424c84507b917c8ca2b5,main-versioned,1,0,1,ID,Accepted
+3,https://github.com/FasterXML/jackson-dataformats-binary,0eeb08cfd07a9d23bc22090e17a67da57baf436e,cbor,1,0,1,ID,Accepted
+3,https://github.com/FasterXML/jackson-dataformats-binary,0eeb08cfd07a9d23bc22090e17a67da57baf436e,smile,1,0,1,ID,Accepted
+3,https://github.com/FasterXML/jackson-dataformats-binary,85e52079cce2d0036e65bb127b662ea0dc4881e6,ion,1,0,1,ID,Accepted
+3,https://github.com/FasterXML/jackson-dataformats-text,a88ae3c41589a21eb4df6049982620ebb152de97,yaml,1,0,1,ID,Accepted
+3,https://github.com/FasterXML/jackson-jaxrs-providers,2b70478103b0bd3f9633e088a7e050942ea56c97,json,1,0,1,ID,Accepted
+3,https://github.com/FudanNLP/fnlp,ce258f3e4a5add2ba0b5e4cbac7cab2190af6659,fnlp-demo,1,0,1,ID,Opened
+3,https://github.com/FudanNLP/fnlp,ce258f3e4a5add2ba0b5e4cbac7cab2190af6659,fnlp-core,1,0,1,ID,Opened
+3,https://github.com/GoogleCloudPlatform/DataflowTemplates,8c035b9a1af1bec31caa16c2c178d8e0425fb4ea,v1,1,0,1,ID,MovedOrRenamed
+3,https://github.com/GoogleCloudPlatform/DataflowTemplates,cc17ed154d8c3c385ab3f5a3653a6e4c02539bfa,v1,1,0,1,ID,-
+3,https://github.com/GoogleCloudPlatform/DataflowTemplates,0d01accc1cfa29b762a764bc226496bfde25165c,v1,1,0,1,ID,Opened
+3,https://github.com/GoogleCloudPlatform/spring-cloud-gcp,e04f755f75c98619c11fde42106cff81e95f1540,spring-cloud-gcp-data-spanner,1,0,1,ID,Opened
+3,https://github.com/GoogleCloudPlatform/spring-cloud-gcp,3ffeb6d2cdcefd6e7f6436632fce7180790124a5,spring-cloud-gcp-pubsub,1,0,1,ID,Opened
+3,https://github.com/Graylog2/graylog2-server,3f38f2a9eb7ab57d7d060a970a16bdbd66a0195d,graylog2-server,1,0,1,ID,Opened
+3,https://github.com/Kong/unirest-java,36e7480d619507b8e96b10645a7ca72c0279832b,unirest,1,0,1,ID,Accepted
+3,https://github.com/OpenFeign/feign,744fd725ac60b534ff553ec96dcd6494631e677f,mock,1,0,1,ID,Accepted
+3,https://github.com/OpenRefine/OpenRefine,3bff27b868a6a1b695f3855ae0f49e269c5ef7cd,modules/core,1,0,1,ID,Opened
+3,https://github.com/SAP/cloud-security-services-integration-library,eca48f5eb11386fedce23eabd60220c1b3933487,spring-security,1,0,1,ID,Opened
+3,https://github.com/SonarSource/sonar-php,df211f66a67c48184006cff90e80e8406a87f8ec,php-frontend,1,0,1,ID,Accepted
+3,https://github.com/adobe/captivate-prime-aem-components,87a88b3e9fcd67f22577a5b549e25f8224b4a0c8,core,1,0,1,ID,Opened
+3,https://github.com/airlift/airlift,75d88c2b13117000ac38c2eb582a7d539ddb9633,json,1,0,1,ID,Opened
+3,https://github.com/alibaba/Sentinel,051d583fd89a8ecd509d182a1883335119f1a8bf,sentinel-adapter/sentinel-reactor-adapter/sentinel-reactor-sofa-rpc-adatper,1,1,0,OD-Vic,Opened
+3,https://github.com/alibaba/Sentinel,051d583fd89a8ecd509d182a1883335119f1a8bf,sentinel-extension/sentinel-annotation-aspectj,1,1,0,OD-Brit,Opened
+3,https://github.com/alibaba/druid,4ccecebe8da73df3ae22124fc5add3015fd1a8f1,core,1,0,1,ID,Irreproducible
+3,https://github.com/alibaba/druid,ad05a9293b6be2d5562807698b215b673db0417a,pool,1,0,1,ID,MovedOrRenamed
+3,https://github.com/alibaba/druid,ed00cabc48aa329371bec3b6e5a692510d1f1bb2,core,1,0,1,ID,Opened
+3,https://github.com/alibaba/druid,ad05a9293b6be2d5562807698b215b673db0417a,utils,1,0,1,ID,Accepted
+3,https://github.com/alibaba/fastjson2,450d9fe5a39f9f911f06882a302a585b93a586fa,extension,1,0,1,ID,Accepted
+3,https://github.com/alibaba/metrics,2dbfbd0b2e9ba5d652f1f2e86d655cff8ea1ec66,prometheus,1,0,1,ID,Accepted
+3,https://github.com/alibaba/nacos,525672272ecb00cd769a13c7b21a8e51cf873f25,api,1,1,0,OD-Vic,Accepted
+3,https://github.com/alibaba/nacos,63bd28ae9df8a164f5b8e981f4c533a5bce54eee,http,1,0,1,ID,MovedOrRenamed
+3,https://github.com/alibaba/nacos,0ac96e1602baf1f516c3c614f13523adb2992e69,common,1,0,1,ID,Accepted
+3,https://github.com/alibaba/nacos,2a0dafa2f4e1a8f1fac38e8bf750b77858c03af3,config,1,0,1,ID,Accepted
+3,https://github.com/alibaba/testable-mock,80b0f3b8789921d46103d9af14a52e75406b92af,testable-core,1,0,1,ID,Accepted
+3,https://github.com/alien4cloud/alien4cloud,eb57d0feca6c37e0a4aafc3feef494e43e02ecda,alien4cloud-security,1,1,0,OD,Accepted
+3,https://github.com/apache/accumulo,7e6ad2d3636e361a402aae207666a4bf690a1fd6,server/manager,1,0,1,ID,Rejected
+3,https://github.com/apache/archiva,292dbe1bb4323dd299d36b78f37d9c1d55c889f8,archiva-modules/archiva-maven/archiva-maven-proxy,1,1,0,OD,RepoArchived
+3,https://github.com/apache/atlas,d8cf1e34a696da6100127c38cf42b922e177a314,graphdb/janus,1,0,1,ID,Opened
+3,https://github.com/apache/avro,efe9aa7fbe457805dc894a9186e1267603d82dd2,lang/java/avro,1,0,1,ID,-
+3,https://github.com/apache/bookkeeper,1c756ebc35d06b6d1f001ec17a4810398c7e3975,bookkeeper-slogger/api,1,0,1,ID,Accepted
+3,https://github.com/apache/causeway,101f656b845168feb3d6d72c31b55999f261d20f,testing-unittestsupport-applib,1,0,1,ID,InspiredAFix
+3,https://github.com/apache/cayenne,5209b9f533ab5f2ac97d31eeb3d1dd2c4dbd64d8,cayenne-client,1,1,0,OD,-
+3,https://github.com/apache/cloudstack,121531e2c3a71da2514cad986734063cf6a6d7dd,plugins/network-elements/nicira-nvp,1,0,1,ID,Accepted
+3,https://github.com/apache/cloudstack,64262d943f012c40deac3cd87c67d44fdc727b52,server,1,0,1,ID,Accepted
+3,https://github.com/apache/cloudstack,47a5acd8529104a9b40b5bcf3317e789ac66966f,api,1,0,1,ID,Accepted
+3,https://github.com/apache/cxf,649520354501295859b692ddf1b42adb919affbb,helpers,1,0,1,ID,Accepted
+3,https://github.com/apache/cxf,649520354501295859b692ddf1b42adb919affbb,axrs/client/spec,1,0,1,ID,-
+3,https://github.com/apache/cxf,649520354501295859b692ddf1b42adb919affbb,rt/rs/extensions/search,1,0,1,ID,MovedOrRenamed
+3,https://github.com/apache/cxf,d849512da6499d00e3e84eb60733a0343a473b44,rt/rs/extensions/search,1,0,1,ID,-
+3,https://github.com/apache/cxf,649520354501295859b692ddf1b42adb919affbb,tools/wadlto/jaxrs,1,0,1,ID,Opened
+3,https://github.com/apache/cxf,649520354501295859b692ddf1b42adb919affbb,rt/transports/http-netty/netty-server,1,0,1,ID,Opened
+3,https://github.com/apache/cxf,649520354501295859b692ddf1b42adb919affbb,rt/transports/jms,1,0,1,ID,-
+3,https://github.com/apache/dolphinscheduler,26a84b30d822b59925a82fa6724df24fd5c13213,dolphinscheduler-spi,1,0,1,ID,Opened
+3,https://github.com/apache/dolphinscheduler,26b7541d954ba63deb37e89479ab4d648573e8ae,dolphinscheduler-spi,1,0,1,ID,Accepted
+3,https://github.com/apache/druid,ad32f8458670339808a3136a9578a10a52b8394f,extensions-core/parquet-extensions,1,0,1,ID,Opened
+3,https://github.com/apache/druid,ad32f8458670339808a3136a9578a10a52b8394f,indexing-service,1,0,1,ID,Accepted
+3,https://github.com/apache/druid,905f6d22df8f639507f3a88f6b275fdcecbd7434,extensions-core/kinesis-indexing-service,1,0,1,ID,Opened
+3,https://github.com/apache/druid,d1fcff899d31f9dea1ca11346d1a33aaa1ea928a,extensions-core/kinesis-indexing-service,1,0,1,ID,Accepted
+3,https://github.com/apache/druid,50963edcae70150f13520b619f167512d951a71b,indexing-service,1,0,1,ID,Opened
+3,https://github.com/apache/druid,7301e60a9c506758d719cbb57426abcbf912b4b9,processing,1,0,1,ID,Opened
+3,https://github.com/apache/druid,ad32f8458670339808a3136a9578a10a52b8394f,extensions-core/histogram,1,0,1,ID,Accepted
+3,https://github.com/apache/druid,50963edcae70150f13520b619f167512d951a71b,services,1,0,1,ID,Opened
+3,https://github.com/apache/dubbo,737f7a7ea67832d7f17517326fb2491d0a086dd7,dubbo-filter/dubbo-filter-cache,1,1,0,OD-Vic,MovedOrRenamed
+3,https://github.com/apache/dubbo,737f7a7ea67832d7f17517326fb2491d0a086dd7,dubbo-serialization/dubbo-serialization-fst,1,1,0,OD-Vic,Accepted
+3,https://github.com/apache/dubbo,aed93d5abe21bc7d30b7de08929205a4dbb3c16a,dubbo-common,1,0,1,ID,Accepted
+3,https://github.com/apache/dubbo,3fc2d100bb2081c3da1996508e1f1200cea21d2f,dubbo-config/dubbo-config-api,1,0,1,ID,Deleted
+3,https://github.com/apache/dubbo,3a2d233822f7b7999af4ba295b80578485503709,dubbo-compatible,1,0,1,ID,Opened
+3,https://github.com/apache/dubbo,3fc2d100bb2081c3da1996508e1f1200cea21d2f,dubbo-registry/dubbo-registry-api,1,0,1,ID,Deleted
+3,https://github.com/apache/dubbo,3a2d233822f7b7999af4ba295b80578485503709,dubbo-plugin/dubbo-rest-spring,1,0,1,ID,Opened
+3,https://github.com/apache/dubbo,3a2d233822f7b7999af4ba295b80578485503709,dubbo-plugin/dubbo-rest-jaxrs,1,0,1,ID,Opened
+3,https://github.com/apache/flink,23c9b5ac50d04d28a34a87c78eb2d3331c06b74b,flink-core,1,0,1,ID,Rejected
+3,https://github.com/apache/flink,549d4327cf4ae9646f74a1da561dcebecd3d47ff,flink-kubernetes,1,0,1,ID,DeveloperWontFix
+3,https://github.com/apache/flink,23c9b5ac50d04d28a34a87c78eb2d3331c06b74b,flink-connectors/flink-connector-kafka-base,1,0,1,ID,DeveloperWontFix
+3,https://github.com/apache/flink,23c9b5ac50d04d28a34a87c78eb2d3331c06b74b,flink-table/flink-table-common,1,0,1,ID,Accepted
+3,https://github.com/apache/flink,e246a05cd898e16758a52335250571e165a5148a,flink-table/flink-table-common,1,0,1,ID,DeveloperWontFix
+3,https://github.com/apache/geronimo-batchee,0071edabb6b340cc16f8e9d0e17ff25720b4d0fe,tools/cli,1,1,0,OD,FixedOrder
+3,https://github.com/apache/gora,6c6b06c916b969352a6757ba7025cc78055fa87a,gora-mongodb,1,0,1,ID,Opened
+3,https://github.com/apache/hadoop,a585a73c3e02ac62350c136643a5e7f6095a3dbb,hadoop-tools/hadoop-gridmix,1,1,0,OD,-
+3,https://github.com/apache/hadoop,a585a73c3e02ac62350c136643a5e7f6095a3dbb,hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-shuffle,1,1,0,OD,-
+3,https://github.com/apache/hadoop,cc2babc1f75c93bf89a8f10da525f944c15d02ea,hadoop-tools/hadoop-resourceestimator,1,0,1,ID,Opened
+3,https://github.com/apache/hadoop,cc2babc1f75c93bf89a8f10da525f944c15d02ea,hadoop-common-project/hadoop-auth,1,1,0,OD-Vic,-
+3,https://github.com/apache/hbase,fe9a5e2eb91093e45d8f1d61f5ee45a1eca48414,hbase-server,1,0,1,ID,-
+3,https://github.com/apache/hbase,6bb4b387a34d148be98e537012074e412efb8aa4,hbase-server,1,0,1,ID,Accepted
+3,https://github.com/apache/hbase,7d0a687e5798a2f4ca3190b409169f7e17a75b34,hbase-common,1,0,1,ID,Accepted
+3,https://github.com/apache/hop,be70e6fa1d4bf180c2766edc4c21d10fc215118b,plugins/transforms/databaselookup,1,0,1,ID,Accepted
+3,https://github.com/apache/hop,be70e6fa1d4bf180c2766edc4c21d10fc215118b,plugins/transforms/propertyinput,1,0,1,ID,Accepted
+3,https://github.com/apache/ignite-3,a1aa7fd4e2398c72827777ec5417d67915ff4da3,modules/page-memory,1,0,1,ID,MovedToGradle
+3,https://github.com/apache/ignite-3,9641a013665e7012941b2362e9cba64fac4ba0e6,modules/storage-page-memory,1,0,1,ID,MovedToGradle
+3,https://github.com/apache/ignite-3,94f43be512adae68c3a4548515b48ec04a6a4f73,modules/storage-rocksdb,1,0,1,ID,Accepted
+3,https://github.com/apache/ignite-3,d3ee2e664508636f04c001d675791e3bb5ffdb8d,modules/storage-rocksdb,1,0,1,ID,Accepted
+3,https://github.com/apache/ignite-3,5227513b0b7d317c4fd656372621bec409d45b28,modules/storage-rocksdb,1,0,1,ID,Accepted
+3,https://github.com/apache/incubator-kie-optaplanner,a586b25f67da0dcc36bc6b307c20ea832ee4f405,optaplanner-benchmark,1,0,1,ID,Accepted
+3,https://github.com/apache/incubator-kie-optaplanner,a586b25f67da0dcc36bc6b307c20ea832ee4f405,core/optaplanner-core-impl,1,0,1,ID,Opened
+3,https://github.com/apache/incubator-kie-optaplanner,a586b25f67da0dcc36bc6b307c20ea832ee4f405,optaplanner-quarkus-integration/optaplanner-quarkus-jackson/integration-test,1,0,1,ID,Accepted
+3,https://github.com/apache/incubator-seata,4959cfb49009d3e4c349fd2c95e590184bd5a9a8,config,1,1,0,OD,Accepted
+3,https://github.com/apache/incubator-seata,94dc7944f67419c652a124c2e7d18217e38ac352,integration,1,0,1,ID,Accepted
+3,https://github.com/apache/incubator-shardingsphere,038232e9b2f7fb22ccf50c04b74fb900732b345d,sharding-core/sharding-core-common,1,0,1,ID,Accepted
+3,https://github.com/apache/incubator-wayang,b7b6c1ebf65b58f5c03ac2b9fd4c1846ea877d01,wayang-platforms.wayang-graphch,1,0,1,ID,Deleted
+3,https://github.com/apache/iotdb,f94f99a48281519ddf156ba67cd1825d1491557c,iotdb-core/node-commons,1,0,1,ID,Opened
+3,https://github.com/apache/iotdb,f94f99a48281519ddf156ba67cd1825d1491557c,iotdb-client/session,1,0,1,ID,Opened
+3,https://github.com/apache/linkis,2b47014684a0f8b2491fa5b90410e10537fcfaa6,linkis-commons,1,0,1,ID,Accepted
+3,https://github.com/apache/logging-log4j2,d6bf69a55c3c727f57ddf4dce5e71a8a3953f449,log4j-core,1,1,0,OD,Accepted
+3,https://github.com/apache/myfaces,3216ff223c26af9e2c739d7a606a1bfb3021753b,impl,1,0,1,ID,Rejected
+3,https://github.com/apache/nifi,2bd752d868a8f3e36113b078bb576cf054e945e8,nifi-nar-bundles/nifi-standard-services/nifi-distributed-cache-services-bundle/nifi-distributed-cache-server,1,0,1,ID,Accepted
+3,https://github.com/apache/nifi,2bd752d868a8f3e36113b078bb576cf054e945e8,nifi-nar-bundles/nifi-standard-services/nifi-hbase_1_1_2-client-service-bundle/nifi-hbase_1_1_2-client-service,1,0,1,ID,Accepted
+3,https://github.com/apache/nifi,2bd752d868a8f3e36113b078bb576cf054e945e8,nifi-nar-bundles/nifi-standard-services/nifi-hbase_2-client-service-bundle/nifi-hbase_2-client-service,1,0,1,ID,Accepted
+3,https://github.com/apache/nifi,5f1d93f977b3702b63c72d7e07af7dc820a2fc70,nifi-nar-bundles/nifi-standard-services/nifi-record-serialization-services-bundle/nifi-record-serialization-services,1,0,1,ID,Accepted
+3,https://github.com/apache/nifi,2f13b609bdb77cb985aa35e8b66b4f04274d7c59,nifi-framework-bundle/nifi-framework-extensions/nifi-ldap-iaa-providers-bundle/nifi-ldap-iaa-providers,1,0,1,ID,DeveloperFixed
+3,https://github.com/apache/nifi,12015a17dd93a1d42c9d6ddab6cc5ce606fef16a,nifi-nar-bundles/nifi-framework-bundle/nifi-framework/nifi-framework-nar-utils,1,1,0,OD,-
+3,https://github.com/apache/nifi,2bd752d868a8f3e36113b078bb576cf054e945e8,nifi-nar-bundles/nifi-aws-bundle/nifi-aws-processors,1,0,1,ID,MovedOrRenamed
+3,https://github.com/apache/nifi,2bd752d868a8f3e36113b078bb576cf054e945e8,nifi-nar-bundles/nifi-parquet-bundle/nifi-parquet-processors,1,0,1,ID,Opened
+3,https://github.com/apache/nifi,2bd752d868a8f3e36113b078bb576cf054e945e8,nifi-nar-bundles/nifi-scripting-bundle/nifi-scripting-processors,1,0,1,ID,Opened
+3,https://github.com/apache/nifi,2bd752d868a8f3e36113b078bb576cf054e945e8,nifi-nar-bundles/nifi-solr-bundle/nifi-solr-processors,1,0,1,ID,Accepted
+3,https://github.com/apache/nifi,42a4385c82d0bbe1428096fb0b634c9f9747f91b,nifi-extension-bundles/nifi-standard-bundle/nifi-standard-processors,1,0,1,ID,Accepted
+3,https://github.com/apache/nifi,2bd752d868a8f3e36113b078bb576cf054e945e8,nifi-nar-bundles/nifi-stateless-processor-bundle/nifi-stateless-processor-tests,1,0,1,ID,Deleted
+3,https://github.com/apache/nifi,2bd752d868a8f3e36113b078bb576cf054e945e8,nifi-nar-bundles/nifi-azure-bundle/nifi-azure-reporting-task,1,0,1,ID,Accepted
+3,https://github.com/apache/nifi,2bd752d868a8f3e36113b078bb576cf054e945e8,nifi-nar-bundles/nifi-prometheus-bundle/nifi-prometheus-reporting-task,1,0,1,ID,Accepted
+3,https://github.com/apache/olingo-odata2,daa83f4d80f3eb8019ae2cb6729486d1821b8c89,odata2-jpa-processor/jpa-core,1,0,1,ID,Accepted
+3,https://github.com/apache/opennlp,dab19af803e9139b57b972eb4e1af4c978d2ff3f,opennlp-uima,1,0,1,ID,DeveloperFixed
+3,https://github.com/apache/openwebbeans,424af4bb7285b806d3e3efe5020cd3e440e0a4ff,webbeans-jetty9,1,0,1,ID,Skipped
+3,https://github.com/apache/openwebbeans,424af4bb7285b806d3e3efe5020cd3e440e0a4ff,webbeans-tomcat7,1,0,1,ID,MovedOrRenamed
+3,https://github.com/apache/openwebbeans,424af4bb7285b806d3e3efe5020cd3e440e0a4ff,webbeans-tck-jakarta,1,0,1,ID,Deleted
+3,https://github.com/apache/openwebbeans,424af4bb7285b806d3e3efe5020cd3e440e0a4ff,webbeans-tck,1,0,1,ID,Opened
+3,https://github.com/apache/pinot,2253bd717a10c15220a1157316e233d11531e04b,pinot-common,1,0,1,ID,Opened
+3,https://github.com/apache/pinot,98c536ee80516effc6fe2df642a07c8b05962532,pinot-core,1,0,1,ID,Accepted
+3,https://github.com/apache/pinot,42715fcc4af2ce61bf79982a16e39b55045ba09b,pinot-core,1,0,1,ID,Opened
+3,https://github.com/apache/pinot,85e413ebe8c80513a8a676fc090b1af0f50861f0,pinot-spi,1,0,1,ID,Accepted
+3,https://github.com/apache/pinot,f79b618141e07c140663791959d96956ad91d811,pinot-common,1,0,1,ID,Accepted
+3,https://github.com/apache/pulsar,ca0fb443ca940c2fa15ecaa9f908d81bed4ebbb1,pulsar-broker,1,0,1,ID,DeveloperFixed
+3,https://github.com/apache/pulsar,fdeb191a946a76ca5edde81464f453fcd03fc6d3,pulsar-broker,1,0,1,ID,-
+3,https://github.com/apache/pulsar,c4f125cfa292a8d61e0d037fa2d0fa1e89308b29,pulsar-docs-tools,1,0,1,ID,Accepted
+3,https://github.com/apache/pulsar,fdeb191a946a76ca5edde81464f453fcd03fc6d3,pulsar-io/elastic-search,1,0,1,ID,Accepted
+3,https://github.com/apache/pulsar,fdeb191a946a76ca5edde81464f453fcd03fc6d3,pulsar-io/http,1,0,1,ID,Accepted
+3,https://github.com/apache/pulsar,fdeb191a946a76ca5edde81464f453fcd03fc6d3,pulsar-io/kafka,1,0,1,ID,Accepted
+3,https://github.com/apache/pulsar,fdeb191a946a76ca5edde81464f453fcd03fc6d3,pulsar-io/kinesis,1,0,1,ID,Accepted
+3,https://github.com/apache/pulsar,fdeb191a946a76ca5edde81464f453fcd03fc6d3,pulsar-io/mongo,1,0,1,ID,Accepted
+3,https://github.com/apache/rocketmq,a75c74234915f1673c635639e6a70e4c25dcd740,common,1,0,1,ID,Accepted
+3,https://github.com/apache/rocketmq,3c0b3307011fad53f811e08d05147d94fc6c0d67,common,1,0,1,ID,DeveloperFixed
+3,https://github.com/apache/rocketmq-dashboard,2160e23b917824905d12567090da568fbc08a1c7,rocketmq-dashboard,1,0,1,ID,Accepted
+3,https://github.com/apache/seatunnel,e3f8009564d22ccddbf1da1b47b3a64df8405150,seatunnel-api,1,0,1,ID,Accepted
+3,https://github.com/apache/sedona,1bf3fea03038f3a4aaf97de9aa8e4e646385db64,common,1,0,1,ID,Accepted
+3,https://github.com/apache/servicecomb-java-chassis,68bdb78926654b6a15dd12ade8c0533c0e704528,core,1,0,1,ID,Accepted
+3,https://github.com/apache/servicecomb-java-chassis,9ba66ebc452db6aa5207e5cc7ebd03d48d358e9f,foundations/foundation-metrics,1,0,1,ID,Accepted
+3,https://github.com/apache/servicecomb-java-chassis,9ba66ebc452db6aa5207e5cc7ebd03d48d358e9f,foundations/foundation-protobuf,1,0,1,ID,-
+3,https://github.com/apache/servicecomb-java-chassis,58bef312b02e24e52eb1aa63ba3b01d70ea50142,swagger/swagger-generator,1,0,1,ID,-
+3,https://github.com/apache/servicecomb-java-chassis,9ba66ebc452db6aa5207e5cc7ebd03d48d358e9f,swagger/swagger-generator/generator-spring-data,1,0,1,ID,-
+3,https://github.com/apache/servicecomb-java-chassis,9ba66ebc452db6aa5207e5cc7ebd03d48d358e9f,swagger/swagger-invocation/invocation-core,1,0,1,ID,Accepted
+3,https://github.com/apache/servicecomb-java-chassis,9ba66ebc452db6aa5207e5cc7ebd03d48d358e9f,transports/transport-highway,1,0,1,ID,Accepted
+3,https://github.com/apache/shardingsphere-elasticjob,4acbf77d3fc05f3c4f484c38b06d6aed786e5974,kernel,1,0,1,ID,Accepted
+3,https://github.com/apache/shenyu,3c615de383334a8fc574a84089297e52873108c5,shenyu-admin,1,0,1,ID,Accepted
+3,https://github.com/apache/shenyu,af0444f5d6efabedc565b29f7a7384b4e79f3fc7,shenyu-loadbalancer,1,1,0,OD,FixedOrder
+3,https://github.com/apache/shenyu,6d6115a10c3c053e07c48eba15b6ccca78922982,shenyu-protocol,1,1,0,OD,Accepted
+3,https://github.com/apache/shiro,f14a7d9dd429439b6fdecc596af0235ec1126414,support/cdi,1,0,1,ID,Accepted
+3,https://github.com/apache/skywalking-java,364a4af4b1bd2805156d67b802b24a2105e24822,apm-commons/apm-util,1,0,1,ID,Accepted
+3,https://github.com/apache/streampipes,d901b927f9c56b7adf290581a07059d2d95f670d,streampipes-client,1,0,1,ID,Accepted
+3,https://github.com/apache/tez,51d6f53967110e2b91b6d90b46f8e16bdc062091,tez-dag,1,0,1,ID,Opened
+3,https://github.com/apache/tika,ea654c82e16f64d5b963f4125a87b76ee4a46960,tika-app,1,0,1,ID,InspiredAFix
+3,https://github.com/apache/tika,d2c435311a57a9ac406a26d14cafcf685aba874b,tika-core,1,0,1,ID,Accepted
+3,https://github.com/apache/tika,1e67ef16f7b735c27114256d8ad7469248e501f2,tika-parsers/tika-parsers-standard/tika-parsers-standard-modules/tika-parser-microsoft-module,1,0,1,ID,Accepted
+3,https://github.com/apache/tinkerpop,cb366cd86fa036122cc48af76866a0c2a413a83e,gremlin-core,1,0,1,ID,Accepted
+3,https://github.com/apache/tinkerpop,8bfdf50778e29d98c6554a01688fc5cc34524522,gremlin-server,1,0,1,ID,-
+3,https://github.com/apache/tinkerpop,8bfdf50778e29d98c6554a01688fc5cc34524522,spark-gremlin,1,0,1,ID,-
+3,https://github.com/apache/tinkerpop,7bdfccd2832615c75ad4152d4ddb8a8430805f26,gremlin-util,1,0,1,ID,-
+3,https://github.com/apolloconfig/apollo,75f9950d5e1675dbb0617555c4502685ef4d4618,apollo-adminservice,1,0,1,ID,Accepted
+3,https://github.com/apolloconfig/apollo,75ae5cc8ca41c5f177cd9c8e044a9425ba40ad39,apollo-biz,1,0,1,ID,Accepted
+3,https://github.com/apolloconfig/apollo,ee028dd0981817b1b9f71d5a8e93ab1649271f75,apollo-configservice,1,0,1,ID,Accepted
+3,https://github.com/apolloconfig/apollo,24062ad9b314da0fb44ccb941dcfd3da46a91fb7,apollo-configservice,1,0,1,ID,Accepted
+3,https://github.com/apolloconfig/apollo,75f9950d5e1675dbb0617555c4502685ef4d4618,apollo-configservice,1,0,1,ID,Accepted
+3,https://github.com/apolloconfig/apollo,53e6d7c202cdcc3c22b4fca9c29fe643340dcc82,apollo-core,1,0,1,ID,Deleted
+3,https://github.com/apolloconfig/apollo-java,5344bc4f07288842bb850145bcf80a084bd94114,apollo-openapi,1,0,1,ID,Accepted
+3,https://github.com/arquillian/arquillian-core,cc1b19cd54b0ae259c6b7c5dcd249fc405cb6e58,test/impl-base,1,0,1,ID,Accepted
+3,https://github.com/atomashpolskiy/bt,62181084567c411ba9351abc88b3a017dae380cd,bt-tests,1,0,1,ID,Accepted
+3,https://github.com/awspring/spring-cloud-aws,4a4fd90280a497441c85e0daf5e458b2ca6ade6a,spring-cloud-aws-kinesis,1,0,1,ID,Opened
+3,https://github.com/awspring/spring-cloud-aws,4a4fd90280a497441c85e0daf5e458b2ca6ade6a,spring-cloud-aws-sqs,1,0,1,ID,Opened
+3,https://github.com/bbottema/simple-java-mail,bfe18530d9c6da071144b3204e6802363b36f539,modules/simple-java-mail,1,0,1,ID,Opened
+3,https://github.com/biojava/biojava,129a0a1dd0fe2e8daac2b19748e707bcbfd3978d,biojava-structure,1,0,1,ID,DeveloperFixed
+3,https://github.com/bonigarcia/webdrivermanager,7a00f50ccf06562f56dc0d602230cdeb5f3ae472,version-test,1,0,1,ID,Rejected
+3,https://github.com/ctco/cukes,b483e1a8f261b80a66291a42fc455256b0b5059c,cukes-http,1,1,0,OD-Vic,Accepted
+3,https://github.com/danfickle/openhtmltopdf,4a0612fab7b3a55e3e11d485233b063006d03b0f,openhtmltopdf-slf4j,1,1,0,OD,Unmaintained
+3,https://github.com/dromara/hutool,12969f248329f81f76eb5bece8c718ac1c63f7b1,hutool-json,1,1,0,OD,Accepted
+3,https://github.com/dropwizard/dropwizard,616ed866460ca909cb30a4eafb786c6040218ae8,dropwizard-jackson,1,0,1,ID,InspiredAFix
+3,https://github.com/dropwizard/dropwizard,616ed866460ca909cb30a4eafb786c6040218ae8,dropwizard-jersey,1,0,1,ID,DeveloperFixed
+3,https://github.com/dropwizard/dropwizard,07dfaed697427e208d65049f80a5d1949833b7cd,dropwizard-jersey,1,0,1,ID,InspiredAFix
+3,https://github.com/dropwizard/dropwizard,cf2230d3bad462c5242c1b9bf968dfa2537b081d,dropwizard-json-logging,1,0,1,ID,Rejected
+3,https://github.com/dyc87112/SpringBoot-Learning,4212d163da816c6fa5b28d59130318dac2379a73,2.x/chapter2-1,1,0,1,ID,Opened
+3,https://github.com/eBay/jsonex,83cd2edafbca4438abee6542162ab206ad3fedd8,core,1,0,1,ID,MovedOrRenamed
+3,https://github.com/ebean-orm/ebean,51d0f4efcc207a5c81eba432fdf2fa9443100dc2,ebean-api,1,0,1,ID,Accepted
+3,https://github.com/eclipse-aas4j/aas4j,678f50566d027adee604a576f284255a9b78e0ee,dataformat-xml,1,0,1,ID,Accepted
+3,https://github.com/eclipse-ee4j/jersey,8105415f9a6356de774c8ffe6ab5dfa77934b69f,inject/hk2,1,0,1,ID,Accepted
+3,https://github.com/eclipse-ee4j/jersey,8105415f9a6356de774c8ffe6ab5dfa77934b69f,media/json-jackson,1,0,1,ID,Accepted
+3,https://github.com/eclipse-ee4j/jersey,8105415f9a6356de774c8ffe6ab5dfa77934b69f,tests/e2e,1,0,1,ID,Accepted
+3,https://github.com/espertechinc/esper,590fa9c9eb854f1420b9d337b802aca19f963cc0,runtime,1,1,0,OD,-
+3,https://github.com/fabiomaffioletti/jsondoc,de5bd0024b4e5444a541fa4fa4ec518176b646f3,jsondoc-core,1,0,1,ID,Accepted
+3,https://github.com/flowable/flowable-engine,399ab58c5c29b2437c56f5418d8610bc3fb3381d,modules/flowable-cmmn-engine-configurator,1,0,1,ID,Accepted
+3,https://github.com/gchq/Gaffer,789a898ccc5db57226109233b22bb6b5180c46c0,core/common-util,1,0,1,ID,Opened
+3,https://github.com/gchq/Gaffer,ac602892435bdd0180f783c80f774149f50eb7f0,core/graph,1,0,1,ID,RepoArchived
+3,https://github.com/gchq/Gaffer,f11dbd900273f3928372955266731f8623681f89,core/operation,1,0,1,ID,Opened
+3,https://github.com/gchq/Gaffer,f11dbd900273f3928372955266731f8623681f89,core/type,1,0,1,ID,Opened
+3,https://github.com/gchq/Gaffer,f11dbd900273f3928372955266731f8623681f89,core/store,1,0,1,ID,Opened
+3,https://github.com/gooddata/GoodData-CL,58728ec3e57ea9a4d689f38b0b385e8724af618c,connector,1,1,0,OD,Opened
+3,https://github.com/google/error-prone,9f8c332d9ea67dfd31d8a91a023392f61097ae8a,core,1,0,1,ID,DeveloperFixed
+3,https://github.com/google/graphicsfuzz,aa32d4cb556647ddaaf2048815bd6bca07d1bdab,generator,1,0,1,ID,Opened
+3,https://github.com/google/java-monitoring-client-library,3212364c3e535530c3d96e127c42d302e2c0064b,metrics,1,1,0,OD-Vic,Opened
+3,https://github.com/googleapis/google-auth-library-java,0a8412fcf9de4ac568b9f88618e44087dd31b144,appengine,1,1,0,OD,Deleted
+3,https://github.com/graphhopper/graphhopper,b65d9413e2dc29b662a1bb2db146b536471167a9,reader-gtfs,1,0,1,ID,Rejected
+3,https://github.com/graphhopper/graphhopper,91f1a89a0b515328109a659e445b1008d9db8769,isochrone,1,0,1,ID,MovedOrRenamed
+3,https://github.com/graphhopper/graphhopper,e4eddf940bcd0383864d9176741941b9341c8fda,isochrone,1,0,1,ID,MovedOrRenamed
+3,https://github.com/graphhopper/graphhopper,91f1a89a0b515328109a659e445b1008d9db8769,tools,1,0,1,ID,Rejected
+3,https://github.com/haraldk/TwelveMonkeys,29f7547a99da1719aa22e7ea1f86b6b93d2fed55,imageio/imageio-core,1,0,1,ID,InspiredAFix
+3,https://github.com/hs-web/hsweb-framework,9eb96c4c7e6912253de3783673a922c216b5eec7,hsweb-commons/hsweb-commons-dao/hsweb-commons-dao-mybatis,1,0,1,ID,Deleted
+3,https://github.com/hub4j/github-api,de1c7ec179bdd928b6c41712b7ea50062e798d9b,github,1,0,1,ID,Accepted
+3,https://github.com/immutables/immutables,6c2f70ba145adc1154bb96c377396e2a47ed5b0b,criteria/geode,1,0,1,ID,Accepted
+3,https://github.com/immutables/immutables,6c2f70ba145adc1154bb96c377396e2a47ed5b0b,value-fixture,1,0,1,ID,Accepted
+3,https://github.com/intuit/karate,09bc49eb6fcfc029a09dbdb385137ff71985c89b,karate-core,1,0,1,ID,MovedOrRenamed
+3,https://github.com/intuit/karate,2ca51aca126d691d87c09f3b476cbbaef58881ca,karate-core,1,0,1,ID,Deleted
+3,https://github.com/intuit/wasabi,eaac73406a80ca75fb9423bdf3faada67f955083,modules/authentication-objects,1,0,1,ID,Opened
+3,https://github.com/jknack/handlebars.java,42c1912f8555697664d3da1a539b2150709fb984,handlebars,1,0,1,ID,Opened
+3,https://github.com/jolokia/jolokia,f5688d4dbc02a74df8f05bee77056ee331363119,client/jmx-adapter,1,0,1,ID,Accepted
+3,https://github.com/jolokia/jolokia,47f5bd3fdcadc0c66116a9a8ae74ef5404d1428d,client/jmx-adapter,1,0,1,ID,Opened
+3,https://github.com/jolokia/jolokia,73b830d2c38899ed33e95b487e9a291a80fb9f5f,service/serializer,1,0,1,ID,Accepted
+3,https://github.com/jolokia/jolokia,f769a3b1374909b64a2dfbbcb03918a487dce475,support/spring,1,0,1,ID,Accepted
+3,https://github.com/jrtom/jung,1f579fe5d74ecbaecbe32ce6762e1fa9e17ed225,jung-algorithms,1,0,1,ID,Opened
+3,https://github.com/karatelabs/karate,c496f976d1c12d3e3c0ee6ec229c09355bee8e7e,karate-core,1,0,1,ID,DeveloperWontFix
+3,https://github.com/karatelabs/karate,14807dbf8d7c45f709299574222dd498b1fa5e67,karate-core,1,0,1,ID,Accepted
+3,https://github.com/karatelabs/karate,09bc49eb6fcfc029a09dbdb385137ff71985c89b,karate-core,1,0,1,ID,Accepted
+3,https://github.com/kiegroup/jbpm,f7e80e82b7670c09485ce83869a287ef51dcb59c,jbpm-bpmn2,1,0,1,ID,Opened
+3,https://github.com/kiegroup/jbpm,f7e80e82b7670c09485ce83869a287ef51dcb59c,jbpm-services/jbpm-executor,1,0,1,ID,Opened
+3,https://github.com/kiegroup/jbpm,f7e80e82b7670c09485ce83869a287ef51dcb59c,jbpm-workitems/jbpm-workitems-rest,1,0,1,ID,Opened
+3,https://github.com/kiegroup/optaplanner,dff7457cb5ba1557727deddef5b675dd00fbf8a8,optaplanner-benchmark,1,0,1,ID,DeveloperFixed
+3,https://github.com/knowm/XChange,5bd548a349335db57b64e2b8c09965b31e3c0cd8,xchange-stream-bitmex,1,0,1,ID,Opened
+3,https://github.com/knowm/XChange,d56e61f2cf1368f917965a8c43f292a2a1b28ebc,xchange-stream-bitmex,1,0,1,ID,Opened
+3,https://github.com/knowm/XChange,5bd548a349335db57b64e2b8c09965b31e3c0cd8,xchange-coinegg,1,0,1,ID,Opened
+3,https://github.com/knowm/XChange,d56e61f2cf1368f917965a8c43f292a2a1b28ebc,xchange-kraken,1,0,1,ID,Accepted
+3,https://github.com/kubernetes-client/java,e19a0ecbc9af258c43b486843df139c8ec8f117e,spring,1,1,0,OD,Accepted
+3,https://github.com/languagetool-org/languagetool,b753260938b41c688b4dd3f3a24067449fdb97e8,languagetool-language-modules/en,1,0,1,ID,Opened
+3,https://github.com/lets-blade/blade,7903085022f53dfb9d64c263185ad1f6f09b4d60,blade-core,1,0,1,ID,Rejected
+3,https://github.com/lets-blade/blade,ecf15b06647a1640036933219c5dabeaf75335f0,blade-kit,1,0,1,ID,Opened
+3,https://github.com/looly/hutool,c1642522bbf5adc70fb57517e46d5a921d9a5703,hutool-core,1,0,1,ID,Accepted
+3,https://github.com/moquette-io/moquette,7797062ad8957507f697acc8f1469861081ba8b5,broker,1,0,1,ID,Accepted
+3,https://github.com/mozilla/gcp-ingestion,a10e390b6c611f1983d0c66e81553403774f6cfb,ingestion-beam,1,0,1,ID,Rejected
+3,https://github.com/neo4j/neo4j,c68156edf24164435ab1ac257ec633134c2887f7,community/lock,1,1,0,OD,Accepted
+3,https://github.com/networknt/light-4j,75ad2d415c51d7b6475f1d270a66949609b125d5,audit,1,0,1,ID,Accepted
+3,https://github.com/networknt/light-4j,75ad2d415c51d7b6475f1d270a66949609b125d5,body,1,0,1,ID,Accepted
+3,https://github.com/networknt/light-4j,75ad2d415c51d7b6475f1d270a66949609b125d5,client,1,0,1,ID,Skipped
+3,https://github.com/networknt/light-4j,fcded1683dcbd41a968e221494778aa6b71e7428,correlation,1,1,0,OD,Accepted
+3,https://github.com/networknt/light-4j,fcded1683dcbd41a968e221494778aa6b71e7428,handler,1,1,0,OD,Accepted
+3,https://github.com/networknt/light-4j,75ad2d415c51d7b6475f1d270a66949609b125d5,header,1,0,1,ID,Accepted
+3,https://github.com/networknt/light-4j,fcded1683dcbd41a968e221494778aa6b71e7428,info,1,1,0,OD,-
+3,https://github.com/networknt/light-4j,254099b6ba23148a6c9befb901450b3582f9ad7d,ldap-util,1,0,1,ID,Skipped
+3,https://github.com/networknt/light-4j,75ad2d415c51d7b6475f1d270a66949609b125d5,registry,1,0,1,ID,Accepted
+3,https://github.com/networknt/light-4j,75ad2d415c51d7b6475f1d270a66949609b125d5,http-url,1,0,1,ID,Accepted
+3,https://github.com/openhab/openhab-core,660102e3f93f928473b66f56f2955090dfa3c30e,bundles/org.openhab.core.config.discovery,1,0,1,ID,Opened
+3,https://github.com/openhab/openhab-core,660102e3f93f928473b66f56f2955090dfa3c30e,bundles/org.openhab.core.storage.json,1,0,1,ID,Accepted
+3,https://github.com/oracle/oci-java-sdk,ed791b79c9b90bc3e210d1b78b34ad3eeaf2a527,bmc-addons/bmc-aispeech-realtime,1,0,1,ID,Opened
+3,https://github.com/orbit/orbit,c4904af2f3745fea93871493edd7e09348e77768,actors/json,1,0,1,ID,Deleted
+3,https://github.com/pac4j/pac4j,d004d027a2dff5b42e2f5424eff6aa557f0fe6a9,pac4j-oauth,1,0,1,ID,Accepted
+3,https://github.com/pholser/junit-quickcheck,9361b6dae25b193782604d071754eb7fc566390a,guava,1,1,0,OD,Accepted
+3,https://github.com/prometheus/client_java,47254cf2c4d18e6184629eb6907aac5991476500,dropwizard,1,0,1,ID,Accepted
+3,https://github.com/protegeproject/webprotege,6cb125137329f53f333a60a98b0bbd46f54c8254,webprotege-server-api,1,0,1,ID,Opened
+3,https://github.com/qos-ch/logback,2946e3b0b34c2a22fd20b97058944aeb67d4361f,logback-core,1,0,1,ID,Opened
+3,https://github.com/quarkusio/quarkus,842924c270d47ee7b350f4dd59df47586854beeb,independent-projects/arc/tests,1,0,1,ID,DeveloperFixed
+3,https://github.com/quarkusio/quarkus,842924c270d47ee7b350f4dd59df47586854beeb,independent-projects/tools/codestarts,1,0,1,ID,Accepted
+3,https://github.com/quarkusio/quarkus,842924c270d47ee7b350f4dd59df47586854beeb,extensions/vertx/deployment,1,0,1,ID,-
+3,https://github.com/quarkusio/quarkus-quickstarts,6d72b2d9850077d2077a7cf7dba99a857a910479,infinispan-client-quickstart,1,0,1,ID,-
+3,https://github.com/raphw/byte-buddy,ba05f0d57456911ebf051c48a3a84a0bfa8f3367,byte-buddy-dep,1,0,1,ID,DeveloperWontFix
+3,https://github.com/raphw/byte-buddy,880027cf43266dcea0feeec5d200188db98baedf,byte-buddy-dep,1,0,1,ID,DeveloperWontFix
+3,https://github.com/rest-assured/rest-assured,bbede9fff77d4f1b751cdada0bdf8fe8d928919a,spring-web-test-client,1,1,0,OD,Accepted
+3,https://github.com/runelite/runelite,e14ec2ab5c0fcd8f63a849526eeed8773d0b9166,runelite-client,1,0,1,ID,Opened
+3,https://github.com/runelite/runelite,3b6e2d134ae5016216aa957b9eff7328b84c3b14,runelite-client,1,0,1,ID,Opened
+3,https://github.com/sakaiproject/sakai,0ccc34260bf2f5dd74054a05db471aebf89f044e,lti/lti-common,1,0,1,ID,Opened
+3,https://github.com/sakaiproject/sakai,0ccc34260bf2f5dd74054a05db471aebf89f044e,lti/tsugi-util,1,0,1,ID,Opened
+3,https://github.com/sakaiproject/sakai,0ccc34260bf2f5dd74054a05db471aebf89f044e,rwiki/rwiki-impl/impl,1,0,1,ID,Opened
+3,https://github.com/seata/seata,d334f85395887193f72fa57daea906a73a2da34e,common,1,0,1,ID,Accepted
+3,https://github.com/seata/seata,d334f85395887193f72fa57daea906a73a2da34e,tm,1,0,1,ID,Deleted
+3,https://github.com/soabase/exhibitor,d345d2d45c75b0694b562b6c346f8594f3a5d166,exhibitor-core,1,0,1,ID,RepoArchived
+3,https://github.com/sonatype/nexus-public,e4622a7c4f6a19ff601f835ab9211bb373f3cf92,components/nexus-base,1,0,1,ID,Opened
+3,https://github.com/spinn3r/noxy,d53a49421f385c70b5abe7e8cda84ff3a7b59c71,noxy-reverse,1,0,1,ID,Opened
+3,https://github.com/spring-cloud/spring-cloud-config,a8f6955495d38f2dfab53c28def4cd6f4a2920d1,spring-cloud-config-client-tls-tests,1,1,0,OD,Irreproducible
+3,https://github.com/spring-cloud/spring-cloud-config,922590e084284fc95566f8dcb277e94733cff2ec,spring-cloud-config-monitor,1,0,1,ID,Accepted
+3,https://github.com/spring-projects/spring-security-oauth,2b58aafecac336e82f20ea43da9b208b0a4a40dd,spring-security-oauth2,1,0,1,ID,RepoArchived
+3,https://github.com/square/dagger,0fa73e0ee07015f191c25b1f3fdf7048321d1610,core,1,0,1,ID,RepoArchived
+3,https://github.com/square/keywhiz,52e77fd9f477637d5ed36ed6d1815b9c96c06166,api,1,0,1,ID,RepoArchived
+3,https://github.com/stargate/stargate,1bb3eae8bce3eac8a54ced8054180932312b16f3,persistence-api,1,0,1,ID,Accepted
+3,https://github.com/swagger-api/swagger-core,0b327a6a466be492aad87dd9bd2ee88e12ad85e7,modules/swagger-java17-support,1,0,1,ID,-
+3,https://github.com/techa03/goodsKill,5c99f0ecbff510f2ee7faae44a65d6f374f6adc7,goodskill-seckill-provider/goodskill-service,1,0,1,ID,DeveloperFixed
+3,https://github.com/thinkaurelius/titan,ee226e52415b8bf43b700afac75fa5b9767993a5,titan-test,1,0,1,ID,Unmaintained
+3,https://github.com/tomsun28/sureness,3bed46f784372764ec0467762ae3a7abd230af7d,core,1,0,1,ID,DeveloperFixed
+3,https://github.com/tools4j/unix4j,367da7d262e682a08577cdf19ebbbdd8a46870fe,unix4j-core/unix4j-command,1,1,0,OD-Vic,Accepted
+3,https://github.com/twitter/GraphJet,dbb652a99b6213ddb5892ae6e3396ef10fa0279b,graphjet-core,1,0,1,ID,Opened
+3,https://github.com/twitter/hraven,e35996b6e2f016bcd18db0bad320be7c93d95208,hraven-core,1,0,1,ID,RepoArchived
+3,https://github.com/undertow-io/undertow,1d9f6ec6bc4816f2c4da828e57c298f874d58331,servlet,1,0,1,ID,Opened
+3,https://github.com/vaadin/flow,faae5c3b9d8b7199e500ec251eb0f24cd2ab4b7c,flow-client,1,0,1,ID,Opened
+3,https://github.com/vaadin/flow,faae5c3b9d8b7199e500ec251eb0f24cd2ab4b7c,flow-html-components,1,0,1,ID,Accepted
+3,https://github.com/vaadin/flow,26aacd3cdf51c7e0a18ae21318d366ce7f91be8a,flow-polymer-template,1,1,0,OD,MovedOrRenamed
+3,https://github.com/vaadin/flow,ad39b063a657ce6728009a7184b1d8f012377194,flow-polymer-template,1,1,0,OD-Vic,-
+3,https://github.com/vaadin/flow,26aacd3cdf51c7e0a18ae21318d366ce7f91be8a,flow-data,1,1,0,OD,Accepted
+3,https://github.com/vojtechhabarta/typescript-generator,107eb2f854692bd1ad466596f62b21fcc3fc735c,typescript-generator-core,1,0,1,ID,Rejected
+3,https://github.com/webx/citrus,adfceaab120661e78ee7608f3335eaf863693a38,service/configuration,1,0,1,ID,Unmaintained
+3,https://github.com/webx/citrus,59f38fddc40cf824f68ce58dbeec4f72a0c34ac1,util,1,0,1,ID,Opened
+3,https://github.com/wildfly/wildfly,b19048b72669fc0e96665b1b125dc1fda21f5993,testsuite/integration/smoke,1,0,1,ID,MovedOrRenamed
+3,https://github.com/wildfly/wildfly,8f6efd88aa07b3b0f3364c1bdb06f4409563a1e0,clustering/el/expressly,1,0,1,ID,-
+3,https://github.com/wildfly/wildfly,914e190167a79c538e0f87ea4385a6626bdecc9a,clustering/infinispan/embedded/spi,1,0,1,ID,Deleted
+3,https://github.com/wildfly/wildfly,ba0b37ab55e0cd6022738dd580f780e6bb76f061,preview/dist,1,0,1,ID,Accepted
+3,https://github.com/wildfly/wildfly,ba0b37ab55e0cd6022738dd580f780e6bb76f053,preview/dist,1,0,1,ID,Accepted
+3,https://github.com/wildfly/wildfly,ba0b37ab55e0cd6022738dd580f780e6bb76f059,preview/dist,1,0,1,ID,Accepted
+3,https://github.com/wildfly/wildfly,ba0b37ab55e0cd6022738dd580f780e6bb76f051,preview/dist,1,0,1,ID,Accepted
+3,https://github.com/wildfly/wildfly,ba0b37ab55e0cd6022738dd580f780e6bb76f052,preview/dist,1,0,1,ID,Accepted
+3,https://github.com/wildfly/wildfly,ba0b37ab55e0cd6022738dd580f780e6bb76f058,preview/dist,1,0,1,ID,Accepted
+3,https://github.com/wildfly/wildfly,ba0b37ab55e0cd6022738dd580f780e6bb76f060,preview/dist,1,0,1,ID,Accepted
+3,https://github.com/wildfly/wildfly,ba0b37ab55e0cd6022738dd580f780e6bb76f062,preview/dist,1,0,1,ID,Accepted
+3,https://github.com/wildfly/wildfly,ba0b37ab55e0cd6022738dd580f780e6bb76f054,preview/dist,1,0,1,ID,Accepted
+3,https://github.com/wildfly/wildfly,ba0b37ab55e0cd6022738dd580f780e6bb76f055,preview/dist,1,0,1,ID,Accepted
+3,https://github.com/wildfly/wildfly,ba0b37ab55e0cd6022738dd580f780e6bb76f056,preview/dist,1,0,1,ID,Accepted
+3,https://github.com/wildfly/wildfly,ba0b37ab55e0cd6022738dd580f780e6bb76f063,preview/dist,1,0,1,ID,Accepted
+3,https://github.com/wildfly/wildfly,ba0b37ab55e0cd6022738dd580f780e6bb76f057,preview/dist,1,0,1,ID,Accepted
+3,https://github.com/wildfly/wildfly-core,624b3aa22e4064b42bd171e8d7753238a1d6616c,cli,1,0,1,ID,Accepted
+3,https://github.com/wildfly/wildfly-core,db72abab9b89203891f5c84e0526028dc5f4e9ef,cli,1,0,1,ID,Accepted
+3,https://github.com/winder/Universal-G-Code-Sender,061670e1be9b4e029f420c494cbd2b74caa052d3,ugs-platform/ugs-platform-ugscore,1,0,1,ID,-
+3,https://github.com/winder/Universal-G-Code-Sender,4426f71c900ddd4a1eeb3957f3275cedc6312534,ugs-platform/ugs-platform-plugin-cloud-storage,1,1,0,OD,-
+3,https://github.com/wso2/carbon-apimgt,a82213e40e7e6aa529341fdd1d1c3de776949e64,components/apimgt/org.wso2.carbon.apimgt.rest.api.authenticator,1,0,1,ID,Skipped
+3,https://github.com/wso2/carbon-apimgt,63521a0c6d469bcea91165e4ca715c183b4751dc,components/apimgt/org.wso2.carbon.apimgt.rest.api.common,1,0,1,ID,Opened
+3,https://github.com/xkcoding/spring-boot-demo,87a142f9604c1a5365b4d24d22c2c11c26a9d5ab,demo-orm-jdbctemplate,1,0,1,ID,Unmaintained
+3,https://github.com/yandex/yoctodb,36a83d1a4107a28358c97cbf6e00500c8b214024,core,1,0,1,ID,Accepted
+3,https://github.com/zhangxd1989/spring-boot-cloud,e3966d7cefa4fa429d13bbc8de7f4dafbae0de35,registry,1,0,1,ID,Unmaintained
+2,https://github.com/Accenture/mercury,6b744cdbb2206feca62848df92b3bf542f890be5,extensions/rest-automation-lib,1,0,0,NOD,DeveloperFixed
+2,https://github.com/Activiti/Activiti,b11f757a48600e53aaf3fcb7a3ba1ece6c463cb4,activiti-core/activiti-spring,1,0,0,TD,DeveloperFixed
+2,https://github.com/OryxProject/oryx,72ae4bb3cc49d92b77e76d8a30fca8b6549b8865,framework/oryx-common,1,0,0,NDOD;NOD,RepoArchived
+2,https://github.com/alibaba/Sentinel,195150bc745927429e9f14f501907310b46d702f,sentinel-core,1,0,0,TZD,Opened
+2,https://github.com/apache/dubbo,737f7a7ea67832d7f17517326fb2491d0a086dd7,dubbo-monitor/dubbo-monitor-default,1,0,0,NIO;UD,Deleted
+2,https://github.com/apache/dubbo,737f7a7ea67832d7f17517326fb2491d0a086dd7,dubbo-remoting/dubbo-remoting-api,1,0,0,UD,MovedOrRenamed
+2,https://github.com/apache/dubbo,737f7a7ea67832d7f17517326fb2491d0a086dd7,dubbo-remoting/dubbo-remoting-netty4,1,0,0,UD,-
+2,https://github.com/apache/dubbo,737f7a7ea67832d7f17517326fb2491d0a086dd7,dubbo-rpc/dubbo-rpc-hessian,1,0,0,UD,Deleted
+2,https://github.com/apache/gora,6c6b06c916b969352a6757ba7025cc78055fa87a,gora-hbase,1,0,0,NOD,Opened
+2,https://github.com/apache/hadoop,4c04a6768c0cb3d5081cfa5d84ffb389d92f5805,hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-jobclient,1,0,0,NOD,-
+2,https://github.com/apache/incubator-uniffle,6fb2a9a63132ab9abbde2f1f9240f9caf2f5d0f0,common,1,0,0,TD,-
+2,https://github.com/apache/logging-log4j2,3de64e8ccdc9a0acfb1caf757c398dd9669b6d84,log4j-core,1,0,0,NOD,Accepted
+2,https://github.com/apache/logging-log4j2,2c83340067b7885a7efaf5b25841a1128cde24be,log4j-core,1,0,0,NOD,Accepted
+2,https://github.com/apache/logging-log4j2,168aea0db0bc98c688d8371c3b58ae395bf14452,log4j-core,1,0,0,NOD,Accepted
+2,https://github.com/apache/logging-log4j2,d68a62b3b46707292ffcebec728da1b622f92a6b,log4j-core,1,0,0,NOD,Opened
+2,https://github.com/apache/nifi-registry,f1e5aef7bef7d4f5ec89b2347e6a6c7e78aa589c,nifi-registry-core/nifi-registry-web-api,1,0,0,UD,RepoArchived
+2,https://github.com/apache/unomi,dfb021dd97180e435ff70d9c5e886bf074bd1a32,persistence-elasticsearch,1,0,0,NOD,-
+2,https://github.com/apereo/java-cas-client,574b74fa64e4c95bda00ff41d06d358684a0b2e6,cas-client-core,1,0,0,NOD;UD,-
+2,https://github.com/baidu/Jprotobuf-rpc-socket,4de9d3da1309d4366da36857b86f50a0c212ef71,jprotobuf-rpc-core,1,0,0,NOD,-
+2,https://github.com/ctco/cukes,b483e1a8f261b80a66291a42fc455256b0b5059c,cukes-core,1,0,0,NOD,Unmaintained
+2,https://github.com/ctco/cukes,b483e1a8f261b80a66291a42fc455256b0b5059c,cukes-oauth-sample,1,0,0,NOD,Unmaintained
+2,https://github.com/ctco/cukes,b483e1a8f261b80a66291a42fc455256b0b5059c,cukes-rabbitmq-sample,1,0,0,NOD,Unmaintained
+2,https://github.com/ctco/cukes,b483e1a8f261b80a66291a42fc455256b0b5059c,cukes-samples/cukes-rest-sample,1,0,0,NOD,Unmaintained
+2,https://github.com/ctco/cukes,b483e1a8f261b80a66291a42fc455256b0b5059c,cukes-samples/cukes-plugin-sample,1,0,0,NOD,Unmaintained
+2,https://github.com/doanduyhai/Achilles,e3099bdce342910951c4862c78751fd81ed4552e,achilles-embedded,1,0,0,NOD;UD,Unmaintained
+2,https://github.com/eclipse-ee4j/tyrus,d86e0cb0a4f26ba89daf8668137c156e57fea565,tests/servlet/autobahn-server,1,0,0,UD,-
+2,https://github.com/elasticjob/elastic-job-lite,a7042cf4872d784d619e4560cdfa0f92b0311965,elasticjob-infra/elasticjob-infra-common,1,0,0,TD,-
+2,https://github.com/espertechinc/esper,590fa9c9eb854f1420b9d337b802aca19f963cc0,examples/rfidassetzone,1,0,0,NDOD;NOD,-
+2,https://github.com/feroult/yawp,b3bcf9c958d51b3b3f8fdd0ccc26923d5a531da1,yawp-testing/yawp-testing-appengine,1,0,0,NDOD;TD,Unmaintained
+2,https://github.com/fromage/redpipe,0aff891d6befdf0dcc2bdbfda22262cdf82ac66f,redpipe-engine,1,0,0,NOD,RepoArchived
+2,https://github.com/google/jimfs,ced6093fe69a31e37ba8bbf63858b50c7164f4a4,jimfs,1,0,0,UD,-
+2,https://github.com/knightliao/disconf,2ac5c8275ad8cdc101522ad01a8ba87e53b73b68,disconf-client,1,0,0,NOD,Unmaintained
+2,https://github.com/lcw2004/one,7b9b249ab1c09f39be885f95a27a756288be4548,one-notify,1,0,0,NOD,Unmaintained
+2,https://github.com/looly/hutool,91565d052d2771dd26547e79c619ee8c31497e8f,hutool-core,1,0,0,ID;NIO,Skipped
+2,https://github.com/looly/hutool,91565d052d2771dd26547e79c619ee8c31497e8f,hutool-cron,1,0,0,NDOD;NOD,-
+2,https://github.com/marcosbarbero/spring-cloud-zuul-ratelimit,ae9603f45af05c4a0f940d81b313f273f62f3464,spring-cloud-zuul-ratelimit-tests/bucket4j-infinispan,1,0,0,NOD,Unmaintained
+2,https://github.com/nlighten/tomcat_exporter,69b30031ed7099a83cb575d429bf7fddb77f0c0a,client,1,0,0,NOD,DeveloperFixed
+2,https://github.com/nlighten/tomcat_exporter,bc6a2d257a94b3603249e14b8bdb06e0e555f8be,client,1,0,0,TD,-
+2,https://github.com/odrotbohm/sos,d4ed68a143b637c7e2d523edad1b105bf6c2d996,20-modulith,1,0,0,NOD,Unmaintained
+2,https://github.com/pippo-java/pippo,ae898b6c478af7365b04c2f5bf9331abf496b166,pippo-session-parent/pippo-session-jedis,1,0,0,NOD,-
+2,https://github.com/ppiastucki/recast4j,01d478e190b731d2fe861e3b969b4c8dd04f0ede,detourtilecache,1,0,0,NOD,MovedToGradle
+2,https://github.com/questdb/questdb,802e00fbbab89b05057fe1850e4579aad106448c,core/src/test/java/io/questdb/test/griffin/engine/functions/regex,1,0,0,NOD,Accepted
+2,https://github.com/ripe-ncc/whois,79e90f41d7eeee42f2c3ad299bfccc4e8005ce8c,whois-endtoend,1,0,0,UD,-
+2,https://github.com/spotify/dbeam,70837e8f610c16c012be424341857236d4242785,dbeam-core,1,0,0,UD,-
+2,https://github.com/spotify/helios,aebf68dcbdf9d3850478e8bddd2c478fa5fa282a,helios-services,1,0,0,NOD,RepoArchived
+2,https://github.com/spotify/helios,aebf68dcbdf9d3850478e8bddd2c478fa5fa282a,helios-testing,1,0,0,NOD;OD-Vic,RepoArchived
+2,https://github.com/spring-cloud/spring-cloud-aws,64ec6d15c67e98c3372ab88c9e5b31d5a89a68f8,spring-cloud-aws-context,1,0,0,NOD,RepoArchived
+2,https://github.com/square/okhttp,129c937fb33328e1f4ee8815a94e89676f242c2c,okhttp-tests,1,0,0,TD,-
+2,https://github.com/square/otto,2a67589abd91879cf23a8c96542b59349485ec3d,otto,1,0,0,UD,RepoArchived
+2,https://github.com/takari/ollie,60c0ec5007779863a82c01eeba1a81f6864bb083,ollie,1,0,0,NOD,-
+2,https://github.com/visallo/vertexium,bc52f7cd33f6e559b3f144db77e160bddac0e003,core,1,0,0,NOD,Unmaintained
+2,https://github.com/wikimedia/search-highlighter,8ba6fef7f835a309a1290db55230b2a2b0eaa59a,experimental-highlighter-core,1,0,0,UD,-
+2,https://github.com/wildfly/wildfly,b19048b72669fc0e96665b1b125dc1fda21f5993,security/subsystem,1,0,0,UD,-
+2,https://github.com/wildfly/wildfly,5f49bab85244029745184a34ed7ae8308f1cd095,testsuite/integration/smoke,1,0,0,NIO,Accepted
+2,https://github.com/wildfly/wildfly-maven-plugin,0dda0062d660813c469040f60999aac76660e1f4,tests/standalone-tests,1,0,0,UD,-
+2,https://github.com/wildfly/wildfly-maven-plugin,0dda0062d660813c469040f60999aac76660e1f4,tests/domain-tests,1,0,0,UD,-
+2,https://github.com/wro4j/wro4j,7e3801e19fb43183c59607663ebd53c27a95cf77,wro4j-core,1,0,0,TD,-
+2,https://github.com/wso2/balana,9088b3a079ac227a10d07707f571cc5b205dca98,modules/balana-core,1,0,0,UD,-
+2,https://github.com/zalando/riptide,8277e11fc069d8e24df0d233ef2577cc75659b75,riptide-backup,1,0,0,NOD,-
