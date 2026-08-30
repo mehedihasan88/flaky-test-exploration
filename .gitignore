@@ -7,3 +7,7 @@ __pycache__/
 # Temporary/raw outputs
 results/raw/*
 !results/raw/.gitkeep
+
+# Preserve reproducible iDFlakies experiment evidence
+!results/raw/idflakies/
+!results/raw/idflakies/**
