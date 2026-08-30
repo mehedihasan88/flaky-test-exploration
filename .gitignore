@@ -11,3 +11,7 @@ results/raw/*
 # Preserve reproducible iDFlakies experiment evidence
 !results/raw/idflakies/
 !results/raw/idflakies/**
+
+# Preserve reproducible NonDex experiment evidence
+!results/raw/nondex/
+!results/raw/nondex/**
